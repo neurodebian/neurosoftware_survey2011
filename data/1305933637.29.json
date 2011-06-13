@@ -1,0 +1,63 @@
+{
+  "pers_r6": 0, 
+  "pers_r4": 3, 
+  "man_hardware": "cluster", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 3, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "man_r2": 3, 
+  "pers_r8": 1, 
+  "pers_r5": 1, 
+  "virt_r3": 3, 
+  "man_os": "ubuntu", 
+  "sw_other": "othersw", 
+  "remote_addr": "137.110.x.x", 
+  "sw_img": [
+    "freesurfer"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "fortran", 
+    "matlab", 
+    "octave", 
+    "r", 
+    "ruby"
+  ], 
+  "virt_prod": [
+    "vmware"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "always", 
+  "virt_r1": 1, 
+  "bg_datamod": [
+    "meeg", 
+    "simulation"
+  ], 
+  "bg_employer": "research_pub", 
+  "man_time": "always", 
+  "pers_os": "none", 
+  "sw_electro": [
+    "eeglab", 
+    "fieldtrip", 
+    "datariver"
+  ], 
+  "timestamp": 1305933637.2938321, 
+  "software_resource": [
+    "vendor"
+  ], 
+  "man_r1": 3, 
+  "pers_hardware": "cluster", 
+  "bg_developer": "yes", 
+  "sw_other_name": "BCI:  BCILAB;  Exp control: DataRiver", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "we write it", 
+  "virt_host_os": "ubuntu", 
+  "virt_guest_os": "dontknow", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_7) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.57 Safari/534.24", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

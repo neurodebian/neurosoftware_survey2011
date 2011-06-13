@@ -1,0 +1,57 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "laptop", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "man_r5": 2, 
+  "man_r4": 1, 
+  "man_r3": 2, 
+  "man_r2": 2, 
+  "pers_r8": 3, 
+  "pers_r5": 0, 
+  "virt_r3": 2, 
+  "man_os": "macosx", 
+  "remote_addr": "204.52.x.x", 
+  "sw_general": [
+    "python", 
+    "spss"
+  ], 
+  "virt_prod": [
+    "parallels"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "most", 
+  "virt_r1": 2, 
+  "bg_datamod": [
+    "behav"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 2, 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305811638.642175, 
+  "software_resource": [
+    "retailer"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "eprime"
+  ], 
+  "pers_hardware": "laptop", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "macosx", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

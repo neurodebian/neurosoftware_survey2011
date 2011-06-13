@@ -1,0 +1,71 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 1, 
+  "man_hardware": "cluster", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r4": 1, 
+  "man_r3": 2, 
+  "man_r2": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "man_os": "ubuntu", 
+  "remote_addr": "18.93.x.x", 
+  "sw_img": [
+    "afni", 
+    "fsl", 
+    "freesurfer", 
+    "nipy", 
+    "pymvpa", 
+    "spm"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "perl", 
+    "python", 
+    "r", 
+    "shell"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "little", 
+  "pers_hardware": "desktop", 
+  "bg_employer": "edu_priv", 
+  "man_time": "most", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "fedora", 
+  "timestamp": 1305738790.4260099, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "cran", 
+    "nitrc", 
+    "sourceforge"
+  ], 
+  "man_r1": 3, 
+  "sw_psychphys": [
+    "eprime", 
+    "psychopy"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "simulation"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.15) Gecko/20101027 Fedora/3.5.15-1.fc12 Firefox/3.5.15", 
+  "sw_dc": [
+    "ipython"
+  ], 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

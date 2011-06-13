@@ -1,0 +1,41 @@
+{
+  "man_hardware": "laptop", 
+  "man_os": "none", 
+  "sw_electro": [
+    "biosig", 
+    "eeglab", 
+    "loreta"
+  ], 
+  "remote_addr": "109.237.x.x", 
+  "virt_prod": [
+    "vmware", 
+    "parallels", 
+    "virtualpc"
+  ], 
+  "sw_bci": [
+    "openvibe"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "little", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "research_priv", 
+  "sw_other_name": "", 
+  "pers_maint_time": 40.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305815766.7604511, 
+  "bg_datamod": [
+    "meeg", 
+    "simulation"
+  ], 
+  "bg_developer": "no", 
+  "man_time": "little", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2)", 
+  "bg_country": "Iran, Islamic Republic of", 
+  "bg_datamod_other": ""
+}

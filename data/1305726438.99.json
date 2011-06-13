@@ -1,0 +1,59 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 1, 
+  "pers_r4": 3, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 3, 
+  "pers_r8": 3, 
+  "pers_r5": 2, 
+  "virt_r3": 2, 
+  "man_os": "none", 
+  "sw_electro": [
+    "besa", 
+    "brainvisionanalyzer"
+  ], 
+  "remote_addr": "149.203.x.x", 
+  "sw_img": [
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab"
+  ], 
+  "virt_prod": [
+    "vmware"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "always", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 1, 
+  "bg_employer": "edu_pub", 
+  "man_time": "always", 
+  "pers_maint_time": 10.0, 
+  "pers_os": "otherlinux", 
+  "timestamp": 1305726438.9906681, 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral", 
+    "sourceforge"
+  ], 
+  "pers_hardware": "workstation", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 5.2; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

@@ -1,0 +1,59 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 1, 
+  "pers_r4": 2, 
+  "man_hardware": "workstation", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "man_r5": 1, 
+  "man_r4": 2, 
+  "man_r3": 1, 
+  "man_r2": 2, 
+  "pers_r8": 1, 
+  "pers_r5": 3, 
+  "man_os": "mandriva", 
+  "sw_electro": [
+    "brainstorm"
+  ], 
+  "remote_addr": "139.124.x.x", 
+  "sw_img": [
+    "brainvisa", 
+    "freesurfer", 
+    "loni", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "python", 
+    "shell"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "always", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "mandriva", 
+  "timestamp": 1305791787.08866, 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral"
+  ], 
+  "man_r1": 2, 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.3) Gecko/20090914 Mandriva Linux/1.9.1.3-2mdv2010.0 (2010.0) Firefox/3.5.3", 
+  "bg_country": "France", 
+  "bg_datamod_other": ""
+}

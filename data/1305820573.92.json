@@ -1,0 +1,66 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 3, 
+  "pers_r4": 1, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 2, 
+  "pers_r1": 2, 
+  "pers_r8": 3, 
+  "pers_r5": 2, 
+  "virt_r3": 2, 
+  "man_os": "none", 
+  "sw_other": "othersw", 
+  "remote_addr": "128.255.x.x", 
+  "sw_general": [
+    "matlab", 
+    "perl", 
+    "spss", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "xen"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "virt_r1": 0, 
+  "bg_datamod": [
+    "behav", 
+    "meeg", 
+    "simulation"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 2, 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "ubuntu", 
+  "sw_electro": [
+    "eeglab", 
+    "erplab"
+  ], 
+  "timestamp": 1305820573.9202759, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "cpan", 
+    "cran", 
+    "matlabcentral", 
+    "otherres"
+  ], 
+  "sw_psychphys": [
+    "psychtoolbox"
+  ], 
+  "pers_hardware": "cluster", 
+  "bg_developer": "no", 
+  "sw_other_name": "ERPLAB", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "University provided", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.557.0 Safari/534.10", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

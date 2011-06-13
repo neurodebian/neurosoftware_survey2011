@@ -1,0 +1,67 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 1, 
+  "pers_r4": 3, 
+  "man_hardware": "laptop", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "man_r5": 1, 
+  "man_r4": 2, 
+  "man_r3": 1, 
+  "man_r2": 2, 
+  "pers_r8": 1, 
+  "pers_r5": 1, 
+  "virt_r3": 0, 
+  "man_os": "macosx", 
+  "sw_other": "othersw", 
+  "remote_addr": "129.97.x.x", 
+  "sw_general": [
+    "mathematica", 
+    "matlab", 
+    "python", 
+    "java"
+  ], 
+  "virt_prod": [
+    "vmware"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "most", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "ephys", 
+    "simulation"
+  ], 
+  "virt_r2": 0, 
+  "virt_r4": 0, 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305811883.0979919, 
+  "sw_neusys": [
+    "nengo"
+  ], 
+  "software_resource": [
+    "vendor", 
+    "retailer", 
+    "fink", 
+    "matlabcentral", 
+    "sourceforge"
+  ], 
+  "man_r1": 3, 
+  "pers_hardware": "laptop", 
+  "bg_developer": "yes", 
+  "sw_other_name": "java", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "macosx", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_7) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24", 
+  "bg_country": "Canada", 
+  "bg_datamod_other": ""
+}

@@ -1,0 +1,71 @@
+{
+  "man_hardware": "workstation", 
+  "pers_r3": 0, 
+  "man_r5": 3, 
+  "man_r4": 3, 
+  "man_r3": 2, 
+  "man_r2": 3, 
+  "man_r1": 3, 
+  "man_os": "ubuntu", 
+  "remote_addr": "141.106.x.x", 
+  "sw_img": [
+    "afni", 
+    "brainvisa", 
+    "caret", 
+    "fsl", 
+    "freesurfer", 
+    "mni", 
+    "pymvpa"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "perl", 
+    "python", 
+    "r", 
+    "ruby", 
+    "spss", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualbox", 
+    "parallels", 
+    "kvm", 
+    "othervm"
+  ], 
+  "bg_position": "none", 
+  "timestamp": 1305726050.126178, 
+  "pers_hardware": "workstation", 
+  "bg_employer": "research_priv", 
+  "man_time": "always", 
+  "pers_os": "ubuntu", 
+  "pers_time": "notime", 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "fink", 
+    "macports", 
+    "neurodebian", 
+    "otherres"
+  ], 
+  "sw_psychphys": [
+    "eprime", 
+    "presentation", 
+    "psychopy"
+  ], 
+  "bg_datamod": [
+    "mri", 
+    "meeg"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "Deployed internally", 
+  "virt_host_os": "debian", 
+  "virt_guest_os": "ubuntu", 
+  "virt_other": "openvz", 
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

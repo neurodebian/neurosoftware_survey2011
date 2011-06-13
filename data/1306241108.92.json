@@ -1,0 +1,54 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 3, 
+  "pers_r4": 3, 
+  "man_hardware": "desktop", 
+  "pers_r2": 3, 
+  "pers_r3": 3, 
+  "pers_r1": 3, 
+  "man_r5": 3, 
+  "man_r4": 3, 
+  "man_r3": 3, 
+  "man_r2": 3, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "man_os": "none", 
+  "remote_addr": "147.143.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "brainvoyager", 
+    "fsl", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "spss"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "most", 
+  "pers_hardware": "desktop", 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1306241108.9156201, 
+  "software_resource": [
+    "sourceforge"
+  ], 
+  "man_r1": 3, 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:2.0) Gecko/20100101 Firefox/4.0", 
+  "bg_country": "United Kingdom", 
+  "bg_datamod_other": ""
+}

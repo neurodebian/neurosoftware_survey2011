@@ -1,0 +1,61 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 0, 
+  "man_hardware": "cluster", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 0, 
+  "man_r5": 0, 
+  "man_r4": 3, 
+  "man_r3": 1, 
+  "man_r2": 3, 
+  "pers_r8": 3, 
+  "pers_r5": 2, 
+  "man_os": "ubuntu", 
+  "sw_electro": [
+    "openelectrophy"
+  ], 
+  "remote_addr": "138.246.x.x", 
+  "sw_general": [
+    "cpp", 
+    "mathematica", 
+    "python", 
+    "r"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "always", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 5.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305888580.6537521, 
+  "sw_neusys": [
+    "brian", 
+    "nest"
+  ], 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "cran", 
+    "pypi", 
+    "sourceforge"
+  ], 
+  "man_r1": 2, 
+  "bg_datamod": [
+    "ephys", 
+    "simulation"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.04 Chromium/10.0.648.205 Chrome/10.0.648.205 Safari/534.16", 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

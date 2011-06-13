@@ -1,0 +1,54 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "desktop", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "man_r5": 2, 
+  "man_r4": 1, 
+  "man_r3": 2, 
+  "man_r2": 0, 
+  "pers_r8": 2, 
+  "pers_r5": 2, 
+  "man_os": "ubuntu", 
+  "sw_electro": [
+    "besa"
+  ], 
+  "remote_addr": "134.76.x.x", 
+  "sw_img": [
+    "fsl", 
+    "spm"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "r"
+  ], 
+  "bg_position": "none", 
+  "pers_time": "most", 
+  "pers_hardware": "desktop", 
+  "bg_employer": "edu_priv", 
+  "man_time": "little", 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305725580.0802691, 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "presentation"
+  ], 
+  "bg_datamod": [
+    "mri", 
+    "ephys"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.17) Gecko/20110422 Ubuntu/10.10 (maverick) Firefox/3.6.17", 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

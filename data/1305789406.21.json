@@ -1,0 +1,65 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 1, 
+  "pers_r4": 2, 
+  "man_hardware": "desktop", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "man_r5": 2, 
+  "man_r4": 1, 
+  "man_r3": 2, 
+  "man_r2": 2, 
+  "pers_r8": 3, 
+  "pers_r5": 1, 
+  "virt_r3": 2, 
+  "man_os": "windows", 
+  "sw_electro": [
+    "eeglab"
+  ], 
+  "remote_addr": "93.141.x.x", 
+  "sw_img": [
+    "mvpa"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "mathematica", 
+    "matlab", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "vmware"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "little", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "meeg", 
+    "simulation"
+  ], 
+  "virt_r2": 3, 
+  "virt_r4": 1, 
+  "bg_employer": "company", 
+  "man_time": "most", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305789406.2141471, 
+  "software_resource": [
+    "vendor", 
+    "freebsdports", 
+    "sourceforge"
+  ], 
+  "man_r1": 3, 
+  "pers_hardware": "desktop", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "rhel", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24", 
+  "bg_country": "Croatia", 
+  "bg_datamod_other": ""
+}

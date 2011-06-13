@@ -1,0 +1,45 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 2, 
+  "man_os": "none", 
+  "sw_electro": [
+    "fieldtrip"
+  ], 
+  "remote_addr": "169.229.x.x", 
+  "sw_general": [
+    "matlab"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "always", 
+  "pers_hardware": "cluster", 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 4.0, 
+  "pers_os": "fedora", 
+  "timestamp": 1305739683.965102, 
+  "software_resource": [
+    "matlabcentral"
+  ], 
+  "bg_datamod": [
+    "meeg", 
+    "ephys"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "Netherlands", 
+  "bg_datamod_other": ""
+}

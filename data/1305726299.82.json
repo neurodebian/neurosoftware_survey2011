@@ -1,0 +1,67 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "workstation", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 3, 
+  "man_r5": 2, 
+  "man_r4": 1, 
+  "man_r3": 0, 
+  "man_r2": 0, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "man_os": "mandriva", 
+  "sw_electro": [
+    "brainstorm", 
+    "elekta", 
+    "fieldtrip", 
+    "mne", 
+    "openmeeg"
+  ], 
+  "remote_addr": "132.166.x.x", 
+  "sw_img": [
+    "brainvisa", 
+    "freesurfer"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "python", 
+    "r", 
+    "shell"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "always", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 4.0, 
+  "pers_os": "mandriva", 
+  "timestamp": 1305726299.821872, 
+  "software_resource": [
+    "matlabcentral"
+  ], 
+  "man_r1": 1, 
+  "sw_psychphys": [
+    "eprime", 
+    "psychtoolbox"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "meeg"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.60 Safari/534.24", 
+  "bg_country": "France", 
+  "bg_datamod_other": ""
+}

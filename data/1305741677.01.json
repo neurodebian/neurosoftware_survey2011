@@ -1,0 +1,53 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 2, 
+  "pers_r4": 0, 
+  "man_hardware": "desktop", 
+  "pers_r2": 2, 
+  "pers_r3": 2, 
+  "pers_r1": 0, 
+  "man_r5": 0, 
+  "man_r4": 0, 
+  "man_r3": 0, 
+  "man_r2": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "man_os": "rhel", 
+  "remote_addr": "155.100.x.x", 
+  "sw_img": [
+    "connectomviewer", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "matlab"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "most", 
+  "pers_hardware": "desktop", 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 0.5, 
+  "pers_os": "macosx", 
+  "timestamp": 1305741677.0119669, 
+  "software_resource": [
+    "vendor", 
+    "macports", 
+    "matlabcentral"
+  ], 
+  "man_r1": 1, 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

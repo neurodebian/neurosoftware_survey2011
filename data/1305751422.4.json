@@ -1,0 +1,71 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 2, 
+  "pers_r4": 1, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 0, 
+  "sw_neusys": [
+    "brian", 
+    "genesis", 
+    "neuron"
+  ], 
+  "pers_r8": 2, 
+  "pers_r5": 2, 
+  "sw_rt": [
+    "rtai"
+  ], 
+  "virt_r3": 2, 
+  "sw_acq": [
+    "comedi"
+  ], 
+  "man_os": "none", 
+  "remote_addr": "143.107.x.x", 
+  "sw_general": [
+    "cpp", 
+    "octave", 
+    "perl", 
+    "python", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "qemu"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "always", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "ephys", 
+    "simulation"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 0, 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 6.0, 
+  "pers_os": "debian", 
+  "timestamp": 1305751422.4003661, 
+  "software_resource": [
+    "pypi", 
+    "pythonbundles", 
+    "sourceforge"
+  ], 
+  "pers_hardware": "cluster", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "debian", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "sw_dc": [
+    "torque", 
+    "mpi", 
+    "ipython"
+  ], 
+  "bg_country": "Brazil", 
+  "bg_datamod_other": ""
+}

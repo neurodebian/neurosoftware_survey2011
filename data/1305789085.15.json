@@ -1,0 +1,74 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "workstation", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "man_r5": 2, 
+  "man_r4": 2, 
+  "man_r3": 1, 
+  "man_r2": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 2, 
+  "man_os": "ubuntu", 
+  "sw_electro": [
+    "eeglab", 
+    "fieldtrip"
+  ], 
+  "remote_addr": "78.48.x.x", 
+  "sw_img": [
+    "freesurfer", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "python", 
+    "shell"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "little", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "research_pub", 
+  "man_time": "most", 
+  "pers_maint_time": 4.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305789085.1496029, 
+  "sw_neusys": [
+    "topographica"
+  ], 
+  "software_resource": [
+    "os", 
+    "macports", 
+    "matlabcentral", 
+    "pypi", 
+    "pythonbundles", 
+    "sourceforge"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "psychopy"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "meeg", 
+    "simulation"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (iPad; U; CPU OS 4_3_3 like Mac OS X; de-de) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5", 
+  "sw_dc": [
+    "ipython"
+  ], 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

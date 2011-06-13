@@ -1,0 +1,45 @@
+{
+  "man_hardware": "workstation", 
+  "man_r5": 3, 
+  "man_r2": 2, 
+  "man_r1": 3, 
+  "man_os": "centos", 
+  "remote_addr": "166.122.x.x", 
+  "sw_img": [
+    "afni", 
+    "fsl", 
+    "freesurfer", 
+    "mricron"
+  ], 
+  "sw_general": [
+    "spss", 
+    "shell"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "always", 
+  "bg_datamod": [
+    "behav", 
+    "genetic", 
+    "mri"
+  ], 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 5.0, 
+  "pers_os": "centos", 
+  "timestamp": 1305751009.3911569, 
+  "software_resource": [
+    "vendor"
+  ], 
+  "pers_hardware": "workstation", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.5) Gecko/2008120908 Red Hat/3.0.5-1.el5_2 Firefox/3.0.5", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

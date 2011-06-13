@@ -1,0 +1,65 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 2, 
+  "pers_r4": 1, 
+  "man_hardware": "cluster", 
+  "pers_r2": 1, 
+  "pers_r3": 0, 
+  "pers_r1": 1, 
+  "man_r5": 1, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "man_r2": 0, 
+  "pers_r8": 2, 
+  "pers_r5": 1, 
+  "virt_r3": 0, 
+  "man_os": "debian", 
+  "sw_other": "othersw", 
+  "remote_addr": "134.157.x.x", 
+  "sw_general": [
+    "cpp", 
+    "python", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "always", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "behav", 
+    "ephys", 
+    "simulation"
+  ], 
+  "virt_r2": 0, 
+  "virt_r4": 0, 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 4.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305790155.068435, 
+  "sw_neusys": [
+    "neuron", 
+    "xpp"
+  ], 
+  "software_resource": [
+    "vendor"
+  ], 
+  "man_r1": 1, 
+  "pers_hardware": "laptop", 
+  "bg_developer": "no", 
+  "sw_other_name": "xppaut", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "ubuntu", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.60 Safari/534.30", 
+  "sw_dc": [
+    "ipython"
+  ], 
+  "bg_country": "France", 
+  "bg_datamod_other": ""
+}

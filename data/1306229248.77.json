@@ -1,0 +1,59 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "cluster", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r4": 3, 
+  "man_r3": 2, 
+  "man_r2": 3, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "man_os": "centos", 
+  "sw_other": "othersw", 
+  "remote_addr": "193.62.x.x", 
+  "sw_general": [
+    "python"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "always", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 6.0, 
+  "pers_os": "none", 
+  "timestamp": 1306229248.772789, 
+  "sw_neusys": [
+    "neuroml", 
+    "neuron"
+  ], 
+  "software_resource": [
+    "vendor", 
+    "pypi", 
+    "pythonbundles", 
+    "sourceforge", 
+    "otherres"
+  ], 
+  "man_r1": 3, 
+  "bg_datamod": [
+    "simulation"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "Mayavi, Neuronvisio", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "Github", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "sw_dc": [
+    "mpi", 
+    "ipython"
+  ], 
+  "bg_country": "United Kingdom", 
+  "bg_datamod_other": ""
+}

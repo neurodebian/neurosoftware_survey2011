@@ -1,0 +1,72 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "grid", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r4": 3, 
+  "man_r3": 3, 
+  "man_r2": 3, 
+  "pers_r8": 3, 
+  "pers_r5": 2, 
+  "virt_r3": 3, 
+  "man_os": "centos", 
+  "remote_addr": "68.52.x.x", 
+  "sw_img": [
+    "freesurfer", 
+    "imagej", 
+    "mipav", 
+    "mricron"
+  ], 
+  "sw_general": [
+    "java", 
+    "mathematica", 
+    "matlab", 
+    "r", 
+    "spss"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "most", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "mri", 
+    "pet"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 3, 
+  "bg_employer": "edu_priv", 
+  "man_time": "little", 
+  "pers_maint_time": 4.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305862569.165781, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "neurodebian", 
+    "nitrc", 
+    "otherres"
+  ], 
+  "man_r1": 2, 
+  "pers_hardware": "workstation", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "University license center", 
+  "virt_host_os": "ubuntu", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24", 
+  "sw_dc": [
+    "sge", 
+    "torque"
+  ], 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

@@ -1,0 +1,53 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "desktop", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 1, 
+  "man_r5": 2, 
+  "man_r4": 1, 
+  "man_r3": 1, 
+  "man_r2": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 2, 
+  "man_os": "scilinux", 
+  "remote_addr": "129.215.x.x", 
+  "sw_general": [
+    "matlab", 
+    "python"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305712414.2407441, 
+  "software_resource": [
+    "vendor", 
+    "retailer", 
+    "os", 
+    "matlabcentral"
+  ], 
+  "man_r1": 2, 
+  "bg_datamod": [
+    "ephys"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "sw_dc": [
+    "ipython"
+  ], 
+  "bg_country": "United Kingdom", 
+  "bg_datamod_other": ""
+}

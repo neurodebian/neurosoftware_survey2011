@@ -1,0 +1,83 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "laptop", 
+  "pers_r2": 1, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "man_r5": 1, 
+  "man_r4": 1, 
+  "man_r3": 1, 
+  "man_r2": 1, 
+  "pers_r8": 2, 
+  "pers_r5": 1, 
+  "sw_rt": [
+    "xenomai"
+  ], 
+  "virt_r3": 2, 
+  "sw_acq": [
+    "epics"
+  ], 
+  "man_os": "macosx", 
+  "sw_electro": [
+    "brainstorm"
+  ], 
+  "remote_addr": "142.157.x.x", 
+  "sw_img": [
+    "bioimgsuite"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "python"
+  ], 
+  "virt_prod": [
+    "virtualpc"
+  ], 
+  "sw_bci": [
+    "openvibe"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "little", 
+  "virt_r1": 2, 
+  "bg_datamod": [
+    "behav", 
+    "genetic"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 2, 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 8.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305742599.0925341, 
+  "sw_neusys": [
+    "neuroml"
+  ], 
+  "software_resource": [
+    "matlabcentral", 
+    "neurodebian"
+  ], 
+  "man_r1": 1, 
+  "sw_psychphys": [
+    "eprime"
+  ], 
+  "pers_hardware": "desktop", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "sw_datamanage": [
+    "hid"
+  ], 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "macosx", 
+  "virt_guest_os": "macosx", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_6) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24", 
+  "sw_dc": [
+    "globus"
+  ], 
+  "bg_country": "Canada", 
+  "bg_datamod_other": ""
+}

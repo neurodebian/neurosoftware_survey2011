@@ -1,0 +1,62 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 1, 
+  "pers_r4": 0, 
+  "man_hardware": "workstation", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "man_r5": 3, 
+  "man_r4": 2, 
+  "man_r3": 1, 
+  "man_r2": 2, 
+  "pers_r8": 0, 
+  "pers_r5": 1, 
+  "man_os": "windows", 
+  "remote_addr": "128.192.x.x", 
+  "sw_img": [
+    "afni", 
+    "brainmap", 
+    "brainvoyager", 
+    "fsl", 
+    "mango", 
+    "mricron"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "spss", 
+    "shell"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "little", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "edu_pub", 
+  "man_time": "always", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305725699.472827, 
+  "software_resource": [
+    "vendor", 
+    "retailer", 
+    "os"
+  ], 
+  "man_r1": 3, 
+  "sw_psychphys": [
+    "presentation"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "mri"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

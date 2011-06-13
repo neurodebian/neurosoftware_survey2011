@@ -1,0 +1,66 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 1, 
+  "pers_r4": 1, 
+  "man_hardware": "desktop", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "man_r5": 1, 
+  "man_r4": 2, 
+  "man_r3": 0, 
+  "man_r2": 1, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "virt_r3": 2, 
+  "man_os": "mandriva", 
+  "sw_other": "othersw", 
+  "remote_addr": "80.233.x.x", 
+  "sw_general": [
+    "matlab", 
+    "octave", 
+    "r", 
+    "statistica"
+  ], 
+  "virt_prod": [
+    "vmware", 
+    "virtualbox"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "little", 
+  "virt_r1": 2, 
+  "bg_datamod": [
+    "behav", 
+    "meeg", 
+    "ephys"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 1, 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 3.0, 
+  "pers_os": "mandriva", 
+  "sw_electro": [
+    "eeglab"
+  ], 
+  "timestamp": 1305787604.117516, 
+  "software_resource": [
+    "cpan", 
+    "cran", 
+    "matlabcentral", 
+    "sourceforge"
+  ], 
+  "man_r1": 1, 
+  "pers_hardware": "desktop", 
+  "bg_developer": "no", 
+  "sw_other_name": "statistica, observer, sc/zoom", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "mandriva", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "Latvia", 
+  "bg_datamod_other": ""
+}

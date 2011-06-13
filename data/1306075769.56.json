@@ -1,0 +1,79 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 0, 
+  "pers_r4": 2, 
+  "man_hardware": "desktop", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "man_r5": 1, 
+  "man_r4": 1, 
+  "man_r3": 1, 
+  "man_r2": 1, 
+  "pers_r8": 1, 
+  "pers_r5": 3, 
+  "virt_r3": 2, 
+  "man_os": "windows", 
+  "sw_electro": [
+    "besa", 
+    "biosig", 
+    "brainvisionanalyzer", 
+    "eeglab", 
+    "loreta", 
+    "neuroscan"
+  ], 
+  "remote_addr": "202.112.x.x", 
+  "sw_img": [
+    "brainvisa", 
+    "brainvoyager", 
+    "fsl", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "python"
+  ], 
+  "sw_bci": [
+    "bci2000"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "little", 
+  "virt_r1": 1, 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "meeg"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 2, 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "windows", 
+  "timestamp": 1306075769.5639229, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "nitrc", 
+    "sourceforge"
+  ], 
+  "man_r1": 1, 
+  "sw_psychphys": [
+    "eprime", 
+    "psychtoolbox"
+  ], 
+  "pers_hardware": "desktop", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10", 
+  "bg_country": "China", 
+  "bg_datamod_other": ""
+}

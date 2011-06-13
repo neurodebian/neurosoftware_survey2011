@@ -1,0 +1,42 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 3, 
+  "man_hardware": "none", 
+  "sw_neusys": [
+    "xpp"
+  ], 
+  "pers_r8": 3, 
+  "man_os": "none", 
+  "sw_other": "othersw", 
+  "remote_addr": "96.236.x.x", 
+  "sw_general": [
+    "cpp", 
+    "maple"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "most", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "edu_pub", 
+  "sw_other_name": "XPP", 
+  "pers_maint_time": 10.0, 
+  "pers_os": "none", 
+  "timestamp": 1305688693.772229, 
+  "software_resource": [
+    "fink", 
+    "macports"
+  ], 
+  "bg_datamod": [
+    "simulation"
+  ], 
+  "bg_developer": "yes", 
+  "man_time": "notime", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

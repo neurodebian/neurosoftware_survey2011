@@ -1,0 +1,61 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 2, 
+  "pers_r4": 1, 
+  "man_hardware": "workstation", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 0, 
+  "man_r5": 3, 
+  "man_r4": 0, 
+  "man_r3": 2, 
+  "man_r2": 2, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "virt_r3": 0, 
+  "man_os": "debian", 
+  "remote_addr": "134.214.x.x", 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "perl", 
+    "r", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "vmware"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "most", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "behav", 
+    "simulation"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 1, 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305815649.1555691, 
+  "software_resource": [
+    "vendor", 
+    "cran", 
+    "matlabcentral", 
+    "sourceforge"
+  ], 
+  "man_r1": 3, 
+  "pers_hardware": "laptop", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "macosx", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; fr-fr) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4", 
+  "bg_country": "France", 
+  "bg_datamod_other": ""
+}

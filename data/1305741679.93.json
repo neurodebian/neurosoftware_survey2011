@@ -1,0 +1,56 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 2, 
+  "pers_r4": 3, 
+  "man_hardware": "cluster", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 3, 
+  "man_r5": 3, 
+  "man_r4": 0, 
+  "man_r2": 3, 
+  "pers_r8": 0, 
+  "pers_r5": 3, 
+  "virt_r3": 3, 
+  "man_os": "fedora", 
+  "remote_addr": "74.95.x.x", 
+  "sw_img": [
+    "fsl"
+  ], 
+  "sw_general": [
+    "python", 
+    "shell"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "notime", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "virt_r2": 0, 
+  "virt_r4": 3, 
+  "bg_employer": "edu_pub", 
+  "man_time": "always", 
+  "pers_os": "none", 
+  "timestamp": 1305741679.925693, 
+  "software_resource": [
+    "vendor"
+  ], 
+  "man_r1": 3, 
+  "pers_hardware": "none", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "always", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "dontknow", 
+  "virt_guest_os": "dontknow", 
+  "virt_other": "NX", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "sw_dc": [
+    "sge", 
+    "ipython"
+  ], 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

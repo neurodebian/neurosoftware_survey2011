@@ -1,0 +1,65 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 2, 
+  "pers_r4": 0, 
+  "man_hardware": "desktop", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 1, 
+  "man_r5": 0, 
+  "man_r4": 1, 
+  "man_r3": 2, 
+  "man_r2": 0, 
+  "pers_r8": 3, 
+  "pers_r5": 2, 
+  "virt_r3": 1, 
+  "man_os": "windows", 
+  "sw_electro": [
+    "eeglab", 
+    "fieldtrip", 
+    "plexon"
+  ], 
+  "remote_addr": "192.129.x.x", 
+  "sw_general": [
+    "matlab", 
+    "r"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "behav", 
+    "meeg", 
+    "ephys", 
+    "simulation"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 2, 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1306133151.340843, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "cran", 
+    "matlabcentral"
+  ], 
+  "man_r1": 1, 
+  "pers_hardware": "desktop", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "ubuntu", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.17) Gecko/20110422 Ubuntu/10.04 (lucid) Firefox/3.6.17", 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

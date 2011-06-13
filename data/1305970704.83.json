@@ -1,0 +1,100 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "workstation", 
+  "pers_r2": 3, 
+  "pers_r3": 2, 
+  "pers_r1": 3, 
+  "man_r5": 2, 
+  "man_r4": 3, 
+  "man_r3": 1, 
+  "man_r2": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "sw_rt": [
+    "rtai"
+  ], 
+  "virt_r3": 3, 
+  "sw_acq": [
+    "comedi"
+  ], 
+  "man_os": "windows", 
+  "sw_other": "othersw", 
+  "remote_addr": "90.168.x.x", 
+  "sw_img": [
+    "brainstools", 
+    "bioimgsuite", 
+    "brainmap", 
+    "brainvisa"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "java", 
+    "labview", 
+    "matlab"
+  ], 
+  "virt_prod": [
+    "virtualbox", 
+    "virtualpc"
+  ], 
+  "sw_bci": [
+    "bci2000"
+  ], 
+  "bg_position": "ra", 
+  "pers_time": "always", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "meeg", 
+    "simulation"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 3, 
+  "bg_employer": "company", 
+  "man_time": "little", 
+  "pers_maint_time": 180.0, 
+  "pers_os": "windows", 
+  "sw_electro": [
+    "biosig", 
+    "brainstorm", 
+    "brainsuite", 
+    "brainvisionanalyzer", 
+    "eeglab", 
+    "fmatoolbox"
+  ], 
+  "timestamp": 1305970704.826087, 
+  "sw_neusys": [
+    "brian", 
+    "neurosolutions", 
+    "topographica"
+  ], 
+  "software_resource": [
+    "matlabcentral", 
+    "nitrc", 
+    "sourceforge"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "psychtoolbox", 
+    "superlab", 
+    "visionegg"
+  ], 
+  "pers_hardware": "workstation", 
+  "bg_developer": "yes", 
+  "sw_other_name": ".NET + MATROX IMAGING", 
+  "virt_time": "little", 
+  "sw_datamanage": [
+    "hid"
+  ], 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "otherlinux", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "sw_dc": [
+    "sge"
+  ], 
+  "bg_country": "Spain", 
+  "bg_datamod_other": ""
+}

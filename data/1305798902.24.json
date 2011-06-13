@@ -1,0 +1,96 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 2, 
+  "pers_r4": 1, 
+  "man_hardware": "grid", 
+  "pers_r2": 2, 
+  "pers_r3": 2, 
+  "pers_r1": 3, 
+  "man_r5": 3, 
+  "man_r4": 2, 
+  "man_r3": 3, 
+  "man_r2": 3, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "virt_r3": 3, 
+  "man_os": "debian", 
+  "sw_other": "othersw", 
+  "remote_addr": "134.100.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "afni", 
+    "brainvoyager", 
+    "trackvis", 
+    "fsl", 
+    "freesurfer", 
+    "lipsia", 
+    "mango", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "idl", 
+    "mathematica", 
+    "matlab", 
+    "perl", 
+    "r", 
+    "spss", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "none", 
+  "pers_time": "little", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "behav", 
+    "genetic", 
+    "mri", 
+    "meeg", 
+    "pet", 
+    "ephys", 
+    "simulation"
+  ], 
+  "virt_r2": 3, 
+  "virt_r4": 2, 
+  "bg_employer": "research_pub", 
+  "man_time": "always", 
+  "pers_maint_time": 5.0, 
+  "pers_os": "debian", 
+  "sw_electro": [
+    "eeglab", 
+    "loreta"
+  ], 
+  "timestamp": 1305798902.2413759, 
+  "software_resource": [
+    "vendor", 
+    "cpan", 
+    "cran", 
+    "matlabcentral", 
+    "neurodebian", 
+    "sourceforge"
+  ], 
+  "man_r1": 3, 
+  "sw_psychphys": [
+    "presentation", 
+    "psychtoolbox", 
+    "cogent"
+  ], 
+  "pers_hardware": "workstation", 
+  "bg_developer": "yes", 
+  "sw_other_name": "Cogent2000", 
+  "virt_time": "little", 
+  "sw_datamanage": [
+    "xnat"
+  ], 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "debian", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17", 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

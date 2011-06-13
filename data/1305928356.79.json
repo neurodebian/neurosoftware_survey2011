@@ -1,0 +1,55 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 3, 
+  "pers_r4": 3, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "man_os": "none", 
+  "sw_electro": [
+    "eeglab", 
+    "fieldtrip"
+  ], 
+  "remote_addr": "98.245.x.x", 
+  "sw_general": [
+    "matlab", 
+    "python", 
+    "r", 
+    "shell"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305928356.7869959, 
+  "software_resource": [
+    "vendor", 
+    "cran", 
+    "macports", 
+    "matlabcentral", 
+    "sourceforge"
+  ], 
+  "sw_psychphys": [
+    "pyepl"
+  ], 
+  "bg_datamod": [
+    "meeg"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; en-us) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

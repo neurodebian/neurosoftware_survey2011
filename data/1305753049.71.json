@@ -1,0 +1,89 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 3, 
+  "pers_r4": 3, 
+  "man_hardware": "cluster", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "man_r2": 3, 
+  "pers_r8": 3, 
+  "pers_r5": 1, 
+  "virt_r3": 3, 
+  "man_os": "debian", 
+  "sw_electro": [
+    "brainstorm", 
+    "eeglab", 
+    "loreta", 
+    "openelectrophy", 
+    "plexon"
+  ], 
+  "remote_addr": "80.236.x.x", 
+  "sw_img": [
+    "birn", 
+    "brainvisa", 
+    "caret", 
+    "trackvis", 
+    "fsl", 
+    "freesurfer", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "perl", 
+    "r", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "sysadmin", 
+  "pers_time": "little", 
+  "virt_r1": 1, 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "meeg", 
+    "pet", 
+    "ephys", 
+    "simulation"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 1, 
+  "bg_employer": "research_pub", 
+  "man_time": "most", 
+  "pers_maint_time": 30.0, 
+  "pers_os": "debian", 
+  "timestamp": 1305753049.7101259, 
+  "software_resource": [
+    "os", 
+    "cpan", 
+    "cran", 
+    "incf", 
+    "neurodebian", 
+    "nitrc", 
+    "sourceforge"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "eprime", 
+    "presentation"
+  ], 
+  "pers_hardware": "cluster", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "most", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "debian", 
+  "virt_guest_os": "debian", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.16) Gecko/20110430 Iceweasel/3.5.16 (like Firefox/3.5.16)", 
+  "bg_country": "France", 
+  "bg_datamod_other": ""
+}

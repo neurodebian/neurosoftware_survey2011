@@ -1,0 +1,81 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 3, 
+  "pers_r4": 0, 
+  "man_hardware": "cluster", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 0, 
+  "man_r5": 0, 
+  "man_r4": 3, 
+  "man_r3": 2, 
+  "man_r2": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 1, 
+  "virt_r3": 3, 
+  "man_os": "rhel", 
+  "sw_electro": [
+    "eeglab", 
+    "mne"
+  ], 
+  "remote_addr": "130.231.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "afni", 
+    "connectomviewer", 
+    "fsl", 
+    "freesurfer", 
+    "imagej", 
+    "mricron", 
+    "rest", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "vmware", 
+    "virtualbox", 
+    "othervm"
+  ], 
+  "bg_position": "sysadmin", 
+  "pers_time": "always", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "mri", 
+    "meeg"
+  ], 
+  "virt_r2": 3, 
+  "virt_r4": 1, 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 17.0, 
+  "pers_os": "slel", 
+  "timestamp": 1305786981.895251, 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral", 
+    "sourceforge"
+  ], 
+  "man_r1": 0, 
+  "sw_psychphys": [
+    "presentation"
+  ], 
+  "pers_hardware": "cluster", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "debian", 
+  "virt_other": "Bochs", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "sw_dc": [
+    "sge"
+  ], 
+  "bg_country": "Finland", 
+  "bg_datamod_other": ""
+}

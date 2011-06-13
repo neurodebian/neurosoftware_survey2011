@@ -1,0 +1,59 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 3, 
+  "pers_r8": 2, 
+  "pers_r5": 2, 
+  "man_os": "none", 
+  "remote_addr": "142.103.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "fsl", 
+    "fiji", 
+    "imagej", 
+    "mni", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "shell"
+  ], 
+  "bg_position": "ra", 
+  "pers_time": "most", 
+  "pers_hardware": "cluster", 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 8.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305738152.371155, 
+  "software_resource": [
+    "vendor", 
+    "fink", 
+    "matlabcentral", 
+    "nitrc", 
+    "sourceforge"
+  ], 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "sw_dc": [
+    "sge"
+  ], 
+  "bg_country": "Canada", 
+  "bg_datamod_other": ""
+}

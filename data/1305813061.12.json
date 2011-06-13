@@ -1,0 +1,58 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 0, 
+  "pers_r4": 3, 
+  "man_hardware": "none", 
+  "pers_r3": 0, 
+  "pers_r1": 1, 
+  "sw_neusys": [
+    "nengo"
+  ], 
+  "pers_r8": 3, 
+  "pers_r5": 2, 
+  "man_os": "none", 
+  "remote_addr": "128.40.x.x", 
+  "sw_img": [
+    "fsl", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "maple", 
+    "matlab", 
+    "perl", 
+    "python", 
+    "r", 
+    "scilab", 
+    "shell"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "always", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 6.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305813061.120744, 
+  "software_resource": [
+    "os", 
+    "cpan", 
+    "cran", 
+    "otherres"
+  ], 
+  "bg_datamod": [
+    "mri", 
+    "simulation"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "git, personal webpages", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-GB; rv:1.9.2.9) Gecko/20100825 Ubuntu/9.10 (karmic) Firefox/3.6.9", 
+  "bg_country": "United Kingdom", 
+  "bg_datamod_other": ""
+}

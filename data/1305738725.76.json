@@ -1,0 +1,51 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 1, 
+  "pers_r4": 0, 
+  "man_hardware": "desktop", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 1, 
+  "man_r5": 0, 
+  "man_r4": 0, 
+  "man_r3": 1, 
+  "man_r2": 1, 
+  "man_r1": 0, 
+  "pers_r5": 2, 
+  "man_os": "windows", 
+  "remote_addr": "143.197.x.x", 
+  "sw_img": [
+    "imagej"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "most", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 8.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305738725.760988, 
+  "software_resource": [
+    "vendor", 
+    "os"
+  ], 
+  "bg_datamod": [
+    "mri", 
+    "simulation"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Ubuntu/11.04 Chromium/11.0.696.57 Chrome/11.0.696.57 Safari/534.24", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

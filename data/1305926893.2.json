@@ -1,0 +1,63 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 1, 
+  "pers_r4": 3, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 3, 
+  "pers_r1": 2, 
+  "pers_r8": 0, 
+  "pers_r5": 3, 
+  "virt_r3": 3, 
+  "man_os": "none", 
+  "sw_electro": [
+    "eeglab"
+  ], 
+  "remote_addr": "132.206.x.x", 
+  "sw_img": [
+    "brainmap", 
+    "mni"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "spss"
+  ], 
+  "virt_prod": [
+    "virtualpc"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "little", 
+  "virt_r1": 2, 
+  "bg_datamod": [
+    "behav", 
+    "meeg"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 3, 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 0.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305926893.1970799, 
+  "software_resource": [
+    "retailer", 
+    "otherres"
+  ], 
+  "sw_psychphys": [
+    "eprime", 
+    "psychtoolbox", 
+    "superlab"
+  ], 
+  "pers_hardware": "workstation", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "internet", 
+  "virt_host_os": "ubuntu", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.6) Gecko/20100625 Firefox/3.6.6 GTB7.1", 
+  "bg_country": "Canada", 
+  "bg_datamod_other": ""
+}

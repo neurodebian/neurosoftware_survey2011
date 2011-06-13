@@ -1,0 +1,86 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "workstation", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "man_r2": 3, 
+  "pers_r8": 1, 
+  "pers_r5": 2, 
+  "virt_r3": 3, 
+  "man_os": "centos", 
+  "sw_other": "othersw", 
+  "remote_addr": "193.253.x.x", 
+  "sw_img": [
+    "brainvisa", 
+    "caret", 
+    "imagej", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "octave", 
+    "python", 
+    "r", 
+    "spss", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "most", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "meeg", 
+    "ephys"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 2, 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 5.0, 
+  "pers_os": "windows", 
+  "sw_electro": [
+    "brainstorm", 
+    "brainvisionanalyzer", 
+    "eeglab", 
+    "fieldtrip", 
+    "openmeeg"
+  ], 
+  "timestamp": 1305932754.1611769, 
+  "software_resource": [
+    "cran", 
+    "macports", 
+    "matlabcentral", 
+    "nitrc", 
+    "sourceforge"
+  ], 
+  "man_r1": 3, 
+  "sw_psychphys": [
+    "cogent", 
+    "eprime", 
+    "psychtoolbox"
+  ], 
+  "pers_hardware": "workstation", 
+  "bg_developer": "no", 
+  "sw_other_name": "cartool", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "macosx", 
+  "virt_guest_os": "centos", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24", 
+  "bg_country": "France", 
+  "bg_datamod_other": ""
+}

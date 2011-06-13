@@ -1,0 +1,57 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 2, 
+  "pers_r4": 3, 
+  "man_hardware": "cluster", 
+  "pers_r2": 2, 
+  "pers_r3": 3, 
+  "pers_r1": 1, 
+  "man_r5": 3, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "man_r2": 3, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "man_os": "debian", 
+  "sw_electro": [
+    "plexon"
+  ], 
+  "remote_addr": "198.202.x.x", 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "shell"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "little", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "research_pub", 
+  "man_time": "most", 
+  "pers_maint_time": 5.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305740859.6882701, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "matlabcentral"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "psychtoolbox"
+  ], 
+  "bg_datamod": [
+    "ephys", 
+    "simulation"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.65 Safari/534.24", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

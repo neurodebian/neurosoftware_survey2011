@@ -1,0 +1,67 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 2, 
+  "pers_r3": 3, 
+  "pers_r1": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 1, 
+  "man_os": "none", 
+  "sw_electro": [
+    "emse"
+  ], 
+  "remote_addr": "67.121.x.x", 
+  "sw_img": [
+    "nibabel", 
+    "nipy", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "labview", 
+    "matlab", 
+    "python"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "always", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "company", 
+  "man_time": "notime", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305819446.261127, 
+  "software_resource": [
+    "vendor", 
+    "retailer", 
+    "nitrc", 
+    "pythonbundles", 
+    "sourceforge", 
+    "otherres"
+  ], 
+  "sw_psychphys": [
+    "presentation"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "meeg", 
+    "ephys", 
+    "simulation"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "In-house development", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)", 
+  "sw_dc": [
+    "ipython"
+  ], 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

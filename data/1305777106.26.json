@@ -1,0 +1,62 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 2, 
+  "pers_r4": 0, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "sw_rt": [
+    "rtai"
+  ], 
+  "sw_acq": [
+    "comedi"
+  ], 
+  "man_os": "none", 
+  "sw_electro": [
+    "biosig", 
+    "eeglab"
+  ], 
+  "remote_addr": "137.132.x.x", 
+  "sw_img": [
+    "pymvpa"
+  ], 
+  "sw_general": [
+    "python"
+  ], 
+  "sw_bci": [
+    "bci2000"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "always", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "debian", 
+  "timestamp": 1305777106.255281, 
+  "software_resource": [
+    "neurodebian", 
+    "pypi", 
+    "sourceforge"
+  ], 
+  "sw_psychphys": [
+    "psychopy"
+  ], 
+  "bg_datamod": [
+    "meeg"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.1.19) Gecko/20110430 Iceweasel/3.5.19 (like Firefox/3.5.19) (.NET CLR 3.5.30729)", 
+  "bg_country": "Singapore", 
+  "bg_datamod_other": ""
+}

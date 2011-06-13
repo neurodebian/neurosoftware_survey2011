@@ -1,0 +1,73 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 2, 
+  "pers_r4": 3, 
+  "man_hardware": "desktop", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "man_r5": 0, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "man_r2": 1, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "sw_rt": [
+    "rtai", 
+    "xenomai"
+  ], 
+  "virt_r3": 2, 
+  "sw_acq": [
+    "comedi"
+  ], 
+  "man_os": "centos", 
+  "sw_other": "othersw", 
+  "remote_addr": "86.2.x.x", 
+  "sw_general": [
+    "cpp", 
+    "fortran", 
+    "python"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "virt_r1": 2, 
+  "bg_datamod": [
+    "ephys", 
+    "simulation"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 2, 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 4.0, 
+  "pers_os": "centos", 
+  "sw_electro": [
+    "rtxi"
+  ], 
+  "timestamp": 1305990134.017694, 
+  "sw_neusys": [
+    "xpp"
+  ], 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "pythonbundles", 
+    "sourceforge"
+  ], 
+  "man_r1": 2, 
+  "pers_hardware": "desktop", 
+  "bg_developer": "yes", 
+  "sw_other_name": "Matplotlib, VTK, AUTO, SciPy, SymPy, XPPy", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "ubuntu", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24", 
+  "bg_country": "United Kingdom", 
+  "bg_datamod_other": ""
+}

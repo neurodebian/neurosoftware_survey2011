@@ -1,0 +1,44 @@
+{
+  "pers_r6": 1, 
+  "pers_r4": 3, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "pers_r8": 2, 
+  "pers_r5": 2, 
+  "man_os": "none", 
+  "remote_addr": "129.170.x.x", 
+  "sw_img": [
+    "imagej"
+  ], 
+  "sw_general": [
+    "labview", 
+    "matlab"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "most", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_os": "windows", 
+  "timestamp": 1305905163.7518809, 
+  "software_resource": [
+    "vendor"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "ephys"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2.17) Gecko/20110420 AskTbSTT/3.12.1.16460 Firefox/3.6.17", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

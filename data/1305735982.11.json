@@ -1,0 +1,90 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 2, 
+  "pers_r4": 1, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "pers_r8": 1, 
+  "pers_r5": 2, 
+  "virt_r3": 1, 
+  "man_os": "none", 
+  "sw_electro": [
+    "asa", 
+    "besa", 
+    "biosig", 
+    "brainstorm", 
+    "brainvisionanalyzer", 
+    "eeglab", 
+    "fieldtrip", 
+    "loreta", 
+    "openmeeg", 
+    "openelectrophy"
+  ], 
+  "remote_addr": "147.94.x.x", 
+  "sw_img": [
+    "amide", 
+    "brainvisa", 
+    "itksnap", 
+    "invesalius", 
+    "mricron", 
+    "nibabel", 
+    "nipy", 
+    "pymvpa"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "python", 
+    "r"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "sw_bci": [
+    "openvibe"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "always", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "meeg", 
+    "ephys", 
+    "simulation"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 1, 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 10.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305735982.1123011, 
+  "software_resource": [
+    "os", 
+    "cran", 
+    "neurodebian", 
+    "pypi", 
+    "pythonbundles"
+  ], 
+  "sw_psychphys": [
+    "psychopy", 
+    "tscope"
+  ], 
+  "pers_hardware": "laptop", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "ubuntu", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux i686; fr; rv:1.9.2.16) Gecko/20110323 Ubuntu/10.10 (maverick) Firefox/3.6.16", 
+  "sw_dc": [
+    "ipython"
+  ], 
+  "bg_country": "France", 
+  "bg_datamod_other": ""
+}

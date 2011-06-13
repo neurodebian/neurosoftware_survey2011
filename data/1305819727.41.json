@@ -1,0 +1,58 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 3, 
+  "pers_r8": 2, 
+  "pers_r5": 2, 
+  "man_os": "none", 
+  "sw_other": "othersw", 
+  "remote_addr": "193.52.x.x", 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "python", 
+    "shell"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "most", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "ubuntu", 
+  "sw_electro": [
+    "chronus", 
+    "klustakwik", 
+    "klusters", 
+    "ndmanager", 
+    "neuroscope"
+  ], 
+  "timestamp": 1305819727.4093659, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "sourceforge"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "ephys"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "Klusters, NeuroScope, NDManager, FMAToolbox", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.10 (like Gecko) (Kubuntu)", 
+  "sw_dc": [
+    "torque"
+  ], 
+  "bg_country": "France", 
+  "bg_datamod_other": ""
+}

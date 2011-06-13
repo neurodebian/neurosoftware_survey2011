@@ -1,0 +1,69 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "cluster", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "man_r5": 1, 
+  "man_r4": 2, 
+  "man_r3": 1, 
+  "man_r2": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "virt_r3": 3, 
+  "man_os": "slel", 
+  "remote_addr": "81.25.x.x", 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "octave", 
+    "python", 
+    "scilab", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "vmware", 
+    "virtualbox"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "most", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "ephys"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 1, 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 8.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305709988.044656, 
+  "sw_neusys": [
+    "brian", 
+    "neuron"
+  ], 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral"
+  ], 
+  "man_r1": 2, 
+  "pers_hardware": "workstation", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "ubuntu", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24", 
+  "sw_dc": [
+    "sge", 
+    "mpi", 
+    "ipython"
+  ], 
+  "bg_country": "United Kingdom", 
+  "bg_datamod_other": ""
+}

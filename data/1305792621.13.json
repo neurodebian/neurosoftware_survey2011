@@ -1,0 +1,62 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 1, 
+  "pers_r4": 2, 
+  "man_hardware": "workstation", 
+  "pers_r2": 2, 
+  "pers_r3": 2, 
+  "pers_r1": 1, 
+  "man_r5": 2, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "man_r2": 2, 
+  "pers_r8": 1, 
+  "pers_r5": 3, 
+  "man_os": "windows", 
+  "sw_electro": [
+    "brainvisionanalyzer", 
+    "eeglab", 
+    "fieldtrip", 
+    "loreta"
+  ], 
+  "remote_addr": "86.149.x.x", 
+  "sw_general": [
+    "matlab", 
+    "spss"
+  ], 
+  "sw_bci": [
+    "bci2000"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "little", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 3.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305792621.132211, 
+  "software_resource": [
+    "vendor", 
+    "os"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "eprime"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "meeg", 
+    "ephys"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17 ( .NET CLR 3.5.30729)", 
+  "bg_country": "United Kingdom", 
+  "bg_datamod_other": ""
+}

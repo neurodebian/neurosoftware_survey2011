@@ -1,0 +1,68 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 3, 
+  "pers_r4": 3, 
+  "man_hardware": "workstation", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r4": 1, 
+  "man_r3": 0, 
+  "man_r2": 1, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "virt_r3": 3, 
+  "man_os": "ubuntu", 
+  "sw_electro": [
+    "eeglab", 
+    "fieldtrip", 
+    "openmeeg"
+  ], 
+  "remote_addr": "134.34.x.x", 
+  "sw_img": [
+    "caret", 
+    "mni", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "matlab"
+  ], 
+  "virt_prod": [
+    "othervm"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "most", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "meeg", 
+    "ephys"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 3, 
+  "bg_employer": "edu_pub", 
+  "man_time": "most", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305726809.3921449, 
+  "software_resource": [
+    "matlabcentral"
+  ], 
+  "man_r1": 3, 
+  "sw_psychphys": [
+    "presentation"
+  ], 
+  "pers_hardware": "workstation", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "most", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "ubuntu", 
+  "virt_guest_os": "ubuntu", 
+  "virt_other": "NOMASHINE", 
+  "user_agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; de; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13", 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

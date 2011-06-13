@@ -1,0 +1,69 @@
+{
+  "pers_r7": 3, 
+  "man_hardware": "workstation", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "virt_r3": 3, 
+  "man_os": "windows", 
+  "sw_electro": [
+    "brainvisionanalyzer", 
+    "eeglab"
+  ], 
+  "remote_addr": "31.16.x.x", 
+  "sw_img": [
+    "mricron", 
+    "mvpa", 
+    "rest", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "labview", 
+    "matlab", 
+    "spss", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "xen"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "little", 
+  "virt_r1": 0, 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "meeg", 
+    "ephys"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 3, 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 8.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305749164.8802991, 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral", 
+    "sourceforge"
+  ], 
+  "sw_psychphys": [
+    "eprime", 
+    "presentation"
+  ], 
+  "pers_hardware": "workstation", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "unix", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Linux; U; Android 2.2; de-de; GT-I9000 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1", 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

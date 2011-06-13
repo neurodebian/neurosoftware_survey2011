@@ -1,0 +1,44 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 1, 
+  "pers_r4": 1, 
+  "man_hardware": "none", 
+  "pers_r2": 1, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "pers_r8": 1, 
+  "pers_r5": 1, 
+  "man_os": "none", 
+  "remote_addr": "129.170.x.x", 
+  "sw_general": [
+    "labview", 
+    "matlab", 
+    "spss"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "little", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305920464.37321, 
+  "software_resource": [
+    "vendor", 
+    "retailer"
+  ], 
+  "bg_datamod": [
+    "ephys"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.60 Safari/534.24", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

@@ -1,0 +1,49 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 2, 
+  "man_os": "none", 
+  "remote_addr": "124.11.x.x", 
+  "sw_img": [
+    "fsl", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "matlab"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "little", 
+  "pers_hardware": "desktop", 
+  "bg_employer": "research_priv", 
+  "man_time": "notime", 
+  "pers_maint_time": 100.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305728928.1469491, 
+  "software_resource": [
+    "cran", 
+    "matlabcentral", 
+    "neurodebian", 
+    "nitrc"
+  ], 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.36 (KHTML, like Gecko) Chrome/13.0.767.1 Safari/534.36", 
+  "bg_country": "Taiwan", 
+  "bg_datamod_other": ""
+}

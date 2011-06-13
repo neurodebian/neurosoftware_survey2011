@@ -1,0 +1,58 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 2, 
+  "pers_r4": 1, 
+  "man_hardware": "cluster", 
+  "pers_r2": 1, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "man_r5": 3, 
+  "man_r4": 3, 
+  "man_r3": 0, 
+  "man_r2": 0, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "man_os": "scilinux", 
+  "sw_other": "othersw", 
+  "remote_addr": "155.210.x.x", 
+  "sw_img": [
+    "freesurfer", 
+    "loni"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "perl", 
+    "shell"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "always", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 10.0, 
+  "pers_os": "suse", 
+  "timestamp": 1305792833.1698289, 
+  "software_resource": [
+    "sourceforge", 
+    "otherres"
+  ], 
+  "man_r1": 0, 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "ITK, Paraview", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "Insight Toolkit", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "sw_dc": [
+    "condor"
+  ], 
+  "bg_country": "Spain", 
+  "bg_datamod_other": ""
+}

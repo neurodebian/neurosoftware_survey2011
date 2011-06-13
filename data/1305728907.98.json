@@ -1,0 +1,61 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 0, 
+  "man_hardware": "none", 
+  "pers_r2": 1, 
+  "pers_r3": 0, 
+  "pers_r1": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 2, 
+  "man_os": "none", 
+  "sw_electro": [
+    "eeglab", 
+    "fieldtrip", 
+    "mne"
+  ], 
+  "remote_addr": "71.198.x.x", 
+  "sw_img": [
+    "freesurfer", 
+    "itksnap", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "python", 
+    "r", 
+    "shell"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "most", 
+  "pers_hardware": "desktop", 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "arch", 
+  "timestamp": 1305728907.979234, 
+  "software_resource": [
+    "matlabcentral", 
+    "sourceforge"
+  ], 
+  "sw_psychphys": [
+    "psychtoolbox"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "meeg"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:2.0.1) Gecko/20110429 Firefox/4.0.1", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

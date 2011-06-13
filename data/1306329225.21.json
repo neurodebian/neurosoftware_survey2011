@@ -1,0 +1,58 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 2, 
+  "pers_r4": 3, 
+  "man_hardware": "grid", 
+  "pers_r2": 1, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "man_r5": 3, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "man_r2": 1, 
+  "pers_r8": 1, 
+  "pers_r5": 1, 
+  "virt_r3": 1, 
+  "man_os": "dontknow", 
+  "remote_addr": "130.229.x.x", 
+  "sw_general": [
+    "cpp", 
+    "matlab"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "simulation"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 1, 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "debian", 
+  "timestamp": 1306329225.2142749, 
+  "sw_neusys": [
+    "neuron"
+  ], 
+  "software_resource": [
+    "incf", 
+    "matlabcentral"
+  ], 
+  "man_r1": 2, 
+  "pers_hardware": "workstation", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24", 
+  "sw_dc": [
+    "mpi"
+  ], 
+  "bg_country": "Sweden", 
+  "bg_datamod_other": ""
+}

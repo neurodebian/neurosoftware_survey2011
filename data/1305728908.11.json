@@ -1,0 +1,60 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 1, 
+  "pers_r4": 2, 
+  "man_hardware": "workstation", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 3, 
+  "man_r5": 3, 
+  "man_r4": 1, 
+  "man_r3": 3, 
+  "man_r2": 3, 
+  "pers_r8": 3, 
+  "pers_r5": 2, 
+  "man_os": "debian", 
+  "remote_addr": "141.44.x.x", 
+  "sw_img": [
+    "fsl", 
+    "mricron", 
+    "nipy", 
+    "pymvpa", 
+    "spm"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "python", 
+    "spss", 
+    "shell"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "pers_hardware": "desktop", 
+  "bg_employer": "edu_pub", 
+  "man_time": "most", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "debian", 
+  "timestamp": 1305728908.109621, 
+  "software_resource": [
+    "matlabcentral", 
+    "neurodebian", 
+    "pypi", 
+    "sourceforge"
+  ], 
+  "man_r1": 3, 
+  "bg_datamod": [
+    "behav", 
+    "mri"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.16) Gecko/20110430 Iceweasel/3.5.16 (like Firefox/3.5.16)", 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

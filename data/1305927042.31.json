@@ -1,0 +1,68 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "desktop", 
+  "pers_r2": 2, 
+  "pers_r3": 2, 
+  "pers_r1": 2, 
+  "man_r5": 1, 
+  "man_r4": 2, 
+  "man_r3": 1, 
+  "man_r2": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 2, 
+  "man_os": "windows", 
+  "sw_electro": [
+    "brainvisionanalyzer", 
+    "eeglab"
+  ], 
+  "remote_addr": "72.16.x.x", 
+  "sw_img": [
+    "brainvisa", 
+    "mvpa"
+  ], 
+  "sw_general": [
+    "labview", 
+    "matlab", 
+    "spss"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "always", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "research_priv", 
+  "man_time": "little", 
+  "pers_maint_time": 3.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305927042.314002, 
+  "sw_neusys": [
+    "topographica"
+  ], 
+  "software_resource": [
+    "vendor", 
+    "retailer", 
+    "matlabcentral"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "eprime", 
+    "presentation", 
+    "psychopy"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "meeg", 
+    "ephys"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

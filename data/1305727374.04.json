@@ -1,0 +1,55 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 1, 
+  "man_hardware": "grid", 
+  "pers_r2": 1, 
+  "pers_r3": 2, 
+  "pers_r1": 1, 
+  "man_r5": 1, 
+  "man_r4": 1, 
+  "man_r3": 3, 
+  "man_r2": 2, 
+  "pers_r8": 0, 
+  "pers_r5": 3, 
+  "man_os": "centos", 
+  "remote_addr": "193.137.x.x", 
+  "sw_img": [
+    "brainvoyager", 
+    "freesurfer"
+  ], 
+  "sw_general": [
+    "spss"
+  ], 
+  "bg_position": "undergrad", 
+  "pers_time": "little", 
+  "pers_hardware": "grid", 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 0.0, 
+  "pers_os": "centos", 
+  "timestamp": 1305727374.0373859, 
+  "software_resource": [
+    "vendor", 
+    "os"
+  ], 
+  "man_r1": 2, 
+  "bg_datamod": [
+    "behav", 
+    "mri"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "sw_datamanage": [
+    "hid"
+  ], 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.12) Gecko/20101026 Firefox/3.6.12", 
+  "bg_country": "Portugal", 
+  "bg_datamod_other": ""
+}

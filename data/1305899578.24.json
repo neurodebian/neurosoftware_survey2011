@@ -1,0 +1,58 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 3, 
+  "pers_r4": 3, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "man_os": "none", 
+  "sw_electro": [
+    "fieldtrip", 
+    "mne"
+  ], 
+  "remote_addr": "128.147.x.x", 
+  "sw_img": [
+    "afni", 
+    "fsl", 
+    "freesurfer"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "shell"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 4.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305899578.2374749, 
+  "software_resource": [
+    "vendor"
+  ], 
+  "sw_psychphys": [
+    "eprime"
+  ], 
+  "bg_datamod": [
+    "mri", 
+    "meeg"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.65 Safari/534.24", 
+  "sw_dc": [
+    "mpi"
+  ], 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

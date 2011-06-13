@@ -1,0 +1,76 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 3, 
+  "pers_r4": 1, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r4": 3, 
+  "man_r3": 0, 
+  "man_r2": 3, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "man_os": "none", 
+  "sw_other": "othersw", 
+  "remote_addr": "94.27.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "aeskulap", 
+    "bioimgsuite", 
+    "dsi", 
+    "trackvis", 
+    "fsl", 
+    "freesurfer", 
+    "mricron", 
+    "xmedcon", 
+    "nordicice"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "shell"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "always", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "research_priv", 
+  "man_time": "notime", 
+  "pers_maint_time": 5.0, 
+  "pers_os": "ubuntu", 
+  "sw_electro": [
+    "eeglab", 
+    "neuroexplorer"
+  ], 
+  "timestamp": 1305722987.3747201, 
+  "software_resource": [
+    "vendor", 
+    "retailer", 
+    "matlabcentral", 
+    "neurodebian", 
+    "nitrc", 
+    "sourceforge"
+  ], 
+  "man_r1": 3, 
+  "sw_psychphys": [
+    "presentation", 
+    "nordicaktiva"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "pet", 
+    "otherdm"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "nordic Aktiva; nordic ICE; xmedcon; trackvis", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Linux; U; Android VillainROM-v13; en-gb; HTC Hero Build/ERE27) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17", 
+  "bg_country": "Hungary", 
+  "bg_datamod_other": "ecg"
+}

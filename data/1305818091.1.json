@@ -1,0 +1,64 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 1, 
+  "man_hardware": "none", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "pers_r8": 3, 
+  "pers_r5": 2, 
+  "virt_r3": 1, 
+  "man_os": "none", 
+  "sw_electro": [
+    "neuroexplorer", 
+    "plexon"
+  ], 
+  "remote_addr": "144.82.x.x", 
+  "sw_img": [
+    "caret"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "ruby", 
+    "spss"
+  ], 
+  "virt_prod": [
+    "parallels"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "most", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "ephys", 
+    "simulation"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 2, 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305818091.104912, 
+  "software_resource": [
+    "vendor", 
+    "macports", 
+    "matlabcentral", 
+    "otherres"
+  ], 
+  "sw_psychphys": [
+    "psychtoolbox"
+  ], 
+  "pers_hardware": "workstation", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "University", 
+  "virt_host_os": "macosx", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Opera/9.80 (Macintosh; Intel Mac OS X 10.6.7; U; en) Presto/2.8.131 Version/11.10", 
+  "bg_country": "United Kingdom", 
+  "bg_datamod_other": ""
+}

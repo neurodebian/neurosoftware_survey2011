@@ -1,0 +1,60 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 3, 
+  "pers_r4": 1, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 0, 
+  "man_r5": 3, 
+  "man_r4": 2, 
+  "man_r3": 1, 
+  "man_r2": 2, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "man_os": "scilinux", 
+  "remote_addr": "139.91.x.x", 
+  "sw_general": [
+    "cpp", 
+    "python", 
+    "shell"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 10.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305722857.001817, 
+  "sw_neusys": [
+    "brian", 
+    "neuron"
+  ], 
+  "software_resource": [
+    "vendor", 
+    "pypi", 
+    "pythonbundles", 
+    "sourceforge"
+  ], 
+  "man_r1": 2, 
+  "bg_datamod": [
+    "ephys", 
+    "simulation"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.48 Safari/534.24", 
+  "sw_dc": [
+    "torque", 
+    "mpi"
+  ], 
+  "bg_country": "Greece", 
+  "bg_datamod_other": ""
+}

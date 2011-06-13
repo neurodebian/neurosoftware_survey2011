@@ -1,0 +1,70 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "pers_r8": 3, 
+  "pers_r5": 2, 
+  "virt_r3": 3, 
+  "man_os": "none", 
+  "remote_addr": "74.59.x.x", 
+  "sw_img": [
+    "mni"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "octave", 
+    "perl", 
+    "python", 
+    "r", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "vmware"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "always", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "pet", 
+    "simulation", 
+    "otherdm"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 1, 
+  "bg_employer": "company", 
+  "man_time": "notime", 
+  "pers_maint_time": 5.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305734577.944582, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "cpan", 
+    "cran", 
+    "fink", 
+    "sourceforge", 
+    "otherres"
+  ], 
+  "pers_hardware": "cluster", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "In-house development", 
+  "virt_host_os": "ubuntu", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "sw_dc": [
+    "sge"
+  ], 
+  "bg_country": "Canada", 
+  "bg_datamod_other": "Digital microscopy"
+}

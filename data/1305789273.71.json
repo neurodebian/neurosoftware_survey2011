@@ -1,0 +1,59 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 1, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 3, 
+  "man_r5": 1, 
+  "man_r3": 0, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "man_os": "none", 
+  "remote_addr": "195.113.x.x", 
+  "sw_general": [
+    "matlab", 
+    "octave", 
+    "python", 
+    "r"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "always", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 3.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305789273.7118299, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "cran", 
+    "matlabcentral", 
+    "pypi", 
+    "sourceforge"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "presentation", 
+    "psychopy", 
+    "psychtoolbox", 
+    "visionegg"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "otherdm"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_7) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24", 
+  "bg_country": "Czech Republic", 
+  "bg_datamod_other": "eye tracking"
+}

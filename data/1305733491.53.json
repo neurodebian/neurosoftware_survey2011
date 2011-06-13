@@ -1,0 +1,72 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 2, 
+  "pers_r4": 0, 
+  "man_hardware": "cluster", 
+  "pers_r2": 2, 
+  "pers_r3": 2, 
+  "pers_r1": 1, 
+  "pers_r8": 1, 
+  "pers_r5": 3, 
+  "virt_r3": 1, 
+  "man_os": "none", 
+  "sw_other": "othersw", 
+  "remote_addr": "152.3.x.x", 
+  "sw_img": [
+    "afni", 
+    "fsl", 
+    "lipsia", 
+    "mricron", 
+    "spm", 
+    "brainsight"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "perl", 
+    "spss", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "vmware", 
+    "virtualbox"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "little", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "otherdm"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 1, 
+  "bg_employer": "edu_priv", 
+  "man_time": "notime", 
+  "pers_maint_time": 5.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305733491.5337811, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "cpan", 
+    "matlabcentral", 
+    "nitrc", 
+    "sourceforge", 
+    "otherres"
+  ], 
+  "sw_psychphys": [
+    "presentation"
+  ], 
+  "pers_hardware": "workstation", 
+  "bg_developer": "no", 
+  "sw_other_name": "BrainSight, Visor", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "Gnu Public License ", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "ubuntu", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1; rv:2.0) Gecko/20100101 Firefox/4.0", 
+  "bg_country": "United States", 
+  "bg_datamod_other": "TMS/EMG"
+}

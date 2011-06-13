@@ -1,0 +1,59 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "desktop", 
+  "pers_r2": 3, 
+  "pers_r3": 3, 
+  "pers_r1": 3, 
+  "man_r5": 3, 
+  "man_r4": 2, 
+  "man_r3": 3, 
+  "man_r2": 3, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "virt_r3": 3, 
+  "man_os": "windows", 
+  "sw_electro": [
+    "emse"
+  ], 
+  "remote_addr": "67.121.x.x", 
+  "sw_general": [
+    "cpp"
+  ], 
+  "virt_prod": [
+    "vmware"
+  ], 
+  "bg_position": "sysadmin", 
+  "pers_time": "most", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "mri", 
+    "meeg", 
+    "ephys", 
+    "simulation"
+  ], 
+  "virt_r2": 3, 
+  "virt_r4": 3, 
+  "bg_employer": "company", 
+  "man_time": "most", 
+  "pers_maint_time": 200.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305924373.0725169, 
+  "software_resource": [
+    "vendor"
+  ], 
+  "man_r1": 3, 
+  "pers_hardware": "desktop", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "macosx", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

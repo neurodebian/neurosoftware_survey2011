@@ -1,0 +1,65 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 2, 
+  "pers_r4": 3, 
+  "man_hardware": "cluster", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 0, 
+  "man_r5": 0, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "man_r2": 3, 
+  "pers_r8": 2, 
+  "pers_r5": 1, 
+  "man_os": "debian", 
+  "sw_electro": [
+    "brainstorm", 
+    "fieldtrip"
+  ], 
+  "remote_addr": "134.214.x.x", 
+  "sw_img": [
+    "afni", 
+    "brainvisa", 
+    "caret", 
+    "fsl", 
+    "freesurfer", 
+    "mipav", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "python", 
+    "shell"
+  ], 
+  "bg_position": "ra", 
+  "pers_time": "little", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "research_pub", 
+  "man_time": "most", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305813119.794769, 
+  "software_resource": [
+    "vendor"
+  ], 
+  "man_r1": 3, 
+  "bg_datamod": [
+    "mri", 
+    "meeg", 
+    "ephys"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.0; WOW64; rv:2.0) Gecko/20100101 Firefox/4.0", 
+  "bg_country": "France", 
+  "bg_datamod_other": ""
+}

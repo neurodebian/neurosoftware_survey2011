@@ -1,0 +1,76 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 2, 
+  "pers_r4": 1, 
+  "man_hardware": "grid", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "man_r2": 3, 
+  "pers_r8": 3, 
+  "pers_r5": 2, 
+  "man_os": "centos", 
+  "sw_electro": [
+    "openelectrophy"
+  ], 
+  "remote_addr": "128.111.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "afni", 
+    "connectomviewer", 
+    "trackvis", 
+    "freesurfer", 
+    "nibabel", 
+    "pymvpa"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "python"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "little", 
+  "pers_hardware": "desktop", 
+  "bg_employer": "edu_pub", 
+  "man_time": "most", 
+  "pers_maint_time": 0.0, 
+  "pers_os": "slackware", 
+  "timestamp": 1305747056.422632, 
+  "sw_neusys": [
+    "genesis"
+  ], 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "nitrc", 
+    "pypi", 
+    "pythonbundles"
+  ], 
+  "man_r1": 3, 
+  "sw_psychphys": [
+    "psychopy"
+  ], 
+  "bg_datamod": [
+    "mri", 
+    "meeg", 
+    "simulation"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.11) Gecko/20101028 CentOS/3.6-2.el5.centos Firefox/3.6.11", 
+  "sw_dc": [
+    "sge", 
+    "torque", 
+    "mpi"
+  ], 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

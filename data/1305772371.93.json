@@ -1,0 +1,64 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 0, 
+  "man_hardware": "laptop", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "man_r5": 2, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "man_r2": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 2, 
+  "virt_r3": 2, 
+  "man_os": "ubuntu", 
+  "remote_addr": "220.227.x.x", 
+  "sw_img": [
+    "brainstools", 
+    "brainmap", 
+    "freesurfer", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "matlab"
+  ], 
+  "virt_prod": [
+    "vmware"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "little", 
+  "virt_r1": 2, 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 2, 
+  "bg_employer": "edu_priv", 
+  "man_time": "little", 
+  "pers_maint_time": 30.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305772371.929214, 
+  "sw_neusys": [
+    "genesis"
+  ], 
+  "software_resource": [
+    "freebsdports", 
+    "matlabcentral"
+  ], 
+  "man_r1": 2, 
+  "pers_hardware": "laptop", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "ubuntu", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.3) Gecko/20100423 Ubuntu/10.04 (lucid) Firefox/3.6.3", 
+  "bg_country": "India", 
+  "bg_datamod_other": ""
+}

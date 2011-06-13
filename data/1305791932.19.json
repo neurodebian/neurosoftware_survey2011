@@ -1,0 +1,75 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 1, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "virt_r3": 3, 
+  "man_os": "none", 
+  "sw_other": "othersw", 
+  "remote_addr": "82.52.x.x", 
+  "sw_img": [
+    "fsl", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "spss", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "vmware", 
+    "virtualbox"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "most", 
+  "virt_r1": 2, 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "meeg"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 2, 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_os": "fedora", 
+  "sw_electro": [
+    "brainstorm", 
+    "brainvisionanalyzer", 
+    "eeglab", 
+    "loreta", 
+    "neuroscan"
+  ], 
+  "timestamp": 1305791932.189436, 
+  "software_resource": [
+    "vendor", 
+    "nitrc", 
+    "sourceforge"
+  ], 
+  "sw_psychphys": [
+    "eprime", 
+    "presentation"
+  ], 
+  "pers_hardware": "workstation", 
+  "bg_developer": "yes", 
+  "sw_other_name": "neuroscan Curry", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "fedora", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24", 
+  "sw_dc": [
+    "sge"
+  ], 
+  "bg_country": "Italy", 
+  "bg_datamod_other": ""
+}

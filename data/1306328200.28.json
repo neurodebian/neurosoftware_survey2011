@@ -1,0 +1,51 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 1, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 1, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "sw_neusys": [
+    "emergent"
+  ], 
+  "pers_r8": 1, 
+  "pers_r5": 1, 
+  "man_os": "none", 
+  "remote_addr": "195.6.x.x", 
+  "sw_general": [
+    "cpp", 
+    "matlab"
+  ], 
+  "sw_bci": [
+    "openvibe"
+  ], 
+  "bg_position": "none", 
+  "pers_time": "little", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 5.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1306328200.28494, 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "meeg", 
+    "simulation"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; fr; rv:1.9.2.6) Gecko/20100625 Firefox/3.6.6", 
+  "bg_country": "France", 
+  "bg_datamod_other": ""
+}

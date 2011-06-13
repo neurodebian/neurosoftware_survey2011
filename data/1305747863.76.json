@@ -1,0 +1,54 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "cluster", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "man_r4": 1, 
+  "man_r3": 1, 
+  "man_r2": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 1, 
+  "man_os": "ubuntu", 
+  "remote_addr": "87.185.x.x", 
+  "sw_general": [
+    "matlab", 
+    "python", 
+    "r"
+  ], 
+  "pers_maint_time": 1.0, 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "pers_hardware": "desktop", 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "sw_neusys": [
+    "brian"
+  ], 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305747863.764395, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "neurodebian", 
+    "pypi"
+  ], 
+  "man_r1": 2, 
+  "bg_datamod": [
+    "ephys", 
+    "simulation"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

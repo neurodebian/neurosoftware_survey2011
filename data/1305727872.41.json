@@ -1,0 +1,57 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 3, 
+  "pers_r4": 3, 
+  "man_hardware": "workstation", 
+  "pers_r2": 3, 
+  "pers_r3": 3, 
+  "pers_r1": 3, 
+  "man_r5": 3, 
+  "man_r4": 3, 
+  "man_r3": 3, 
+  "man_r2": 2, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "man_os": "slel", 
+  "remote_addr": "193.196.x.x", 
+  "sw_img": [
+    "brainmap", 
+    "dtitk", 
+    "fsl", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "idl", 
+    "matlab", 
+    "spss", 
+    "shell"
+  ], 
+  "bg_position": "ra", 
+  "pers_time": "always", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "research_pub", 
+  "man_time": "most", 
+  "pers_maint_time": 4.0, 
+  "pers_os": "suse", 
+  "timestamp": 1305727872.4055769, 
+  "software_resource": [
+    "vendor"
+  ], 
+  "man_r1": 3, 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

@@ -1,0 +1,44 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 3, 
+  "pers_r1": 3, 
+  "pers_r8": 2, 
+  "pers_r5": 1, 
+  "man_os": "none", 
+  "sw_electro": [
+    "besa"
+  ], 
+  "remote_addr": "82.135.x.x", 
+  "sw_general": [
+    "matlab"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "most", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305726092.722065, 
+  "software_resource": [
+    "vendor"
+  ], 
+  "bg_datamod": [
+    "meeg"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0) Gecko/20100101 Firefox/4.0", 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

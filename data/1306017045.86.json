@@ -1,0 +1,59 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "desktop", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 0, 
+  "man_r5": 3, 
+  "man_r4": 1, 
+  "man_r3": 1, 
+  "man_r2": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "man_os": "windows", 
+  "sw_electro": [
+    "brainstorm", 
+    "eeglab", 
+    "fieldtrip", 
+    "loreta"
+  ], 
+  "remote_addr": "201.19.x.x", 
+  "sw_img": [
+    "spm"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "spss"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "most", 
+  "pers_hardware": "desktop", 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 8.0, 
+  "pers_os": "windows", 
+  "timestamp": 1306017045.8559721, 
+  "software_resource": [
+    "incf", 
+    "nitrc", 
+    "sourceforge"
+  ], 
+  "man_r1": 1, 
+  "bg_datamod": [
+    "meeg", 
+    "ephys"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0)", 
+  "bg_country": "Brazil", 
+  "bg_datamod_other": ""
+}

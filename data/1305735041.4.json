@@ -1,0 +1,91 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "cluster", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "man_r2": 2, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "virt_r3": 1, 
+  "man_os": "fedora", 
+  "sw_electro": [
+    "besa", 
+    "brainvisionanalyzer", 
+    "chronus", 
+    "eeglab", 
+    "fieldtrip", 
+    "loreta"
+  ], 
+  "remote_addr": "67.101.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "afni", 
+    "fsl", 
+    "itksnap", 
+    "mni", 
+    "mricron", 
+    "pymvpa", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "mathematica", 
+    "matlab", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "little", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "meeg", 
+    "ephys", 
+    "simulation"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 1, 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 5.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305735041.3986831, 
+  "sw_neusys": [
+    "neuron"
+  ], 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral", 
+    "neurodebian", 
+    "sourceforge"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "presentation", 
+    "psychtoolbox"
+  ], 
+  "pers_hardware": "laptop", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "ubuntu", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; LEN2)", 
+  "sw_dc": [
+    "sge"
+  ], 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

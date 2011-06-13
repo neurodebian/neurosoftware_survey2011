@@ -1,0 +1,60 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "desktop", 
+  "pers_r2": 2, 
+  "pers_r3": 2, 
+  "pers_r1": 2, 
+  "man_r5": 2, 
+  "man_r4": 1, 
+  "man_r3": 2, 
+  "man_r2": 2, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "man_os": "centos", 
+  "remote_addr": "132.183.x.x", 
+  "sw_img": [
+    "afni", 
+    "fsl", 
+    "freesurfer", 
+    "imagej", 
+    "spm"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "perl", 
+    "shell"
+  ], 
+  "bg_position": "ra", 
+  "pers_time": "notime", 
+  "pers_hardware": "desktop", 
+  "bg_employer": "research_pub", 
+  "man_time": "always", 
+  "pers_maint_time": 0.0, 
+  "pers_os": "centos", 
+  "timestamp": 1305734618.65939, 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral"
+  ], 
+  "man_r1": 2, 
+  "bg_datamod": [
+    "mri", 
+    "pet"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.9.2.13) Gecko/20101209 CentOS/3.6-2.el5.centos Firefox/3.6.13", 
+  "sw_dc": [
+    "torque"
+  ], 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

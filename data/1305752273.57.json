@@ -1,0 +1,83 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "workstation", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 1, 
+  "man_r5": 3, 
+  "man_r4": 3, 
+  "man_r3": 2, 
+  "man_r2": 3, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "virt_r3": 0, 
+  "man_os": "ubuntu", 
+  "remote_addr": "129.59.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "afni", 
+    "bioimgsuite", 
+    "brainvoyager", 
+    "trackvis", 
+    "fsl", 
+    "freesurfer", 
+    "itksnap", 
+    "imagej", 
+    "mipav", 
+    "mni", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "idl", 
+    "perl", 
+    "python", 
+    "r", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "virt_r1": 2, 
+  "bg_datamod": [
+    "mri", 
+    "simulation"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 0, 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 10.0, 
+  "pers_os": "scilinux", 
+  "timestamp": 1305752273.5739779, 
+  "sw_neusys": [
+    "brian"
+  ], 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral", 
+    "nitrc", 
+    "sourceforge"
+  ], 
+  "man_r1": 3, 
+  "pers_hardware": "cluster", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "ubuntu", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.65 Safari/534.24", 
+  "sw_dc": [
+    "sge"
+  ], 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

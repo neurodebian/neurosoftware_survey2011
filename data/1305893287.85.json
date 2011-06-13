@@ -1,0 +1,72 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 3, 
+  "pers_r4": 3, 
+  "man_hardware": "none", 
+  "pers_r2": 1, 
+  "pers_r3": 0, 
+  "pers_r1": 1, 
+  "sw_neusys": [
+    "brian", 
+    "iqr", 
+    "nest", 
+    "neuron", 
+    "pynn"
+  ], 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "virt_r3": 0, 
+  "man_os": "none", 
+  "sw_electro": [
+    "neuroshare"
+  ], 
+  "remote_addr": "160.45.x.x", 
+  "sw_img": [
+    "imagej"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "java", 
+    "matlab", 
+    "python"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "always", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "ephys", 
+    "simulation"
+  ], 
+  "virt_r2": 0, 
+  "virt_r4": 3, 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 3.0, 
+  "pers_os": "suse", 
+  "timestamp": 1305893287.8471179, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "pypi", 
+    "sourceforge"
+  ], 
+  "pers_hardware": "laptop", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "suse", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.32 SUSE/13.0.751.0 (KHTML, like Gecko) Chrome/13.0.751.0 Safari/534.32", 
+  "sw_dc": [
+    "mpi", 
+    "ipython"
+  ], 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

@@ -1,0 +1,50 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 3, 
+  "pers_r4": 3, 
+  "man_hardware": "workstation", 
+  "pers_r2": 3, 
+  "pers_r3": 2, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r4": 3, 
+  "man_r3": 2, 
+  "man_r2": 1, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "virt_r3": 0, 
+  "man_os": "scilinux", 
+  "remote_addr": "171.65.x.x", 
+  "sw_img": [
+    "spm"
+  ], 
+  "sw_general": [
+    "matlab"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "most", 
+  "virt_r1": 0, 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "virt_r2": 0, 
+  "virt_r4": 0, 
+  "bg_employer": "edu_priv", 
+  "man_time": "most", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "none", 
+  "timestamp": 1305746659.7014871, 
+  "man_r1": 2, 
+  "pers_hardware": "desktop", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

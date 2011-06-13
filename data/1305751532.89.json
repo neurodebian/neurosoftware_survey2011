@@ -1,0 +1,54 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "man_os": "none", 
+  "sw_electro": [
+    "brainstorm", 
+    "openmeeg"
+  ], 
+  "remote_addr": "192.227.x.x", 
+  "sw_img": [
+    "brainvisa"
+  ], 
+  "sw_general": [
+    "matlab"
+  ], 
+  "bg_position": "none", 
+  "pers_time": "most", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "research_priv", 
+  "man_time": "notime", 
+  "pers_maint_time": 0.0, 
+  "pers_os": "rhel", 
+  "timestamp": 1305751532.8864081, 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral", 
+    "sourceforge"
+  ], 
+  "sw_psychphys": [
+    "psychtoolbox"
+  ], 
+  "bg_datamod": [
+    "mri", 
+    "meeg"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.205 Safari/534.16", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

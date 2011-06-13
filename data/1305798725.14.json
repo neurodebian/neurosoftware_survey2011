@@ -1,0 +1,56 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 1, 
+  "man_hardware": "desktop", 
+  "pers_r2": 1, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "man_r5": 1, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "man_r2": 0, 
+  "pers_r8": 2, 
+  "man_os": "scilinux", 
+  "sw_electro": [
+    "eeglab", 
+    "fieldtrip"
+  ], 
+  "remote_addr": "132.166.x.x", 
+  "sw_general": [
+    "matlab", 
+    "spss"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "little", 
+  "pers_hardware": "desktop", 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 0.0, 
+  "pers_os": "none", 
+  "timestamp": 1305798725.137403, 
+  "software_resource": [
+    "vendor"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "eprime", 
+    "psychtoolbox"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "meeg"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.6; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)", 
+  "bg_country": "France", 
+  "bg_datamod_other": ""
+}

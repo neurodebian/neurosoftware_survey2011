@@ -1,0 +1,70 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 1, 
+  "man_hardware": "cluster", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r4": 1, 
+  "man_r3": 1, 
+  "man_r2": 3, 
+  "pers_r8": 3, 
+  "pers_r5": 2, 
+  "virt_r3": 2, 
+  "man_os": "starbsd", 
+  "remote_addr": "165.230.x.x", 
+  "sw_img": [
+    "mvpa"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "maple", 
+    "mathematica", 
+    "matlab", 
+    "perl", 
+    "python", 
+    "ruby", 
+    "spss", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualbox", 
+    "othervm"
+  ], 
+  "bg_position": "sysadmin", 
+  "pers_time": "little", 
+  "virt_r1": 2, 
+  "bg_datamod": [
+    "behav", 
+    "otherdm"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 2, 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 5.0, 
+  "pers_os": "starbsd", 
+  "timestamp": 1305817242.6739931, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "cpan", 
+    "freebsdports", 
+    "sourceforge"
+  ], 
+  "man_r1": 2, 
+  "pers_hardware": "cluster", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "unix", 
+  "virt_guest_os": "starbsd", 
+  "virt_other": "x11vnc", 
+  "user_agent": "Mozilla/5.0 (X11; Linux i686; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "United States", 
+  "bg_datamod_other": "General"
+}

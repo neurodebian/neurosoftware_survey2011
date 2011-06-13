@@ -1,0 +1,57 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 2, 
+  "pers_r3": 3, 
+  "pers_r1": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "man_os": "none", 
+  "remote_addr": "130.191.x.x", 
+  "sw_img": [
+    "afni", 
+    "fsl", 
+    "freesurfer"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "python", 
+    "r", 
+    "spss", 
+    "shell"
+  ], 
+  "bg_position": "none", 
+  "pers_time": "always", 
+  "pers_hardware": "desktop", 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "none", 
+  "timestamp": 1305756557.426367, 
+  "software_resource": [
+    "vendor", 
+    "retailer", 
+    "fink", 
+    "matlabcentral", 
+    "sourceforge"
+  ], 
+  "sw_psychphys": [
+    "psyscope"
+  ], 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.4; en-US; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

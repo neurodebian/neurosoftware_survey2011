@@ -1,0 +1,83 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "virt_r3": 0, 
+  "man_os": "none", 
+  "sw_electro": [
+    "eeglab", 
+    "fieldtrip", 
+    "loreta"
+  ], 
+  "remote_addr": "149.148.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "afni", 
+    "fsl", 
+    "freesurfer", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "idl", 
+    "matlab", 
+    "perl", 
+    "python", 
+    "r", 
+    "spss", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "none", 
+  "pers_time": "little", 
+  "virt_r1": 2, 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "meeg"
+  ], 
+  "virt_r4": 1, 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 5.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305790308.765635, 
+  "software_resource": [
+    "vendor", 
+    "cpan", 
+    "cran", 
+    "matlabcentral", 
+    "neurodebian", 
+    "pypi", 
+    "sourceforge"
+  ], 
+  "sw_psychphys": [
+    "eprime", 
+    "presentation", 
+    "psyscope"
+  ], 
+  "pers_hardware": "workstation", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "ubuntu", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "sw_dc": [
+    "mpi"
+  ], 
+  "bg_country": "Austria", 
+  "bg_datamod_other": ""
+}

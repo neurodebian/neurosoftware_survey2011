@@ -1,0 +1,55 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 1, 
+  "pers_r4": 2, 
+  "man_hardware": "desktop", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 0, 
+  "man_r5": 1, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "man_r2": 2, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "virt_r3": 1, 
+  "man_os": "debian", 
+  "remote_addr": "178.25.x.x", 
+  "sw_general": [
+    "cpp", 
+    "matlab"
+  ], 
+  "virt_prod": [
+    "othervm"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "always", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "simulation"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 2, 
+  "bg_employer": "research_pub", 
+  "man_time": "always", 
+  "pers_maint_time": 0.5, 
+  "pers_os": "windows", 
+  "timestamp": 1305989680.320816, 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral"
+  ], 
+  "man_r1": 2, 
+  "pers_hardware": "laptop", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "dontknow", 
+  "virt_guest_os": "windows", 
+  "virt_other": "citrix", 
+  "user_agent": "Opera/9.80 (Windows NT 6.1; U; en) Presto/2.8.131 Version/11.11", 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

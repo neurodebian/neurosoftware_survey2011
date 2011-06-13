@@ -1,0 +1,77 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 3, 
+  "man_hardware": "workstation", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "man_r5": 1, 
+  "man_r4": 0, 
+  "man_r3": 3, 
+  "man_r2": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "virt_r3": 3, 
+  "man_os": "solaris", 
+  "sw_electro": [
+    "eeglab", 
+    "fieldtrip", 
+    "loreta"
+  ], 
+  "remote_addr": "149.203.x.x", 
+  "sw_img": [
+    "caret", 
+    "fsl", 
+    "freesurfer", 
+    "mricron", 
+    "mvpa", 
+    "spm"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "spss", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "parallels"
+  ], 
+  "bg_position": "none", 
+  "pers_time": "most", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "meeg"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 3, 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 5.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305725367.3939209, 
+  "software_resource": [
+    "vendor", 
+    "cpan", 
+    "macports", 
+    "matlabcentral", 
+    "sourceforge"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "presentation"
+  ], 
+  "pers_hardware": "workstation", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "macosx", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

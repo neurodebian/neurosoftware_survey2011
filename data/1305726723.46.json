@@ -1,0 +1,66 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 1, 
+  "pers_r4": 2, 
+  "man_hardware": "workstation", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "man_r5": 3, 
+  "man_r4": 3, 
+  "man_r2": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 2, 
+  "man_os": "debian", 
+  "sw_electro": [
+    "besa", 
+    "eeglab", 
+    "fieldtrip", 
+    "openmeeg"
+  ], 
+  "remote_addr": "132.199.x.x", 
+  "sw_img": [
+    "caret", 
+    "freesurfer", 
+    "spm"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "r", 
+    "spss", 
+    "shell"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "little", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "debian", 
+  "timestamp": 1305726723.4647861, 
+  "software_resource": [
+    "vendor", 
+    "cran", 
+    "matlabcentral"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "presentation", 
+    "psychtoolbox"
+  ], 
+  "bg_datamod": [
+    "mri", 
+    "meeg"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.10 (like Gecko) (Debian)", 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

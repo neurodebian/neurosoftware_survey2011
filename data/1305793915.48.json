@@ -1,0 +1,56 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 3, 
+  "pers_r4": 3, 
+  "man_hardware": "desktop", 
+  "pers_r2": 3, 
+  "pers_r3": 2, 
+  "pers_r1": 1, 
+  "man_r5": 3, 
+  "man_r4": 2, 
+  "man_r3": 1, 
+  "man_r2": 3, 
+  "pers_r8": 3, 
+  "pers_r5": 2, 
+  "man_os": "windows", 
+  "sw_electro": [
+    "brainvisionanalyzer"
+  ], 
+  "remote_addr": "195.96.x.x", 
+  "sw_general": [
+    "matlab", 
+    "spss"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "little", 
+  "pers_hardware": "desktop", 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 3.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305793915.4770939, 
+  "software_resource": [
+    "vendor", 
+    "sourceforge"
+  ], 
+  "man_r1": 3, 
+  "sw_psychphys": [
+    "presentation"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "meeg", 
+    "ephys"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "Bulgaria", 
+  "bg_datamod_other": ""
+}

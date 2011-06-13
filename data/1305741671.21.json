@@ -1,0 +1,76 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 1, 
+  "pers_r4": 3, 
+  "man_hardware": "cluster", 
+  "pers_r2": 2, 
+  "pers_r3": 3, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r4": 3, 
+  "man_r3": 2, 
+  "man_r2": 2, 
+  "pers_r8": 0, 
+  "pers_r5": 3, 
+  "virt_r3": 1, 
+  "man_os": "rhel", 
+  "sw_other": "othersw", 
+  "remote_addr": "206.192.x.x", 
+  "sw_img": [
+    "afni", 
+    "birn", 
+    "brainmap", 
+    "fsl", 
+    "freesurfer", 
+    "mricron", 
+    "rest", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "spss", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "vmware"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "most", 
+  "virt_r1": 0, 
+  "bg_datamod": [
+    "behav", 
+    "genetic", 
+    "mri", 
+    "simulation"
+  ], 
+  "virt_r2": 0, 
+  "virt_r4": 2, 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 4.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305741671.205297, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "nitrc", 
+    "sourceforge"
+  ], 
+  "man_r1": 2, 
+  "pers_hardware": "workstation", 
+  "bg_developer": "yes", 
+  "sw_other_name": "CIGAL, MICIS", 
+  "virt_time": "little", 
+  "sw_datamanage": [
+    "hid"
+  ], 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.65 Safari/534.24", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

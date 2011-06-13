@@ -1,0 +1,86 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 3, 
+  "pers_r4": 3, 
+  "man_hardware": "cluster", 
+  "pers_r2": 3, 
+  "pers_r3": 3, 
+  "pers_r1": 3, 
+  "man_r5": 3, 
+  "man_r4": 3, 
+  "man_r3": 3, 
+  "man_r2": 3, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "sw_rt": [
+    "xenomai"
+  ], 
+  "virt_r3": 3, 
+  "sw_acq": [
+    "epics"
+  ], 
+  "man_os": "windows", 
+  "sw_other": "othersw", 
+  "remote_addr": "140.128.x.x", 
+  "sw_img": [
+    "3dslicer"
+  ], 
+  "sw_general": [
+    "cpp"
+  ], 
+  "virt_prod": [
+    "virtualpc"
+  ], 
+  "sw_bci": [
+    "openvibe"
+  ], 
+  "bg_position": "undergrad", 
+  "pers_time": "little", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "genetic", 
+    "mri"
+  ], 
+  "virt_r2": 3, 
+  "virt_r4": 3, 
+  "bg_employer": "edu_priv", 
+  "man_time": "always", 
+  "pers_maint_time": 200.0, 
+  "pers_os": "windows", 
+  "sw_electro": [
+    "asa"
+  ], 
+  "timestamp": 1305773153.6432221, 
+  "sw_neusys": [
+    "ecanse", 
+    "pynn"
+  ], 
+  "software_resource": [
+    "vendor", 
+    "retailer"
+  ], 
+  "man_r1": 3, 
+  "sw_psychphys": [
+    "eprime", 
+    "opensesame"
+  ], 
+  "pers_hardware": "cluster", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "sw_datamanage": [
+    "hid"
+  ], 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.65 Safari/534.24", 
+  "sw_dc": [
+    "condor", 
+    "globus"
+  ], 
+  "bg_country": "Taiwan", 
+  "bg_datamod_other": ""
+}

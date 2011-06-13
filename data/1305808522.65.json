@@ -1,0 +1,76 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "cluster", 
+  "pers_r2": 2, 
+  "pers_r3": 2, 
+  "pers_r1": 2, 
+  "man_r4": 1, 
+  "man_r3": 2, 
+  "man_r2": 2, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "virt_r3": 1, 
+  "man_os": "macosx", 
+  "sw_electro": [
+    "besa", 
+    "brainstorm", 
+    "eeglab", 
+    "fieldtrip", 
+    "loreta"
+  ], 
+  "remote_addr": "132.203.x.x", 
+  "sw_img": [
+    "brainvisa", 
+    "brainvoyager", 
+    "fsl", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "scilab", 
+    "spss", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "vmware"
+  ], 
+  "bg_position": "ra", 
+  "pers_time": "most", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "mri", 
+    "meeg", 
+    "ephys"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 2, 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 10.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305808522.6471879, 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "eprime", 
+    "psychtoolbox"
+  ], 
+  "pers_hardware": "workstation", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "fedora", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24", 
+  "bg_country": "Canada", 
+  "bg_datamod_other": ""
+}

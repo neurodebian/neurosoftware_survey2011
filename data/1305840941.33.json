@@ -1,0 +1,55 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 2, 
+  "pers_r4": 3, 
+  "man_hardware": "none", 
+  "pers_r2": 2, 
+  "pers_r3": 2, 
+  "pers_r1": 3, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "man_os": "none", 
+  "sw_electro": [
+    "eeglab"
+  ], 
+  "remote_addr": "174.253.x.x", 
+  "sw_general": [
+    "matlab", 
+    "python", 
+    "spss"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "most", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305840941.325623, 
+  "software_resource": [
+    "vendor", 
+    "retailer"
+  ], 
+  "sw_psychphys": [
+    "eprime", 
+    "psychopy", 
+    "psychtoolbox", 
+    "superlab"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "meeg", 
+    "ephys"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Linux; U; Android 2.2; en-us; ADR6300 Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

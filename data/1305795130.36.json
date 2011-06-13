@@ -1,0 +1,58 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 1, 
+  "pers_r4": 1, 
+  "man_hardware": "none", 
+  "pers_r2": 2, 
+  "pers_r3": 2, 
+  "pers_r1": 2, 
+  "pers_r8": 0, 
+  "pers_r5": 2, 
+  "man_os": "none", 
+  "sw_electro": [
+    "eeglab", 
+    "loreta"
+  ], 
+  "remote_addr": "158.110.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "afni", 
+    "fsl", 
+    "freesurfer"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "r", 
+    "shell"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 10.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305795130.3600731, 
+  "software_resource": [
+    "vendor", 
+    "cran", 
+    "neurodebian", 
+    "sourceforge"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "meeg"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "Italy", 
+  "bg_datamod_other": ""
+}

@@ -1,0 +1,67 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "cluster", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "man_r5": 1, 
+  "man_r4": 3, 
+  "man_r3": 2, 
+  "man_r2": 2, 
+  "pers_r8": 3, 
+  "pers_r5": 0, 
+  "sw_rt": [
+    "rtlinux"
+  ], 
+  "man_os": "ubuntu", 
+  "sw_electro": [
+    "rtxi"
+  ], 
+  "remote_addr": "84.193.x.x", 
+  "sw_general": [
+    "cpp", 
+    "perl", 
+    "python", 
+    "shell"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "most", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "company", 
+  "man_time": "little", 
+  "pers_maint_time": 10.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305746403.745219, 
+  "sw_neusys": [
+    "genesis", 
+    "neuroml", 
+    "pynn"
+  ], 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "cpan", 
+    "pypi"
+  ], 
+  "man_r1": 3, 
+  "bg_datamod": [
+    "simulation"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.17) Gecko/20110422 Ubuntu/10.10 (maverick) Firefox/3.6.17", 
+  "sw_dc": [
+    "sge", 
+    "mpi"
+  ], 
+  "bg_country": "Belgium", 
+  "bg_datamod_other": ""
+}

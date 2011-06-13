@@ -1,0 +1,58 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "cluster", 
+  "pers_r2": 3, 
+  "pers_r3": 2, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "man_r2": 1, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "man_os": "scilinux", 
+  "remote_addr": "129.97.x.x", 
+  "sw_general": [
+    "matlab", 
+    "python", 
+    "r"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "always", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305814484.3605001, 
+  "sw_neusys": [
+    "nengo"
+  ], 
+  "software_resource": [
+    "vendor", 
+    "retailer", 
+    "os", 
+    "cran", 
+    "matlabcentral", 
+    "pypi", 
+    "pythonbundles", 
+    "sourceforge"
+  ], 
+  "man_r1": 1, 
+  "bg_datamod": [
+    "simulation"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "Canada", 
+  "bg_datamod_other": ""
+}

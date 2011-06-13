@@ -1,0 +1,48 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 3, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "man_os": "none", 
+  "remote_addr": "193.60.x.x", 
+  "sw_img": [
+    "fsl", 
+    "itksnap", 
+    "imagej", 
+    "mricron"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "shell"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "always", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "fedora", 
+  "timestamp": 1305724952.7647271, 
+  "software_resource": [
+    "vendor"
+  ], 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "United Kingdom", 
+  "bg_datamod_other": ""
+}

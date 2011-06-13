@@ -1,0 +1,49 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "cluster", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 1, 
+  "sw_neusys": [
+    "nengo"
+  ], 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "man_os": "otherlinux", 
+  "remote_addr": "129.97.x.x", 
+  "sw_general": [
+    "java", 
+    "python"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "always", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305831686.245748, 
+  "software_resource": [
+    "os", 
+    "pypi", 
+    "sourceforge"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "simulation"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.19) Gecko/2010031422 Firefox/3.0.19 ( .NET CLR 3.5.30729)", 
+  "bg_country": "Canada", 
+  "bg_datamod_other": ""
+}

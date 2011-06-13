@@ -1,0 +1,62 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 3, 
+  "man_hardware": "none", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 2, 
+  "virt_r3": 2, 
+  "man_os": "none", 
+  "sw_other": "othersw", 
+  "remote_addr": "203.2.x.x", 
+  "sw_general": [
+    "matlab", 
+    "r", 
+    "spss"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "always", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "behav", 
+    "meeg"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 2, 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "macosx", 
+  "sw_electro": [
+    "brainvisionanalyzer", 
+    "eeglab"
+  ], 
+  "timestamp": 1305765276.824677, 
+  "software_resource": [
+    "vendor", 
+    "cran", 
+    "sourceforge"
+  ], 
+  "sw_psychphys": [
+    "psychtoolbox", 
+    "cogent"
+  ], 
+  "pers_hardware": "laptop", 
+  "bg_developer": "no", 
+  "sw_other_name": "Cogent2000", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "macosx", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "Australia", 
+  "bg_datamod_other": ""
+}

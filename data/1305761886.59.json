@@ -1,0 +1,75 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "desktop", 
+  "pers_r2": 3, 
+  "pers_r3": 2, 
+  "pers_r1": 1, 
+  "man_r5": 3, 
+  "man_r4": 3, 
+  "man_r3": 3, 
+  "man_r2": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "virt_r3": 0, 
+  "man_os": "macosx", 
+  "sw_electro": [
+    "asa", 
+    "eeglab", 
+    "fieldtrip", 
+    "loreta"
+  ], 
+  "remote_addr": "91.125.x.x", 
+  "sw_img": [
+    "spm"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "octave", 
+    "r", 
+    "spss"
+  ], 
+  "virt_prod": [
+    "virtualpc"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "behav", 
+    "meeg", 
+    "simulation"
+  ], 
+  "virt_r2": 0, 
+  "virt_r4": 1, 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 3.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305761886.5935161, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "cran", 
+    "sourceforge"
+  ], 
+  "man_r1": 0, 
+  "sw_psychphys": [
+    "eprime", 
+    "presentation", 
+    "psychtoolbox"
+  ], 
+  "pers_hardware": "laptop", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24", 
+  "bg_country": "Portugal", 
+  "bg_datamod_other": ""
+}

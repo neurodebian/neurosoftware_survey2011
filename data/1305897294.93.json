@@ -1,0 +1,48 @@
+{
+  "man_hardware": "cluster", 
+  "man_r4": 1, 
+  "man_r2": 3, 
+  "man_r1": 3, 
+  "man_os": "ubuntu", 
+  "remote_addr": "68.67.x.x", 
+  "sw_img": [
+    "mni"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "perl", 
+    "python", 
+    "shell"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "notime", 
+  "pers_hardware": "none", 
+  "bg_employer": "company", 
+  "man_time": "most", 
+  "pers_os": "none", 
+  "timestamp": 1305897294.9256189, 
+  "software_resource": [
+    "vendor", 
+    "cpan", 
+    "sourceforge", 
+    "otherres"
+  ], 
+  "bg_datamod": [
+    "mri", 
+    "pet"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "Github", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.16) Gecko/20110323 Ubuntu/9.10 (karmic) Firefox/3.6.16", 
+  "sw_dc": [
+    "sge"
+  ], 
+  "bg_country": "Canada", 
+  "bg_datamod_other": ""
+}

@@ -1,0 +1,46 @@
+{
+  "pers_r6": 0, 
+  "pers_r4": 0, 
+  "man_hardware": "desktop", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r4": 3, 
+  "man_r3": 3, 
+  "man_r2": 3, 
+  "pers_r8": 3, 
+  "pers_maint_time": 4.0, 
+  "man_os": "macosx", 
+  "remote_addr": "129.97.x.x", 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "python"
+  ], 
+  "bg_position": "undergrad", 
+  "pers_time": "most", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "sw_neusys": [
+    "nengo"
+  ], 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305814354.3168499, 
+  "man_r1": 3, 
+  "bg_datamod": [
+    "simulation"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.204 Safari/534.16", 
+  "bg_country": "Canada", 
+  "bg_datamod_other": ""
+}

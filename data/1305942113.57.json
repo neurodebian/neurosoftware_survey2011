@@ -1,0 +1,71 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 1, 
+  "pers_r4": 3, 
+  "man_hardware": "cluster", 
+  "pers_r2": 2, 
+  "pers_r3": 2, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r4": 1, 
+  "man_r3": 3, 
+  "man_r2": 3, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "virt_r3": 2, 
+  "man_os": "scilinux", 
+  "sw_other": "othersw", 
+  "remote_addr": "77.4.x.x", 
+  "sw_img": [
+    "trackvis", 
+    "fsl", 
+    "mricron", 
+    "mvpa", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab"
+  ], 
+  "virt_prod": [
+    "othervm"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "always", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "mri", 
+    "meeg"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 2, 
+  "bg_employer": "research_pub", 
+  "man_time": "most", 
+  "pers_maint_time": 3.0, 
+  "pers_os": "windows", 
+  "sw_electro": [
+    "brainvisionanalyzer", 
+    "eeglab"
+  ], 
+  "timestamp": 1305942113.5662079, 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral"
+  ], 
+  "man_r1": 3, 
+  "sw_psychphys": [
+    "cogent"
+  ], 
+  "pers_hardware": "desktop", 
+  "bg_developer": "yes", 
+  "sw_other_name": "PROBID (Pattern Recognition Toolbox  http://www.brainmap.co.uk/)", 
+  "virt_time": "most", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "scilinux", 
+  "virt_guest_os": "scilinux", 
+  "virt_other": "NX", 
+  "user_agent": "Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

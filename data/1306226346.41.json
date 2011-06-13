@@ -1,0 +1,80 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 1, 
+  "pers_r4": 2, 
+  "man_hardware": "cluster", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 1, 
+  "man_r5": 3, 
+  "man_r4": 1, 
+  "man_r3": 2, 
+  "man_r2": 1, 
+  "pers_r8": 1, 
+  "pers_r5": 1, 
+  "sw_rt": [
+    "rtlinux"
+  ], 
+  "man_os": "scilinux", 
+  "sw_other": "othersw", 
+  "remote_addr": "132.168.x.x", 
+  "sw_img": [
+    "brainvisa", 
+    "fsl", 
+    "freesurfer", 
+    "imagej", 
+    "mricron"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "java", 
+    "matlab", 
+    "shell"
+  ], 
+  "sw_bci": [
+    "openvibe"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "little", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 4.0, 
+  "pers_os": "scilinux", 
+  "sw_electro": [
+    "brainstorm", 
+    "eeglab", 
+    "elekta", 
+    "fieldtrip", 
+    "mne", 
+    "openmeeg"
+  ], 
+  "timestamp": 1306226346.4128649, 
+  "software_resource": [
+    "vendor", 
+    "sourceforge"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "eprime", 
+    "presentation", 
+    "psychtoolbox"
+  ], 
+  "bg_datamod": [
+    "mri", 
+    "meeg", 
+    "pet", 
+    "simulation"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "stim2", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)", 
+  "bg_country": "France", 
+  "bg_datamod_other": ""
+}

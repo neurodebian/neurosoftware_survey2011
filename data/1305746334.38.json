@@ -1,0 +1,97 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "workstation", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "man_r5": 3, 
+  "man_r4": 1, 
+  "man_r3": 2, 
+  "man_r2": 3, 
+  "pers_r8": 2, 
+  "pers_r5": 2, 
+  "virt_r3": 3, 
+  "man_os": "fedora", 
+  "sw_electro": [
+    "brainvisionanalyzer", 
+    "eeglab", 
+    "fieldtrip"
+  ], 
+  "remote_addr": "134.2.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "afni", 
+    "brainvoyager", 
+    "camino", 
+    "dsi", 
+    "fsl", 
+    "freesurfer", 
+    "mricron", 
+    "rest", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "labview", 
+    "matlab", 
+    "python", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "vmware", 
+    "virtualbox"
+  ], 
+  "sw_bci": [
+    "bci2000"
+  ], 
+  "bg_position": "ra", 
+  "pers_time": "little", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "meeg", 
+    "simulation"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 2, 
+  "bg_employer": "edu_pub", 
+  "man_time": "most", 
+  "pers_maint_time": 10.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305746334.3831999, 
+  "sw_neusys": [
+    "snns"
+  ], 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "matlabcentral", 
+    "nitrc", 
+    "sourceforge"
+  ], 
+  "man_r1": 3, 
+  "sw_psychphys": [
+    "eprime", 
+    "presentation", 
+    "psychtoolbox", 
+    "visionegg"
+  ], 
+  "pers_hardware": "laptop", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "fedora", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux x86_64; de; rv:1.9.2.17) Gecko/20110428 Fedora/3.6.17-1.fc14 Firefox/3.6.17", 
+  "sw_dc": [
+    "sge"
+  ], 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

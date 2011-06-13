@@ -1,0 +1,58 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 1, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 0, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "man_os": "none", 
+  "sw_electro": [
+    "biosig", 
+    "eeglab"
+  ], 
+  "remote_addr": "129.194.x.x", 
+  "sw_general": [
+    "cpp", 
+    "labview", 
+    "matlab", 
+    "python", 
+    "scilab", 
+    "spss"
+  ], 
+  "sw_bci": [
+    "bci2000"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "little", 
+  "pers_hardware": "desktop", 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 8.0, 
+  "pers_os": "windows", 
+  "timestamp": 1306133439.312665, 
+  "software_resource": [
+    "macports", 
+    "matlabcentral", 
+    "sourceforge", 
+    "otherres"
+  ], 
+  "bg_datamod": [
+    "meeg", 
+    "ephys", 
+    "simulation"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "University Software Repository", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "Switzerland", 
+  "bg_datamod_other": ""
+}

@@ -1,0 +1,61 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "pers_r8": 1, 
+  "pers_r5": 3, 
+  "man_os": "none", 
+  "remote_addr": "134.192.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "brainvisa", 
+    "fsl", 
+    "imagej", 
+    "mni", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "perl", 
+    "r", 
+    "spss", 
+    "shell"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "little", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 10.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305740668.6487801, 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral", 
+    "neurodebian", 
+    "nitrc"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "mri"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24", 
+  "sw_dc": [
+    "sge"
+  ], 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

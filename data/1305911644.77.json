@@ -1,0 +1,48 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 1, 
+  "man_hardware": "none", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 1, 
+  "man_os": "none", 
+  "remote_addr": "76.118.x.x", 
+  "sw_general": [
+    "cpp", 
+    "java", 
+    "matlab", 
+    "python"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "always", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "edu_priv", 
+  "man_time": "notime", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305911644.7654481, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "pypi", 
+    "sourceforge"
+  ], 
+  "bg_datamod": [
+    "meeg", 
+    "simulation"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

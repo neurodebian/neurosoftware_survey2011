@@ -1,0 +1,66 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "cluster", 
+  "pers_r2": 3, 
+  "pers_r3": 3, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r4": 3, 
+  "man_r3": 3, 
+  "man_r2": 3, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "man_os": "debian", 
+  "remote_addr": "157.99.x.x", 
+  "sw_img": [
+    "brainvisa", 
+    "fsl", 
+    "freesurfer", 
+    "imagej", 
+    "mango"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "octave", 
+    "r", 
+    "shell"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "always", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "research_priv", 
+  "man_time": "always", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305710697.4047389, 
+  "software_resource": [
+    "cran", 
+    "fink", 
+    "freebsdports", 
+    "macports", 
+    "matlabcentral", 
+    "nitrc", 
+    "sourceforge"
+  ], 
+  "man_r1": 2, 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; en-us) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27", 
+  "sw_dc": [
+    "sge"
+  ], 
+  "bg_country": "France", 
+  "bg_datamod_other": ""
+}

@@ -1,0 +1,59 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 3, 
+  "pers_r4": 1, 
+  "man_hardware": "workstation", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 0, 
+  "man_r5": 1, 
+  "man_r4": 2, 
+  "man_r3": 3, 
+  "man_r2": 3, 
+  "pers_r8": 2, 
+  "pers_r5": 0, 
+  "man_os": "windows", 
+  "remote_addr": "134.60.x.x", 
+  "sw_img": [
+    "caret", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "python", 
+    "r"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "little", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "edu_pub", 
+  "man_time": "most", 
+  "pers_maint_time": 40.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305800200.9889081, 
+  "software_resource": [
+    "vendor", 
+    "cran", 
+    "neurodebian"
+  ], 
+  "man_r1": 2, 
+  "bg_datamod": [
+    "behav", 
+    "genetic", 
+    "mri", 
+    "otherdm"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727)", 
+  "bg_country": "Germany", 
+  "bg_datamod_other": "statistical analysis"
+}

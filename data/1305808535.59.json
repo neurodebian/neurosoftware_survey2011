@@ -1,0 +1,52 @@
+{
+  "pers_r6": 1, 
+  "pers_r4": 3, 
+  "man_hardware": "cluster", 
+  "pers_r2": 2, 
+  "pers_r3": 2, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "man_r2": 3, 
+  "pers_r8": 0, 
+  "pers_r5": 3, 
+  "man_os": "dontknow", 
+  "remote_addr": "89.139.x.x", 
+  "sw_general": [
+    "spss"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "most", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "edu_pub", 
+  "man_time": "most", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305808535.594085, 
+  "software_resource": [
+    "vendor", 
+    "retailer", 
+    "os"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "eprime", 
+    "mindware"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "ephys"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "Mind-ware", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "dontknow", 
+  "virt_guest_os": "dontknow", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17 ( .NET CLR 3.5.30729)", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

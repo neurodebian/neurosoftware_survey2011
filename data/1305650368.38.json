@@ -1,0 +1,71 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 1, 
+  "pers_r4": 2, 
+  "man_hardware": "grid", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 1, 
+  "man_r5": 3, 
+  "man_r4": 3, 
+  "man_r3": 3, 
+  "man_r2": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 2, 
+  "virt_r3": 0, 
+  "man_os": "rhel", 
+  "sw_electro": [
+    "eeglab"
+  ], 
+  "remote_addr": "129.170.x.x", 
+  "sw_img": [
+    "fsl", 
+    "freesurfer"
+  ], 
+  "sw_general": [
+    "labview", 
+    "matlab", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "meeg"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 1, 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305650368.378459, 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral", 
+    "sourceforge"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "psychtoolbox"
+  ], 
+  "pers_hardware": "laptop", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "ubuntu", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "sw_dc": [
+    "sge"
+  ], 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

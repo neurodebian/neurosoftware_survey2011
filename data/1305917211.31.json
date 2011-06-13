@@ -1,0 +1,59 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 3, 
+  "man_hardware": "cluster", 
+  "pers_r2": 2, 
+  "pers_r3": 2, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r4": 1, 
+  "man_r3": 2, 
+  "man_r2": 3, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "man_os": "centos", 
+  "sw_electro": [
+    "eeglab", 
+    "fieldtrip", 
+    "mne"
+  ], 
+  "remote_addr": "195.240.x.x", 
+  "sw_img": [
+    "afni", 
+    "freesurfer", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "little", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "research_pub", 
+  "man_time": "most", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305917211.3118811, 
+  "man_r1": 3, 
+  "sw_psychphys": [
+    "presentation"
+  ], 
+  "bg_datamod": [
+    "mri", 
+    "meeg", 
+    "ephys"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1", 
+  "bg_country": "Netherlands", 
+  "bg_datamod_other": ""
+}

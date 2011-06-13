@@ -1,0 +1,81 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 1, 
+  "pers_r4": 3, 
+  "man_hardware": "desktop", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "man_r5": 1, 
+  "man_r4": 3, 
+  "man_r3": 2, 
+  "man_r2": 0, 
+  "pers_r8": 3, 
+  "pers_r5": 1, 
+  "virt_r3": 3, 
+  "man_os": "windows", 
+  "sw_electro": [
+    "asa", 
+    "brainvisionanalyzer", 
+    "eeglab", 
+    "fieldtrip", 
+    "loreta"
+  ], 
+  "remote_addr": "217.244.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "bioimgsuite", 
+    "brainvisa", 
+    "fsl", 
+    "freesurfer", 
+    "imagej", 
+    "lipsia", 
+    "mni", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "spss", 
+    "scirun", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "vmware", 
+    "parallels"
+  ], 
+  "bg_position": "ra", 
+  "pers_time": "most", 
+  "virt_r1": 1, 
+  "bg_datamod": [
+    "mri", 
+    "pet", 
+    "simulation"
+  ], 
+  "virt_r2": 3, 
+  "virt_r4": 2, 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 10.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305785804.304915, 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral", 
+    "sourceforge"
+  ], 
+  "man_r1": 3, 
+  "pers_hardware": "laptop", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "macosx", 
+  "virt_guest_os": "ubuntu", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; de-de) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1", 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

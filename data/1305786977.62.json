@@ -1,0 +1,62 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 2, 
+  "pers_r4": 3, 
+  "man_hardware": "cluster", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "man_r5": 3, 
+  "man_r4": 3, 
+  "man_r3": 3, 
+  "man_r2": 3, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "man_os": "scilinux", 
+  "sw_electro": [
+    "brainstorm"
+  ], 
+  "remote_addr": "194.167.x.x", 
+  "sw_img": [
+    "afni", 
+    "brainvisa", 
+    "mni", 
+    "mricron"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "shell"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "most", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "research_pub", 
+  "man_time": "most", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305786977.616955, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "matlabcentral", 
+    "sourceforge"
+  ], 
+  "man_r1": 3, 
+  "sw_psychphys": [
+    "presentation"
+  ], 
+  "bg_datamod": [
+    "meeg"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_5; fr-fr) AppleWebKit/533.18.1 (KHTML, like Gecko) Version/5.0.2 Safari/533.18.5", 
+  "bg_country": "France", 
+  "bg_datamod_other": ""
+}

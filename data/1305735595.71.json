@@ -1,0 +1,69 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "desktop", 
+  "pers_r2": 3, 
+  "pers_r3": 3, 
+  "pers_r1": 2, 
+  "man_r5": 0, 
+  "man_r4": 3, 
+  "man_r3": 2, 
+  "man_r2": 0, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "virt_r3": 0, 
+  "man_os": "windows", 
+  "remote_addr": "66.208.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "afni", 
+    "fsl", 
+    "itksnap", 
+    "imagej", 
+    "mango"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "r", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "parallels"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "always", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "virt_r2": 0, 
+  "virt_r4": 3, 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 10.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305735595.708149, 
+  "software_resource": [
+    "vendor", 
+    "fink", 
+    "nitrc", 
+    "sourceforge"
+  ], 
+  "man_r1": 0, 
+  "sw_psychphys": [
+    "eprime"
+  ], 
+  "pers_hardware": "workstation", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "macosx", 
+  "virt_guest_os": "ubuntu", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; en-us) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

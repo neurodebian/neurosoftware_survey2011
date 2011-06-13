@@ -1,0 +1,67 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "workstation", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 3, 
+  "man_r5": 1, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "man_r2": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "virt_r3": 0, 
+  "man_os": "fedora", 
+  "remote_addr": "170.223.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "brainstools", 
+    "bioimgsuite", 
+    "cmtk", 
+    "freesurfer"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "python"
+  ], 
+  "virt_prod": [
+    "virtualbox", 
+    "xen"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "always", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 3, 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 3.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305742288.1136839, 
+  "software_resource": [
+    "vendor", 
+    "neurodebian", 
+    "nitrc"
+  ], 
+  "man_r1": 2, 
+  "pers_hardware": "workstation", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "macosx", 
+  "virt_guest_os": "fedora", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.17) Gecko/20110422 Ubuntu/10.10 (maverick) Firefox/3.6.17", 
+  "sw_dc": [
+    "ipython"
+  ], 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

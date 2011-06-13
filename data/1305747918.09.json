@@ -1,0 +1,69 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 3, 
+  "pers_r4": 1, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 1, 
+  "pers_r8": 1, 
+  "pers_r5": 2, 
+  "virt_r3": 1, 
+  "man_os": "none", 
+  "remote_addr": "193.253.x.x", 
+  "sw_img": [
+    "brainvisa", 
+    "fsl", 
+    "freesurfer", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "python", 
+    "r", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "always", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "genetic", 
+    "mri", 
+    "pet"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 0, 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 20.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305747918.085165, 
+  "software_resource": [
+    "vendor", 
+    "neurodebian", 
+    "nitrc", 
+    "pypi"
+  ], 
+  "pers_hardware": "cluster", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "ubuntu", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Linux; U; Android 2.1-update1; fr-fr; Milestone Build/SHOLS_U2_02.38.1) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17", 
+  "sw_dc": [
+    "sge", 
+    "torque", 
+    "mpi", 
+    "ipython"
+  ], 
+  "bg_country": "France", 
+  "bg_datamod_other": "3D histology"
+}

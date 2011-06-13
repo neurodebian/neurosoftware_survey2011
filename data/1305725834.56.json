@@ -1,0 +1,66 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "laptop", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "man_r5": 2, 
+  "man_r4": 1, 
+  "man_r3": 2, 
+  "man_r2": 3, 
+  "pers_r8": 2, 
+  "pers_r5": 2, 
+  "man_os": "macosx", 
+  "sw_electro": [
+    "eeglab"
+  ], 
+  "remote_addr": "137.120.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "brainvoyager", 
+    "trackvis", 
+    "fsl", 
+    "freesurfer", 
+    "mni", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "lisrel", 
+    "matlab", 
+    "spss"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "most", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 120.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305725834.5619659, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "matlabcentral"
+  ], 
+  "man_r1": 3, 
+  "sw_psychphys": [
+    "eprime"
+  ], 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; nl; rv:1.9.2.15) Gecko/20110303 BTRS26718 Firefox/3.6.15 (.NET CLR 3.5.30729)", 
+  "bg_country": "Netherlands", 
+  "bg_datamod_other": ""
+}

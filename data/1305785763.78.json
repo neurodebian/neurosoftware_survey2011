@@ -1,0 +1,60 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 1, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "virt_r3": 1, 
+  "man_os": "none", 
+  "remote_addr": "188.108.x.x", 
+  "sw_img": [
+    "fsl", 
+    "freesurfer", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "spss", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "vmware"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "most", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 2, 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "centos", 
+  "timestamp": 1305785763.784852, 
+  "software_resource": [
+    "vendor", 
+    "sourceforge"
+  ], 
+  "pers_hardware": "cluster", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "centos", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)", 
+  "sw_dc": [
+    "sge"
+  ], 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

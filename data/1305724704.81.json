@@ -1,0 +1,72 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "desktop", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "man_r5": 1, 
+  "man_r4": 2, 
+  "man_r3": 1, 
+  "man_r2": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "virt_r3": 3, 
+  "man_os": "windows", 
+  "remote_addr": "193.205.x.x", 
+  "sw_img": [
+    "afni", 
+    "fsl", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "python", 
+    "r", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "vmware"
+  ], 
+  "sw_bci": [
+    "bci2000"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "mri", 
+    "meeg", 
+    "simulation"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 1, 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 10.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305724704.8102219, 
+  "software_resource": [
+    "matlabcentral", 
+    "sourceforge"
+  ], 
+  "man_r1": 1, 
+  "pers_hardware": "laptop", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "rhel", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1)", 
+  "sw_dc": [
+    "condor"
+  ], 
+  "bg_country": "Italy", 
+  "bg_datamod_other": ""
+}

@@ -1,0 +1,74 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 0, 
+  "pers_r4": 0, 
+  "man_hardware": "cluster", 
+  "pers_r2": 0, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "man_r5": 0, 
+  "man_r4": 0, 
+  "man_r3": 0, 
+  "man_r2": 0, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "sw_rt": [
+    "rtai"
+  ], 
+  "virt_r3": 3, 
+  "man_os": "debian", 
+  "sw_electro": [
+    "biosig", 
+    "openelectrophy", 
+    "openmeeg"
+  ], 
+  "remote_addr": "147.94.x.x", 
+  "sw_general": [
+    "python", 
+    "r", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "kvm"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "little", 
+  "virt_r1": 2, 
+  "bg_datamod": [
+    "simulation"
+  ], 
+  "virt_r2": 3, 
+  "virt_r4": 2, 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 0.5, 
+  "pers_os": "debian", 
+  "timestamp": 1305877268.814244, 
+  "sw_neusys": [
+    "brian"
+  ], 
+  "software_resource": [
+    "os", 
+    "cran", 
+    "incf", 
+    "neurodebian", 
+    "pypi", 
+    "pythonbundles"
+  ], 
+  "man_r1": 1, 
+  "pers_hardware": "laptop", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "debian", 
+  "virt_guest_os": "debian", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.19) Gecko/20110430 Iceweasel/3.5.19 (like Firefox/3.5.19)", 
+  "sw_dc": [
+    "torque"
+  ], 
+  "bg_country": "France", 
+  "bg_datamod_other": ""
+}

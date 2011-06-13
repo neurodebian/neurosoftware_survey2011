@@ -1,0 +1,51 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 3, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "man_os": "none", 
+  "sw_electro": [
+    "eeglab"
+  ], 
+  "remote_addr": "95.74.x.x", 
+  "sw_general": [
+    "matlab", 
+    "r", 
+    "shell"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_os": "ubuntu", 
+  "timestamp": 1306184908.4586861, 
+  "software_resource": [
+    "vendor", 
+    "cran", 
+    "matlabcentral"
+  ], 
+  "sw_psychphys": [
+    "psychtoolbox"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "meeg"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.17) Gecko/20110422 Ubuntu/10.10 (maverick) Firefox/3.6.17", 
+  "bg_country": "Italy", 
+  "bg_datamod_other": ""
+}

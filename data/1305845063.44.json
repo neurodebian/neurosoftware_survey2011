@@ -1,0 +1,60 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "workstation", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "man_r5": 1, 
+  "man_r4": 2, 
+  "man_r3": 0, 
+  "man_r2": 0, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "man_os": "rhel", 
+  "remote_addr": "2.97.x.x", 
+  "sw_img": [
+    "fsl", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "octave", 
+    "r", 
+    "shell"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "most", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 0.10000000000000001, 
+  "pers_os": "macosx", 
+  "timestamp": 1305845063.439184, 
+  "software_resource": [
+    "vendor", 
+    "cran"
+  ], 
+  "man_r1": 2, 
+  "bg_datamod": [
+    "genetic", 
+    "mri"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; en-US) AppleWebKit/534.13 (KHTML, like Gecko) Chrome/9.0.597.102 Safari/534.13", 
+  "sw_dc": [
+    "sge"
+  ], 
+  "bg_country": "United Kingdom", 
+  "bg_datamod_other": ""
+}

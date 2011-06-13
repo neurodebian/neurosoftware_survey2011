@@ -1,0 +1,88 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 2, 
+  "pers_r4": 1, 
+  "man_hardware": "none", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "sw_neusys": [
+    "snns"
+  ], 
+  "pers_r8": 3, 
+  "pers_r5": 2, 
+  "virt_r3": 1, 
+  "man_os": "none", 
+  "sw_electro": [
+    "brainvisionanalyzer", 
+    "eeglab", 
+    "loreta"
+  ], 
+  "remote_addr": "141.50.x.x", 
+  "sw_img": [
+    "caret", 
+    "fsl", 
+    "freesurfer", 
+    "mango", 
+    "mipav", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "fortran", 
+    "java", 
+    "labview", 
+    "matlab", 
+    "octave", 
+    "r", 
+    "ruby", 
+    "spss", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "vmware"
+  ], 
+  "bg_position": "none", 
+  "pers_time": "most", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "behav", 
+    "genetic", 
+    "mri", 
+    "meeg", 
+    "ephys"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 0, 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1306240119.2986009, 
+  "software_resource": [
+    "vendor", 
+    "cran", 
+    "epel", 
+    "matlabcentral", 
+    "neurodebian", 
+    "nitrc", 
+    "sourceforge"
+  ], 
+  "man_r1": 0, 
+  "sw_psychphys": [
+    "presentation"
+  ], 
+  "pers_hardware": "desktop", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.57 Safari/534.24", 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

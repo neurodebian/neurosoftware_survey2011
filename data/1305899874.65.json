@@ -1,0 +1,60 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "workstation", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "man_r5": 0, 
+  "man_r4": 0, 
+  "man_r3": 2, 
+  "man_r2": 2, 
+  "pers_r8": 2, 
+  "virt_r3": 1, 
+  "man_os": "debian", 
+  "remote_addr": "96.23.x.x", 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "python"
+  ], 
+  "virt_prod": [
+    "vmware"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "little", 
+  "virt_r1": 2, 
+  "bg_datamod": [
+    "simulation"
+  ], 
+  "virt_r2": 0, 
+  "virt_r4": 2, 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305899874.649694, 
+  "sw_neusys": [
+    "brian"
+  ], 
+  "software_resource": [
+    "pythonbundles"
+  ], 
+  "man_r1": 3, 
+  "pers_hardware": "laptop", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "macosx", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; fr-fr) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27", 
+  "sw_dc": [
+    "mpi"
+  ], 
+  "bg_country": "Canada", 
+  "bg_datamod_other": ""
+}

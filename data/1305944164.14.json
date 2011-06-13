@@ -1,0 +1,52 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "man_os": "none", 
+  "sw_electro": [
+    "besa", 
+    "brainvisionanalyzer", 
+    "eeglab", 
+    "loreta"
+  ], 
+  "remote_addr": "216.121.x.x", 
+  "sw_general": [
+    "labview", 
+    "matlab", 
+    "spss"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "most", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 7.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305944164.1405909, 
+  "software_resource": [
+    "vendor"
+  ], 
+  "sw_psychphys": [
+    "eprime"
+  ], 
+  "bg_datamod": [
+    "meeg"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.17) Gecko/20110422 Ubuntu/10.04 (lucid) Firefox/3.6.17", 
+  "bg_country": "Canada", 
+  "bg_datamod_other": ""
+}

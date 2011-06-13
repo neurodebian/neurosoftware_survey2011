@@ -1,0 +1,70 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 3, 
+  "man_hardware": "none", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 3, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "virt_r3": 1, 
+  "man_os": "none", 
+  "sw_electro": [
+    "eeglab"
+  ], 
+  "remote_addr": "201.232.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "bioimgsuite", 
+    "cmtk", 
+    "fsl", 
+    "freesurfer", 
+    "itksnap", 
+    "mni", 
+    "mricron"
+  ], 
+  "sw_general": [
+    "octave", 
+    "python", 
+    "r", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "ra", 
+  "pers_time": "always", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "virt_r4": 1, 
+  "bg_employer": "research_priv", 
+  "man_time": "notime", 
+  "pers_maint_time": 10.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305807862.569556, 
+  "software_resource": [
+    "vendor", 
+    "cran", 
+    "fink", 
+    "macports", 
+    "nitrc"
+  ], 
+  "sw_psychphys": [
+    "psychtoolbox"
+  ], 
+  "pers_hardware": "laptop", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "macosx", 
+  "virt_guest_os": "ubuntu", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_5; es-es) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4", 
+  "bg_country": "Colombia", 
+  "bg_datamod_other": ""
+}

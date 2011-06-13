@@ -1,0 +1,79 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 3, 
+  "pers_r4": 1, 
+  "man_hardware": "workstation", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r3": 3, 
+  "man_r2": 2, 
+  "pers_r8": 3, 
+  "pers_r5": 1, 
+  "virt_r3": 1, 
+  "man_os": "gentoo", 
+  "sw_other": "othersw", 
+  "remote_addr": "193.196.x.x", 
+  "sw_img": [
+    "afni", 
+    "brainvoyager", 
+    "camino", 
+    "caret", 
+    "fsl", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "octave", 
+    "python", 
+    "r", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "kvm"
+  ], 
+  "bg_position": "none", 
+  "pers_time": "most", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "pet"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 0, 
+  "bg_employer": "none", 
+  "man_time": "little", 
+  "pers_maint_time": 20.0, 
+  "pers_os": "gentoo", 
+  "timestamp": 1305802477.469409, 
+  "software_resource": [
+    "vendor", 
+    "retailer", 
+    "os", 
+    "matlabcentral", 
+    "nitrc", 
+    "sourceforge"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "presentation"
+  ], 
+  "pers_hardware": "workstation", 
+  "bg_developer": "yes", 
+  "sw_other_name": "OpenClinica", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "gentoo", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "sw_dc": [
+    "torque"
+  ], 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

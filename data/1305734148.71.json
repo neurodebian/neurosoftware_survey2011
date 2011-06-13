@@ -1,0 +1,58 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 1, 
+  "pers_r4": 0, 
+  "man_hardware": "none", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 0, 
+  "pers_r8": 2, 
+  "pers_r5": 1, 
+  "virt_r3": 1, 
+  "man_os": "none", 
+  "sw_electro": [
+    "loreta"
+  ], 
+  "remote_addr": "131.254.x.x", 
+  "sw_general": [
+    "cpp", 
+    "scilab", 
+    "lua"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "sw_bci": [
+    "openvibe"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "always", 
+  "virt_r1": 2, 
+  "bg_datamod": [
+    "meeg"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 2, 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305734148.707293, 
+  "software_resource": [
+    "os", 
+    "sourceforge", 
+    "otherres"
+  ], 
+  "pers_hardware": "desktop", 
+  "bg_developer": "yes", 
+  "sw_other_name": "Lua", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "own", 
+  "virt_host_os": "ubuntu", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.17) Gecko/20110422 Ubuntu/10.04 (lucid) Firefox/3.6.17", 
+  "bg_country": "France", 
+  "bg_datamod_other": ""
+}

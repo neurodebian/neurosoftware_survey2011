@@ -1,0 +1,75 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 1, 
+  "pers_r4": 1, 
+  "man_hardware": "cluster", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "man_r5": 3, 
+  "man_r4": 1, 
+  "man_r3": 2, 
+  "man_r2": 3, 
+  "pers_r8": 2, 
+  "pers_r5": 2, 
+  "virt_r3": 1, 
+  "man_os": "debian", 
+  "remote_addr": "129.170.x.x", 
+  "sw_img": [
+    "afni", 
+    "fsl", 
+    "freesurfer", 
+    "mricron", 
+    "mvpa", 
+    "nibabel", 
+    "pymvpa"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "octave", 
+    "python", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "little", 
+  "virt_r1": 2, 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 1, 
+  "bg_employer": "edu_priv", 
+  "man_time": "most", 
+  "pers_maint_time": 0.5, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305644940.414602, 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral", 
+    "neurodebian", 
+    "sourceforge"
+  ], 
+  "man_r1": 3, 
+  "sw_psychphys": [
+    "psychopy", 
+    "psychtoolbox"
+  ], 
+  "pers_hardware": "workstation", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "debian", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "sw_dc": [
+    "sge", 
+    "condor"
+  ], 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

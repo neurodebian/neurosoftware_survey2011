@@ -1,0 +1,76 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "cluster", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "man_r5": 1, 
+  "man_r4": 2, 
+  "man_r3": 1, 
+  "man_r2": 2, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "virt_r3": 3, 
+  "man_os": "rhel", 
+  "sw_electro": [
+    "biosig"
+  ], 
+  "remote_addr": "129.170.x.x", 
+  "sw_img": [
+    "fsl", 
+    "nibabel", 
+    "nipy", 
+    "pymvpa"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "python", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "always", 
+  "virt_r1": 1, 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "virt_r2": 3, 
+  "virt_r4": 3, 
+  "bg_employer": "edu_priv", 
+  "man_time": "notime", 
+  "pers_maint_time": 4.0, 
+  "pers_os": "debian", 
+  "timestamp": 1305724829.691155, 
+  "software_resource": [
+    "os", 
+    "neurodebian"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "psychopy", 
+    "pyepl", 
+    "psychtoolbox"
+  ], 
+  "pers_hardware": "laptop", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "debian", 
+  "virt_guest_os": "debian", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:2.0.1) Gecko/20110430 Firefox/4.0.1 Iceweasel/4.0.1", 
+  "sw_dc": [
+    "sge", 
+    "torque", 
+    "condor", 
+    "ipython"
+  ], 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

@@ -1,0 +1,60 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 1, 
+  "sw_neusys": [
+    "nengo"
+  ], 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "man_os": "none", 
+  "remote_addr": "129.97.x.x", 
+  "sw_general": [
+    "cpp", 
+    "java", 
+    "maple", 
+    "mathematica", 
+    "matlab", 
+    "python", 
+    "shell"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "always", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 0.5, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305834176.1456981, 
+  "software_resource": [
+    "vendor", 
+    "retailer", 
+    "os", 
+    "matlabcentral", 
+    "pypi", 
+    "pythonbundles", 
+    "sourceforge"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "meeg", 
+    "ephys", 
+    "simulation"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.204 Safari/534.16", 
+  "bg_country": "Canada", 
+  "bg_datamod_other": ""
+}

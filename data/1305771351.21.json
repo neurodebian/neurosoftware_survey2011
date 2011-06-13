@@ -1,0 +1,71 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "laptop", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r4": 3, 
+  "man_r3": 2, 
+  "man_r2": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "virt_r3": 2, 
+  "sw_acq": [
+    "comedi"
+  ], 
+  "man_os": "windows", 
+  "sw_electro": [
+    "biosig", 
+    "eeglab"
+  ], 
+  "remote_addr": "68.226.x.x", 
+  "sw_general": [
+    "cpp", 
+    "labview", 
+    "matlab"
+  ], 
+  "sw_bci": [
+    "bci2000"
+  ], 
+  "bg_position": "none", 
+  "pers_time": "most", 
+  "virt_r1": 0, 
+  "bg_datamod": [
+    "meeg", 
+    "ephys", 
+    "simulation"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 0, 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "none", 
+  "timestamp": 1305771351.2063971, 
+  "sw_neusys": [
+    "neuron"
+  ], 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "psychtoolbox"
+  ], 
+  "pers_hardware": "laptop", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 1.1.4322; .NET4.0C; Media Center PC 6.0; Tablet PC 2.0; InfoPath.3; .NET4.0E; AskTbHIP/5.11.3.15590; MALC)", 
+  "bg_country": "China", 
+  "bg_datamod_other": ""
+}

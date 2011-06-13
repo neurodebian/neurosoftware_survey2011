@@ -1,0 +1,47 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 3, 
+  "pers_r4": 3, 
+  "man_hardware": "none", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 0, 
+  "pers_r8": 3, 
+  "pers_r5": 1, 
+  "man_os": "none", 
+  "remote_addr": "129.210.x.x", 
+  "sw_general": [
+    "python", 
+    "spss"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "little", 
+  "pers_hardware": "desktop", 
+  "bg_employer": "edu_priv", 
+  "man_time": "notime", 
+  "pers_maint_time": 3.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305918843.6217599, 
+  "software_resource": [
+    "vendor", 
+    "cran", 
+    "neurodebian"
+  ], 
+  "sw_psychphys": [
+    "psychopy"
+  ], 
+  "bg_datamod": [
+    "behav"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

@@ -1,0 +1,77 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 3, 
+  "man_hardware": "workstation", 
+  "pers_r2": 2, 
+  "pers_r3": 2, 
+  "pers_r1": 2, 
+  "man_r5": 1, 
+  "man_r4": 2, 
+  "man_r3": 0, 
+  "man_r2": 0, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "man_os": "macosx", 
+  "remote_addr": "75.61.x.x", 
+  "sw_img": [
+    "fsl", 
+    "freesurfer", 
+    "mricron", 
+    "nibabel", 
+    "pymvpa"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "python", 
+    "r", 
+    "spss", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "most", 
+  "virt_r1": 2, 
+  "pers_hardware": "workstation", 
+  "virt_r2": 1, 
+  "virt_r4": 2, 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 5.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305692336.394011, 
+  "software_resource": [
+    "retailer", 
+    "cran", 
+    "macports", 
+    "neurodebian", 
+    "pythonbundles", 
+    "sourceforge"
+  ], 
+  "man_r1": 1, 
+  "sw_psychphys": [
+    "psychopy", 
+    "psychtoolbox"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "mri"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "macosx", 
+  "virt_guest_os": "ubuntu", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "sw_dc": [
+    "ipython"
+  ], 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

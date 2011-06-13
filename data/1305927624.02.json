@@ -1,0 +1,58 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 3, 
+  "pers_r4": 1, 
+  "man_hardware": "none", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 0, 
+  "man_r5": 3, 
+  "man_r4": 1, 
+  "man_r3": 2, 
+  "man_r2": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 2, 
+  "man_os": "none", 
+  "sw_electro": [
+    "besa", 
+    "brainsuite", 
+    "chronus"
+  ], 
+  "remote_addr": "92.8.x.x", 
+  "sw_general": [
+    "mathematica", 
+    "scilab"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "little", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "edu_priv", 
+  "man_time": "notime", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305927624.0177071, 
+  "software_resource": [
+    "vendor", 
+    "sourceforge"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "dmdx", 
+    "psychopy"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "meeg"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24", 
+  "bg_country": "United Kingdom", 
+  "bg_datamod_other": ""
+}

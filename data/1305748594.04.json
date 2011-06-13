@@ -1,0 +1,54 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "sw_neusys": [
+    "brian"
+  ], 
+  "pers_r8": 3, 
+  "pers_r5": 2, 
+  "virt_r3": 0, 
+  "man_os": "none", 
+  "remote_addr": "80.118.x.x", 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "python"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "always", 
+  "virt_r1": 2, 
+  "bg_datamod": [
+    "ephys", 
+    "simulation"
+  ], 
+  "virt_r2": 0, 
+  "virt_r4": 0, 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 10.0, 
+  "pers_os": "suse", 
+  "timestamp": 1305748594.0401061, 
+  "software_resource": [
+    "otherres"
+  ], 
+  "pers_hardware": "desktop", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "neuralensemble", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "suse", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.16) Gecko/20110323 Ubuntu/10.10 (maverick) Firefox/3.6.16", 
+  "bg_country": "France", 
+  "bg_datamod_other": ""
+}

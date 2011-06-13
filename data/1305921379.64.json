@@ -1,0 +1,74 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 3, 
+  "man_hardware": "desktop", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 1, 
+  "man_r5": 1, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "man_r2": 3, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "virt_r3": 1, 
+  "man_os": "fedora", 
+  "remote_addr": "82.41.x.x", 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "octave", 
+    "python", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "vmware", 
+    "virtualbox"
+  ], 
+  "bg_position": "undergrad", 
+  "pers_time": "most", 
+  "virt_r1": 1, 
+  "bg_datamod": [
+    "behav", 
+    "simulation"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 1, 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "fedora", 
+  "timestamp": 1305921379.6443701, 
+  "sw_neusys": [
+    "pynn", 
+    "topographica"
+  ], 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral", 
+    "pypi", 
+    "pythonbundles", 
+    "sourceforge"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "psychtoolbox"
+  ], 
+  "pers_hardware": "desktop", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "fedora", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.2.16) Gecko/20110319 Firefox/3.6.16 ( .NET CLR 3.5.30729)", 
+  "sw_dc": [
+    "mpi", 
+    "ipython"
+  ], 
+  "bg_country": "United Kingdom", 
+  "bg_datamod_other": ""
+}

@@ -1,0 +1,65 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "desktop", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "man_r5": 2, 
+  "man_r4": 2, 
+  "man_r3": 1, 
+  "man_r2": 1, 
+  "pers_r8": 2, 
+  "pers_r5": 2, 
+  "man_os": "windows", 
+  "remote_addr": "62.47.x.x", 
+  "sw_general": [
+    "cpp", 
+    "mathematica", 
+    "matlab", 
+    "python", 
+    "r"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "little", 
+  "pers_hardware": "cluster", 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 8.0, 
+  "pers_os": "suse", 
+  "timestamp": 1305751907.31124, 
+  "sw_neusys": [
+    "moose", 
+    "neuroml", 
+    "neuron", 
+    "pcsim"
+  ], 
+  "software_resource": [
+    "vendor", 
+    "retailer", 
+    "cran", 
+    "matlabcentral", 
+    "pypi", 
+    "sourceforge"
+  ], 
+  "man_r1": 2, 
+  "bg_datamod": [
+    "simulation"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "sw_dc": [
+    "mpi", 
+    "ipython"
+  ], 
+  "bg_country": "Austria", 
+  "bg_datamod_other": ""
+}

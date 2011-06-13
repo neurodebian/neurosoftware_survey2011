@@ -1,0 +1,61 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 1, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 1, 
+  "sw_neusys": [
+    "brian", 
+    "neuron"
+  ], 
+  "pers_r8": 3, 
+  "pers_r5": 2, 
+  "man_os": "none", 
+  "sw_electro": [
+    "openelectrophy", 
+    "plexon"
+  ], 
+  "remote_addr": "96.236.x.x", 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "python", 
+    "r", 
+    "shell"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "most", 
+  "pers_hardware": "desktop", 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 5.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305772540.3572149, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "pypi", 
+    "pythonbundles", 
+    "sourceforge"
+  ], 
+  "bg_datamod": [
+    "ephys", 
+    "simulation"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.16 Safari/534.30", 
+  "sw_dc": [
+    "ipython"
+  ], 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

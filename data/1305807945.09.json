@@ -1,0 +1,85 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 2, 
+  "pers_r4": 3, 
+  "man_hardware": "grid", 
+  "pers_r2": 3, 
+  "pers_r3": 2, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r4": 3, 
+  "man_r3": 3, 
+  "man_r2": 2, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "virt_r3": 3, 
+  "man_os": "centos", 
+  "sw_other": "othersw", 
+  "remote_addr": "75.182.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "afni", 
+    "caret", 
+    "connectomviewer", 
+    "fsl", 
+    "freesurfer", 
+    "nibabel"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "octave", 
+    "perl", 
+    "python", 
+    "r", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "always", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "virt_r2": 3, 
+  "virt_r4": 2, 
+  "bg_employer": "research_pub", 
+  "man_time": "most", 
+  "pers_maint_time": 3.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305807945.092278, 
+  "software_resource": [
+    "os", 
+    "cpan", 
+    "cran", 
+    "epel", 
+    "fink", 
+    "matlabcentral", 
+    "nitrc", 
+    "pypi", 
+    "pythonbundles", 
+    "sourceforge"
+  ], 
+  "man_r1": 3, 
+  "sw_psychphys": [
+    "visionegg"
+  ], 
+  "pers_hardware": "laptop", 
+  "bg_developer": "yes", 
+  "sw_other_name": "Gephi, AFNI for BCI, ", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "macosx", 
+  "virt_guest_os": "ubuntu", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_7) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24", 
+  "sw_dc": [
+    "torque", 
+    "ipython"
+  ], 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

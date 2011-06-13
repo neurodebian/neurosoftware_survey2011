@@ -1,0 +1,64 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "laptop", 
+  "pers_r2": 2, 
+  "pers_r3": 2, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r4": 3, 
+  "man_r3": 3, 
+  "man_r2": 3, 
+  "pers_r8": 2, 
+  "man_os": "windows", 
+  "sw_electro": [
+    "eeglab", 
+    "loreta"
+  ], 
+  "remote_addr": "159.92.x.x", 
+  "sw_img": [
+    "brainmap", 
+    "mricron", 
+    "mvpa"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab"
+  ], 
+  "sw_bci": [
+    "bci2000"
+  ], 
+  "bg_position": "ra", 
+  "pers_time": "little", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 15.0, 
+  "pers_os": "windows", 
+  "timestamp": 1306261603.9202881, 
+  "software_resource": [
+    "matlabcentral"
+  ], 
+  "man_r1": 3, 
+  "bg_datamod": [
+    "meeg"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "sw_datamanage": [
+    "hid"
+  ], 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.0; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "sw_dc": [
+    "sge"
+  ], 
+  "bg_country": "United Kingdom", 
+  "bg_datamod_other": ""
+}

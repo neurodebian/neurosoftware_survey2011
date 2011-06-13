@@ -1,0 +1,49 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 3, 
+  "pers_r4": 1, 
+  "man_hardware": "grid", 
+  "pers_r2": 3, 
+  "pers_r3": 2, 
+  "pers_r1": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "man_os": "none", 
+  "remote_addr": "128.97.x.x", 
+  "sw_img": [
+    "bioimgsuite", 
+    "fsl", 
+    "mango", 
+    "spm"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "spss"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305763850.7818241, 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral"
+  ], 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

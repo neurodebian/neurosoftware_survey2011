@@ -1,0 +1,81 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "cluster", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r4": 2, 
+  "man_r3": 3, 
+  "man_r2": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "sw_rt": [
+    "rtlinux"
+  ], 
+  "man_os": "centos", 
+  "sw_other": "othersw", 
+  "remote_addr": "141.161.x.x", 
+  "sw_img": [
+    "afni", 
+    "trackvis", 
+    "fsl", 
+    "freesurfer", 
+    "mipav", 
+    "mricron", 
+    "nibabel", 
+    "pymvpa"
+  ], 
+  "sw_general": [
+    "idl", 
+    "python", 
+    "r", 
+    "shell"
+  ], 
+  "bg_position": "ra", 
+  "pers_time": "most", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 0.5, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305724775.5609109, 
+  "sw_neusys": [
+    "neuron"
+  ], 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "cran", 
+    "macports", 
+    "neurodebian", 
+    "pypi", 
+    "pythonbundles", 
+    "sourceforge"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "psychopy"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "simulation"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "MySQL", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:2.0) Gecko/20100101 Firefox/4.0", 
+  "sw_dc": [
+    "torque"
+  ], 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

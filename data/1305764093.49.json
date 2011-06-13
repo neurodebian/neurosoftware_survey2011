@@ -1,0 +1,43 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 3, 
+  "pers_r4": 3, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 2, 
+  "pers_r1": 0, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "man_os": "none", 
+  "remote_addr": "89.236.x.x", 
+  "sw_general": [
+    "matlab"
+  ], 
+  "bg_position": "undergrad", 
+  "pers_time": "most", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 3.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305764093.491205, 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral"
+  ], 
+  "bg_datamod": [
+    "mri", 
+    "simulation"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.53 Safari/534.30", 
+  "bg_country": "Denmark", 
+  "bg_datamod_other": ""
+}

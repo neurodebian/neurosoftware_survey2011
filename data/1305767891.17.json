@@ -1,0 +1,82 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "grid", 
+  "pers_r2": 2, 
+  "pers_r3": 2, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r4": 3, 
+  "man_r3": 1, 
+  "man_r2": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "virt_r3": 3, 
+  "man_os": "rhel", 
+  "remote_addr": "159.226.x.x", 
+  "sw_img": [
+    "afni", 
+    "caret", 
+    "fsl", 
+    "fiji", 
+    "freesurfer", 
+    "imagej", 
+    "mricron", 
+    "rest", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "perl", 
+    "python", 
+    "r", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "ra", 
+  "pers_time": "little", 
+  "virt_r1": 1, 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "virt_r2": 3, 
+  "virt_r4": 1, 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 4.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305767891.171093, 
+  "software_resource": [
+    "vendor", 
+    "cpan", 
+    "cran", 
+    "matlabcentral", 
+    "nitrc", 
+    "sourceforge"
+  ], 
+  "man_r1": 1, 
+  "sw_psychphys": [
+    "eprime", 
+    "psychtoolbox"
+  ], 
+  "pers_hardware": "laptop", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "ubuntu", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.30 Safari/534.30", 
+  "sw_dc": [
+    "torque", 
+    "condor"
+  ], 
+  "bg_country": "China", 
+  "bg_datamod_other": ""
+}

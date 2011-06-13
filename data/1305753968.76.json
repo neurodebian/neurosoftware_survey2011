@@ -1,0 +1,65 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 1, 
+  "pers_r4": 3, 
+  "man_hardware": "cluster", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "man_r5": 2, 
+  "man_r4": 2, 
+  "man_r3": 1, 
+  "man_r2": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "man_os": "rhel", 
+  "remote_addr": "128.232.x.x", 
+  "sw_img": [
+    "freesurfer", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "octave", 
+    "shell"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "most", 
+  "pers_hardware": "grid", 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 0.0, 
+  "pers_os": "rhel", 
+  "timestamp": 1305753968.758162, 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral", 
+    "sourceforge"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "dmdx"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "genetic", 
+    "mri", 
+    "simulation"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Ubuntu/11.04 Chromium/11.0.696.65 Chrome/11.0.696.65 Safari/534.24", 
+  "sw_dc": [
+    "condor"
+  ], 
+  "bg_country": "United Kingdom", 
+  "bg_datamod_other": ""
+}

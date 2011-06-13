@@ -1,0 +1,68 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 1, 
+  "man_hardware": "laptop", 
+  "pers_r2": 2, 
+  "pers_r3": 2, 
+  "pers_r1": 2, 
+  "man_r5": 2, 
+  "man_r4": 3, 
+  "man_r3": 2, 
+  "man_r2": 0, 
+  "pers_r8": 1, 
+  "pers_r5": 2, 
+  "virt_r3": 2, 
+  "man_os": "ubuntu", 
+  "sw_electro": [
+    "besa", 
+    "biosig", 
+    "brainstorm", 
+    "eeglab", 
+    "elekta", 
+    "fieldtrip", 
+    "mne"
+  ], 
+  "remote_addr": "113.193.x.x", 
+  "sw_img": [
+    "itksnap", 
+    "imagej", 
+    "mni", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "little", 
+  "virt_r1": 1, 
+  "bg_datamod": [
+    "mri", 
+    "meeg", 
+    "pet"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 1, 
+  "bg_employer": "edu_priv", 
+  "man_time": "little", 
+  "pers_maint_time": 10.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305982130.600136, 
+  "sw_neusys": [
+    "brian"
+  ], 
+  "man_r1": 2, 
+  "pers_hardware": "laptop", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.17) Gecko/20110422 Ubuntu/10.04 (lucid) Firefox/3.6.17", 
+  "bg_country": "India", 
+  "bg_datamod_other": ""
+}

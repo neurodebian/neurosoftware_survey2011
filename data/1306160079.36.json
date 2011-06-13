@@ -1,0 +1,26 @@
+{
+  "man_hardware": "none", 
+  "man_os": "none", 
+  "remote_addr": "91.34.x.x", 
+  "bg_position": "postdoc", 
+  "pers_time": "most", 
+  "pers_hardware": "none", 
+  "bg_employer": "edu_priv", 
+  "man_time": "most", 
+  "pers_os": "none", 
+  "timestamp": 1306160079.3648109, 
+  "bg_datamod": [
+    "genetic"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; Linux i686; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "United Kingdom", 
+  "bg_datamod_other": ""
+}

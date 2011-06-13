@@ -1,0 +1,72 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "sw_neusys": [
+    "brian", 
+    "genesis", 
+    "moose", 
+    "nest", 
+    "neuron", 
+    "psics", 
+    "pynn", 
+    "neuroml"
+  ], 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "virt_r3": 1, 
+  "man_os": "none", 
+  "sw_other": "othersw", 
+  "remote_addr": "128.40.x.x", 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "octave", 
+    "python", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "simulation"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 1, 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 4.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305707443.5914631, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "macports", 
+    "pypi", 
+    "sourceforge"
+  ], 
+  "pers_hardware": "workstation", 
+  "bg_developer": "yes", 
+  "sw_other_name": "neuroConstruct, NeuroML", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "ubuntu", 
+  "virt_guest_os": "macosx", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-GB; rv:1.9.2.17) Gecko/20110422 Ubuntu/10.04 (lucid) Firefox/3.6.17", 
+  "sw_dc": [
+    "sge", 
+    "torque", 
+    "mpi"
+  ], 
+  "bg_country": "United Kingdom", 
+  "bg_datamod_other": ""
+}

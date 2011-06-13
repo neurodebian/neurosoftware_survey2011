@@ -1,0 +1,60 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "desktop", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "man_r5": 1, 
+  "man_r4": 1, 
+  "man_r3": 0, 
+  "man_r2": 1, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "virt_r3": 2, 
+  "man_os": "macosx", 
+  "sw_other": "othersw", 
+  "remote_addr": "139.80.x.x", 
+  "sw_general": [
+    "octave", 
+    "python"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "most", 
+  "virt_r1": 2, 
+  "bg_datamod": [
+    "simulation"
+  ], 
+  "virt_r2": 3, 
+  "virt_r4": 2, 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 10.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305756998.9139831, 
+  "software_resource": [
+    "vendor", 
+    "sourceforge", 
+    "otherres"
+  ], 
+  "man_r1": 2, 
+  "pers_hardware": "laptop", 
+  "bg_developer": "no", 
+  "sw_other_name": "Numpy, Spyder", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "www.scipy.org", 
+  "virt_host_os": "macosx", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24", 
+  "sw_dc": [
+    "ipython"
+  ], 
+  "bg_country": "New Zealand", 
+  "bg_datamod_other": ""
+}

@@ -1,0 +1,61 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 3, 
+  "pers_r4": 3, 
+  "man_hardware": "desktop", 
+  "pers_r2": 3, 
+  "pers_r3": 2, 
+  "pers_r1": 3, 
+  "man_r5": 3, 
+  "man_r4": 2, 
+  "man_r3": 3, 
+  "man_r2": 3, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "virt_r3": 3, 
+  "man_os": "ubuntu", 
+  "remote_addr": "69.165.x.x", 
+  "sw_img": [
+    "brainvoyager"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "python"
+  ], 
+  "virt_prod": [
+    "parallels"
+  ], 
+  "bg_position": "none", 
+  "pers_time": "most", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "ephys", 
+    "simulation"
+  ], 
+  "virt_r2": 0, 
+  "virt_r4": 3, 
+  "bg_employer": "edu_pub", 
+  "man_time": "most", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1306157780.4960849, 
+  "sw_neusys": [
+    "nengo"
+  ], 
+  "software_resource": [
+    "vendor"
+  ], 
+  "man_r1": 3, 
+  "pers_hardware": "desktop", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "macosx", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "Canada", 
+  "bg_datamod_other": ""
+}

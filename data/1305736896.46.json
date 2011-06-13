@@ -1,0 +1,66 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 2, 
+  "pers_r4": 0, 
+  "man_hardware": "cluster", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r4": 3, 
+  "man_r3": 2, 
+  "man_r2": 2, 
+  "pers_r8": 3, 
+  "pers_r5": 1, 
+  "sw_rt": [
+    "rtai"
+  ], 
+  "virt_r3": 1, 
+  "man_os": "scilinux", 
+  "remote_addr": "98.179.x.x", 
+  "sw_general": [
+    "cpp", 
+    "python", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "most", 
+  "virt_r1": 2, 
+  "bg_datamod": [
+    "simulation"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 2, 
+  "bg_employer": "edu_priv", 
+  "man_time": "little", 
+  "pers_maint_time": 10.0, 
+  "pers_os": "centos", 
+  "timestamp": 1305736896.4610341, 
+  "sw_neusys": [
+    "neuron"
+  ], 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "pythonbundles"
+  ], 
+  "man_r1": 2, 
+  "pers_hardware": "desktop", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "centos", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.17) Gecko/20110429 CentOS/3.6-1.el5.centos Firefox/3.6.17", 
+  "sw_dc": [
+    "mpi"
+  ], 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

@@ -1,0 +1,66 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "desktop", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "man_r5": 0, 
+  "man_r4": 2, 
+  "man_r3": 0, 
+  "man_r2": 1, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "man_os": "windows", 
+  "sw_electro": [
+    "brainstorm", 
+    "eeglab", 
+    "loreta", 
+    "openmeeg"
+  ], 
+  "remote_addr": "128.164.x.x", 
+  "sw_img": [
+    "brainvoyager"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "r", 
+    "spss", 
+    "shell"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305929596.9744051, 
+  "software_resource": [
+    "vendor", 
+    "cran", 
+    "matlabcentral", 
+    "sourceforge"
+  ], 
+  "man_r1": 0, 
+  "sw_psychphys": [
+    "psychtoolbox"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "meeg", 
+    "simulation"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17 (.NET CLR 3.5.30729)", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

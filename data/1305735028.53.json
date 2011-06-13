@@ -1,0 +1,73 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 3, 
+  "pers_r4": 3, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 2, 
+  "pers_r1": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 1, 
+  "virt_r3": 2, 
+  "man_os": "none", 
+  "remote_addr": "160.129.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "fsl", 
+    "freesurfer", 
+    "itksnap", 
+    "loni", 
+    "mni", 
+    "mricron", 
+    "mvpa", 
+    "spm"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "r", 
+    "spss"
+  ], 
+  "virt_prod": [
+    "vmware", 
+    "virtualbox"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "behav", 
+    "genetic", 
+    "mri"
+  ], 
+  "virt_r2": 3, 
+  "virt_r4": 3, 
+  "bg_employer": "research_priv", 
+  "man_time": "notime", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305735028.531213, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "cran", 
+    "matlabcentral", 
+    "nitrc", 
+    "sourceforge"
+  ], 
+  "sw_psychphys": [
+    "eprime", 
+    "presentation"
+  ], 
+  "pers_hardware": "workstation", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "most", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "centos", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; GTB7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2)", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

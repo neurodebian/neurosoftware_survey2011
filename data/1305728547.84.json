@@ -1,0 +1,64 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 1, 
+  "pers_r4": 1, 
+  "man_hardware": "desktop", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "man_r5": 1, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "man_r2": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 2, 
+  "virt_r3": 0, 
+  "man_os": "windows", 
+  "remote_addr": "129.199.x.x", 
+  "sw_general": [
+    "python", 
+    "r"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "always", 
+  "virt_r1": 2, 
+  "bg_datamod": [
+    "behav", 
+    "simulation"
+  ], 
+  "virt_r2": 0, 
+  "virt_r4": 1, 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305728547.8389699, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "cran", 
+    "neurodebian", 
+    "pypi", 
+    "sourceforge", 
+    "otherres"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "visionegg"
+  ], 
+  "pers_hardware": "laptop", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "CTAN (LaTeX)", 
+  "virt_host_os": "ubuntu", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux x86_64; fr; rv:1.9.2.17) Gecko/20110422 Ubuntu/10.10 (maverick) Firefox/3.6.17", 
+  "bg_country": "France", 
+  "bg_datamod_other": ""
+}

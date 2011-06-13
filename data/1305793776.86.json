@@ -1,0 +1,73 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "virt_r3": 1, 
+  "man_os": "none", 
+  "sw_electro": [
+    "asa", 
+    "eeglab"
+  ], 
+  "remote_addr": "130.241.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "brainvoyager", 
+    "trackvis", 
+    "fsl", 
+    "freesurfer", 
+    "imagej", 
+    "mipav", 
+    "mni", 
+    "mricron", 
+    "rest", 
+    "spm"
+  ], 
+  "sw_general": [
+    "labview", 
+    "matlab", 
+    "perl"
+  ], 
+  "virt_prod": [
+    "vmware", 
+    "virtualbox"
+  ], 
+  "bg_position": "sysadmin", 
+  "pers_time": "always", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "mri", 
+    "meeg", 
+    "ephys"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 2, 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 8.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305793776.861968, 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral", 
+    "nitrc", 
+    "sourceforge"
+  ], 
+  "pers_hardware": "workstation", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "rhel", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24", 
+  "bg_country": "Sweden", 
+  "bg_datamod_other": ""
+}

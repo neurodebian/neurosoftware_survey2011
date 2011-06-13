@@ -1,0 +1,56 @@
+{
+  "man_hardware": "none", 
+  "man_r1": 2, 
+  "man_os": "none", 
+  "sw_electro": [
+    "eeglab"
+  ], 
+  "remote_addr": "109.242.x.x", 
+  "sw_img": [
+    "pymvpa"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "python", 
+    "r"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "sw_bci": [
+    "openvibe", 
+    "pyff"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "little", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "edu_pub", 
+  "sw_other_name": "", 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305905695.6533, 
+  "software_resource": [
+    "cran", 
+    "matlabcentral", 
+    "neurodebian", 
+    "pypi", 
+    "pythonbundles", 
+    "sourceforge"
+  ], 
+  "sw_psychphys": [
+    "psychopy"
+  ], 
+  "bg_datamod": [
+    "meeg"
+  ], 
+  "bg_developer": "no", 
+  "man_time": "little", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "ubuntu", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.205 Safari/534.16", 
+  "bg_country": "Greece", 
+  "bg_datamod_other": ""
+}

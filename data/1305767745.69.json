@@ -1,0 +1,71 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "virt_r3": 1, 
+  "man_os": "none", 
+  "sw_electro": [
+    "brainvisionanalyzer", 
+    "eeglab"
+  ], 
+  "remote_addr": "130.194.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "fsl", 
+    "freesurfer", 
+    "itksnap", 
+    "imagej", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "spss"
+  ], 
+  "virt_prod": [
+    "vmware", 
+    "virtualbox"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "little", 
+  "virt_r1": 2, 
+  "bg_datamod": [
+    "mri", 
+    "ephys"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 2, 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 4.0, 
+  "pers_os": "none", 
+  "timestamp": 1305767745.6908219, 
+  "software_resource": [
+    "matlabcentral", 
+    "otherres"
+  ], 
+  "sw_psychphys": [
+    "eprime", 
+    "presentation", 
+    "psychtoolbox", 
+    "cogent"
+  ], 
+  "pers_hardware": "workstation", 
+  "bg_developer": "no", 
+  "sw_other_name": "cogent", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "fMRIB & MGH", 
+  "virt_host_os": "ubuntu", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "Australia", 
+  "bg_datamod_other": ""
+}

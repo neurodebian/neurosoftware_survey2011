@@ -1,0 +1,56 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 1, 
+  "pers_r4": 2, 
+  "man_hardware": "laptop", 
+  "pers_r2": 2, 
+  "pers_r3": 2, 
+  "pers_r1": 2, 
+  "man_r5": 2, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "man_r2": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 1, 
+  "man_os": "windows", 
+  "sw_electro": [
+    "neuroexplorer"
+  ], 
+  "remote_addr": "24.46.x.x", 
+  "sw_img": [
+    "brainstools", 
+    "loni"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "most", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "research_pub", 
+  "man_time": "most", 
+  "pers_maint_time": 10.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305768837.4460821, 
+  "sw_neusys": [
+    "ecanse"
+  ], 
+  "software_resource": [
+    "vendor"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "opensesame"
+  ], 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

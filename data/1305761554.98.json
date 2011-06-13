@@ -1,0 +1,88 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 1, 
+  "man_hardware": "cluster", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "man_r5": 1, 
+  "man_r4": 2, 
+  "man_r3": 1, 
+  "man_r2": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 1, 
+  "sw_rt": [
+    "rtlinux"
+  ], 
+  "virt_r3": 1, 
+  "sw_acq": [
+    "comedi"
+  ], 
+  "man_os": "other", 
+  "sw_electro": [
+    "biosig", 
+    "eeglab", 
+    "fieldtrip"
+  ], 
+  "remote_addr": "67.149.x.x", 
+  "sw_img": [
+    "afni", 
+    "fsl", 
+    "nipy", 
+    "pymvpa"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "python", 
+    "r"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "most", 
+  "virt_r1": 2, 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "meeg", 
+    "ephys", 
+    "simulation"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 1, 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 5.0, 
+  "pers_os": "debian", 
+  "timestamp": 1305761554.98105, 
+  "sw_neusys": [
+    "brian"
+  ], 
+  "software_resource": [
+    "os", 
+    "cran", 
+    "neurodebian", 
+    "sourceforge"
+  ], 
+  "man_r1": 1, 
+  "sw_psychphys": [
+    "pyepl", 
+    "opensesame"
+  ], 
+  "pers_hardware": "workstation", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.205 Safari/534.16", 
+  "sw_dc": [
+    "sge", 
+    "torque", 
+    "ipython"
+  ], 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

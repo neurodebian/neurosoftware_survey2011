@@ -1,0 +1,60 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 1, 
+  "man_hardware": "workstation", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 0, 
+  "man_r5": 1, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "man_r2": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "man_os": "windows", 
+  "sw_other": "othersw", 
+  "remote_addr": "77.98.x.x", 
+  "sw_img": [
+    "imagej"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "windows", 
+  "sw_electro": [
+    "neuroshare"
+  ], 
+  "timestamp": 1305694298.4389241, 
+  "software_resource": [
+    "cran", 
+    "matlabcentral", 
+    "sourceforge"
+  ], 
+  "man_r1": 1, 
+  "bg_datamod": [
+    "ephys", 
+    "otherdm"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "CUDA", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3; campus-ncl)", 
+  "sw_dc": [
+    "mpi"
+  ], 
+  "bg_country": "United Kingdom", 
+  "bg_datamod_other": "Computational"
+}

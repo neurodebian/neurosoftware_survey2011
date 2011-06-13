@@ -1,0 +1,68 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 1, 
+  "pers_r4": 2, 
+  "man_hardware": "desktop", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "man_r5": 1, 
+  "man_r4": 2, 
+  "man_r3": 0, 
+  "man_r2": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "man_os": "windows", 
+  "sw_other": "othersw", 
+  "remote_addr": "201.239.x.x", 
+  "sw_img": [
+    "fsl"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "python", 
+    "r"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "pers_hardware": "desktop", 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 10.0, 
+  "pers_os": "ubuntu", 
+  "sw_electro": [
+    "brainstorm", 
+    "chronus", 
+    "eeglab", 
+    "fieldtrip"
+  ], 
+  "timestamp": 1305765734.5998271, 
+  "software_resource": [
+    "cran", 
+    "macports", 
+    "matlabcentral", 
+    "neurodebian", 
+    "pypi", 
+    "pythonbundles"
+  ], 
+  "man_r1": 0, 
+  "sw_psychphys": [
+    "presentation", 
+    "psychopy"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "meeg"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "LAN toolbox", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; es-es) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1", 
+  "bg_country": "Chile", 
+  "bg_datamod_other": ""
+}

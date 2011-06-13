@@ -1,0 +1,58 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 1, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 2, 
+  "pers_r3": 2, 
+  "pers_r1": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 2, 
+  "man_os": "none", 
+  "sw_electro": [
+    "brainstorm"
+  ], 
+  "remote_addr": "207.151.x.x", 
+  "sw_img": [
+    "afni", 
+    "brainvoyager", 
+    "caret", 
+    "fsl", 
+    "pymvpa", 
+    "spm"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "python", 
+    "r", 
+    "spss"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "little", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "edu_priv", 
+  "man_time": "notime", 
+  "pers_maint_time": 40.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305762125.083003, 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "meeg"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

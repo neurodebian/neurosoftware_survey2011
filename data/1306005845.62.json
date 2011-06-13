@@ -1,0 +1,61 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 3, 
+  "pers_r4": 1, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 1, 
+  "pers_r8": 2, 
+  "pers_r5": 1, 
+  "man_os": "none", 
+  "sw_electro": [
+    "brainvisionanalyzer", 
+    "loreta"
+  ], 
+  "remote_addr": "46.112.x.x", 
+  "sw_img": [
+    "aeskulap", 
+    "mricron"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "labview", 
+    "matlab", 
+    "r", 
+    "spss", 
+    "shell"
+  ], 
+  "bg_position": "ra", 
+  "pers_time": "most", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "mandriva", 
+  "timestamp": 1306005845.6169751, 
+  "software_resource": [
+    "vendor", 
+    "cran", 
+    "sourceforge"
+  ], 
+  "sw_psychphys": [
+    "dmdx", 
+    "psychopy"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "meeg"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "debian", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.17) Gecko/20110429 Mandriva Linux/1.9.2.17-0.1mdv2010.2 (2010.2) Firefox/3.6.17", 
+  "bg_country": "Poland", 
+  "bg_datamod_other": ""
+}

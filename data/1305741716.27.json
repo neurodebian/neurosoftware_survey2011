@@ -1,0 +1,50 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 1, 
+  "pers_r4": 0, 
+  "man_hardware": "workstation", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 1, 
+  "man_r5": 1, 
+  "man_r4": 1, 
+  "man_r3": 0, 
+  "man_r2": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 1, 
+  "man_os": "macosx", 
+  "remote_addr": "129.2.x.x", 
+  "sw_general": [
+    "matlab", 
+    "r"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "little", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "edu_pub", 
+  "man_time": "most", 
+  "pers_maint_time": 3.0, 
+  "pers_os": "arch", 
+  "timestamp": 1305741716.2720881, 
+  "software_resource": [
+    "cran", 
+    "macports", 
+    "matlabcentral"
+  ], 
+  "man_r1": 2, 
+  "bg_datamod": [
+    "ephys", 
+    "simulation"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

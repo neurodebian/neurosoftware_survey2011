@@ -1,0 +1,50 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 0, 
+  "pers_r8": 3, 
+  "pers_r5": 2, 
+  "man_os": "none", 
+  "remote_addr": "141.2.x.x", 
+  "sw_general": [
+    "cpp", 
+    "python", 
+    "shell"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "most", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 0.0, 
+  "pers_os": "arch", 
+  "timestamp": 1305791970.893594, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "sourceforge"
+  ], 
+  "bg_datamod": [
+    "simulation"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; Linux i686 on x86_64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "sw_dc": [
+    "torque", 
+    "mpi", 
+    "ipython"
+  ], 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

@@ -1,0 +1,70 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 2, 
+  "man_hardware": "cluster", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 0, 
+  "man_r5": 3, 
+  "man_r4": 3, 
+  "man_r3": 3, 
+  "man_r2": 3, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "virt_r3": 0, 
+  "man_os": "centos", 
+  "remote_addr": "194.83.x.x", 
+  "sw_img": [
+    "afni", 
+    "fsl", 
+    "freesurfer", 
+    "mricron", 
+    "pymvpa", 
+    "spm"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "python", 
+    "r", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualpc"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "little", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "behav", 
+    "mri"
+  ], 
+  "virt_r2": 0, 
+  "virt_r4": 3, 
+  "bg_employer": "edu_pub", 
+  "man_time": "most", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "suse", 
+  "timestamp": 1305726872.2762311, 
+  "software_resource": [
+    "cran", 
+    "matlabcentral", 
+    "neurodebian", 
+    "nitrc"
+  ], 
+  "man_r1": 3, 
+  "pers_hardware": "laptop", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "debian", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.2.6) Gecko/20100625 Firefox/3.6.6 ( .NET CLR 3.5.30729)", 
+  "sw_dc": [
+    "sge"
+  ], 
+  "bg_country": "United Kingdom", 
+  "bg_datamod_other": ""
+}

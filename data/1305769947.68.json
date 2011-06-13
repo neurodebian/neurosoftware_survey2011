@@ -1,0 +1,90 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "desktop", 
+  "pers_r2": 3, 
+  "pers_r3": 2, 
+  "pers_r1": 2, 
+  "man_r5": 2, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "man_r2": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 2, 
+  "sw_rt": [
+    "rtlinux"
+  ], 
+  "virt_r3": 2, 
+  "man_os": "macosx", 
+  "sw_electro": [
+    "brainstorm", 
+    "eeglab", 
+    "elekta", 
+    "mne", 
+    "neuroexplorer"
+  ], 
+  "remote_addr": "70.50.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "aeskulap", 
+    "brainvisa", 
+    "brainvoyager", 
+    "fsl", 
+    "freesurfer", 
+    "itksnap", 
+    "imagej", 
+    "loni", 
+    "mni", 
+    "mvpa"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "idl", 
+    "matlab", 
+    "octave", 
+    "perl", 
+    "shell"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "most", 
+  "virt_r1": 2, 
+  "bg_datamod": [
+    "mri", 
+    "meeg", 
+    "pet", 
+    "ephys", 
+    "simulation"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 2, 
+  "bg_employer": "company", 
+  "man_time": "little", 
+  "pers_maint_time": 8.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305769947.684047, 
+  "software_resource": [
+    "fink", 
+    "incf", 
+    "macports", 
+    "nitrc"
+  ], 
+  "pers_hardware": "desktop", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "sw_datamanage": [
+    "hid"
+  ], 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_11; en-US) AppleWebKit/531.9+(KHTML, like Gecko, Safari/528.16) OmniWeb/v622.10.0", 
+  "sw_dc": [
+    "mpi"
+  ], 
+  "bg_country": "Canada", 
+  "bg_datamod_other": ""
+}

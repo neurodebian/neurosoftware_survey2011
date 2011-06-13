@@ -1,0 +1,51 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 2, 
+  "pers_r4": 3, 
+  "man_hardware": "cluster", 
+  "pers_r2": 0, 
+  "pers_r3": 2, 
+  "pers_r1": 0, 
+  "man_r5": 1, 
+  "man_r4": 3, 
+  "man_r3": 1, 
+  "man_r2": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 0, 
+  "man_os": "windows", 
+  "sw_electro": [
+    "biosig", 
+    "brainstorm"
+  ], 
+  "remote_addr": "62.218.x.x", 
+  "sw_general": [
+    "cpp", 
+    "matlab"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "always", 
+  "pers_hardware": "cluster", 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 10.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305698826.3033881, 
+  "software_resource": [
+    "retailer"
+  ], 
+  "man_r1": 0, 
+  "bg_datamod": [
+    "meeg"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "Austria", 
+  "bg_datamod_other": ""
+}

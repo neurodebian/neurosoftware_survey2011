@@ -1,0 +1,73 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "man_r4": 1, 
+  "man_r3": 3, 
+  "man_r2": 3, 
+  "pers_r8": 3, 
+  "pers_r5": 2, 
+  "virt_r3": 1, 
+  "man_os": "none", 
+  "sw_electro": [
+    "eeglab", 
+    "loreta"
+  ], 
+  "remote_addr": "213.185.x.x", 
+  "sw_img": [
+    "mvpa", 
+    "spm"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "r", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualpc"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "behav", 
+    "meeg", 
+    "simulation"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 2, 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305795077.1463521, 
+  "software_resource": [
+    "vendor", 
+    "cpan", 
+    "cran", 
+    "sourceforge"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "eprime"
+  ], 
+  "pers_hardware": "laptop", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Opera/9.80 (X11; Linux i686; U; sv) Presto/2.8.131 Version/11.10", 
+  "sw_dc": [
+    "mpi"
+  ], 
+  "bg_country": "Sweden", 
+  "bg_datamod_other": ""
+}

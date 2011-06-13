@@ -1,0 +1,61 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 2, 
+  "pers_r4": 3, 
+  "man_hardware": "cluster", 
+  "pers_r2": 2, 
+  "pers_r3": 2, 
+  "pers_r1": 2, 
+  "man_r5": 2, 
+  "man_r4": 0, 
+  "man_r3": 2, 
+  "man_r2": 3, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "man_os": "macosx", 
+  "remote_addr": "163.1.x.x", 
+  "sw_img": [
+    "caret", 
+    "fsl", 
+    "freesurfer"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "shell"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "most", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 0.10000000000000001, 
+  "pers_os": "macosx", 
+  "timestamp": 1305729086.757354, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "matlabcentral", 
+    "sourceforge"
+  ], 
+  "man_r1": 3, 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "simulation"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; en-us) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1", 
+  "sw_dc": [
+    "sge"
+  ], 
+  "bg_country": "United Kingdom", 
+  "bg_datamod_other": ""
+}

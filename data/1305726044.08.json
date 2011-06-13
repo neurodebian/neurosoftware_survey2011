@@ -1,0 +1,77 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 2, 
+  "pers_r4": 1, 
+  "man_hardware": "desktop", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "man_r5": 0, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "man_r2": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "man_os": "windows", 
+  "sw_electro": [
+    "besa", 
+    "brainstorm", 
+    "eeglab", 
+    "elekta", 
+    "fieldtrip"
+  ], 
+  "remote_addr": "129.206.x.x", 
+  "sw_img": [
+    "afni", 
+    "aeskulap", 
+    "amide", 
+    "fsl", 
+    "freesurfer", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "r", 
+    "spss", 
+    "shell"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "pers_hardware": "desktop", 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 10.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305726044.082581, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "matlabcentral", 
+    "neurodebian", 
+    "sourceforge"
+  ], 
+  "man_r1": 0, 
+  "sw_psychphys": [
+    "presentation"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "genetic", 
+    "mri", 
+    "meeg", 
+    "ephys"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux x86_64; de; rv:1.9.2.17) Gecko/20110422 Ubuntu/10.04 (lucid) Firefox/3.6.17", 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

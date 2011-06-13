@@ -1,0 +1,59 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 3, 
+  "pers_r4": 3, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 3, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "virt_r3": 3, 
+  "man_os": "none", 
+  "remote_addr": "71.191.x.x", 
+  "sw_img": [
+    "afni", 
+    "caret", 
+    "freesurfer"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "python", 
+    "r", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "othervm"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "always", 
+  "virt_r1": 1, 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 1, 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 3.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305917173.6818819, 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral", 
+    "nitrc"
+  ], 
+  "pers_hardware": "workstation", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "macosx", 
+  "virt_guest_os": "macosx", 
+  "virt_other": "remote X (ssh tunneling)", 
+  "user_agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.2.10) Gecko/20100914 Firefox/3.6.10", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

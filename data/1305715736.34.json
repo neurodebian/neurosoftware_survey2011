@@ -1,0 +1,59 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 1, 
+  "pers_r4": 0, 
+  "man_hardware": "cluster", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "man_r5": 0, 
+  "man_r4": 3, 
+  "man_r3": 0, 
+  "man_r2": 0, 
+  "pers_r8": 3, 
+  "pers_r5": 1, 
+  "virt_r3": 3, 
+  "man_os": "none", 
+  "sw_other": "othersw", 
+  "remote_addr": "188.222.x.x", 
+  "sw_general": [
+    "cpp", 
+    "python"
+  ], 
+  "virt_prod": [
+    "virtualbox", 
+    "xen"
+  ], 
+  "bg_position": "none", 
+  "pers_time": "most", 
+  "virt_r1": 1, 
+  "bg_datamod": [
+    "behav", 
+    "meeg"
+  ], 
+  "virt_r2": 3, 
+  "virt_r4": 2, 
+  "bg_employer": "edu_pub", 
+  "man_time": "most", 
+  "pers_maint_time": 10.0, 
+  "pers_os": "none", 
+  "timestamp": 1305715736.3365841, 
+  "software_resource": [
+    "os", 
+    "sourceforge", 
+    "otherres"
+  ], 
+  "man_r1": 3, 
+  "pers_hardware": "workstation", 
+  "bg_developer": "yes", 
+  "sw_other_name": "miind", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "cern, own development", 
+  "virt_host_os": "fedora", 
+  "virt_guest_os": "fedora", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "United Kingdom", 
+  "bg_datamod_other": ""
+}

@@ -1,0 +1,69 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 1, 
+  "pers_r4": 3, 
+  "man_hardware": "cluster", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 0, 
+  "man_r5": 3, 
+  "man_r4": 3, 
+  "man_r3": 1, 
+  "man_r2": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "virt_r3": 1, 
+  "man_os": "otherlinux", 
+  "sw_other": "othersw", 
+  "remote_addr": "134.2.x.x", 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "perl", 
+    "python", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualbox", 
+    "parallels"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "always", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "behav", 
+    "ephys"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 2, 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 30.0, 
+  "pers_os": "ubuntu", 
+  "sw_electro": [
+    "chronus", 
+    "klustakwik", 
+    "klusters", 
+    "neuroscope"
+  ], 
+  "timestamp": 1305819407.877533, 
+  "software_resource": [
+    "vendor", 
+    "retailer", 
+    "macports", 
+    "sourceforge"
+  ], 
+  "man_r1": 2, 
+  "pers_hardware": "workstation", 
+  "bg_developer": "no", 
+  "sw_other_name": "Electrophysiologyg (Neuroscope, Klusters) must be inclued in the llist above", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "macosx", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

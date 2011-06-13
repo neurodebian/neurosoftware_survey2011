@@ -1,0 +1,76 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "laptop", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 0, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "virt_r3": 0, 
+  "man_os": "none", 
+  "sw_other": "othersw", 
+  "remote_addr": "94.193.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "aeskulap", 
+    "camino", 
+    "connectomviewer", 
+    "trackvis", 
+    "fsl", 
+    "freesurfer", 
+    "itksnap", 
+    "mricron", 
+    "nibabel", 
+    "nipy", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "python", 
+    "r", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "always", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "virt_r2": 0, 
+  "virt_r4": 1, 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 6.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305710894.765918, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "cran", 
+    "neurodebian", 
+    "nitrc", 
+    "pypi", 
+    "pythonbundles"
+  ], 
+  "pers_hardware": "laptop", 
+  "bg_developer": "yes", 
+  "sw_other_name": "mricrogl", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "ubuntu", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.35 (KHTML, like Gecko) Chrome/13.0.761.0 Safari/534.35", 
+  "sw_dc": [
+    "sge"
+  ], 
+  "bg_country": "United Kingdom", 
+  "bg_datamod_other": ""
+}

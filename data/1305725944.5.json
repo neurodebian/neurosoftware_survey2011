@@ -1,0 +1,53 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 3, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "man_r5": 0, 
+  "man_r4": 0, 
+  "man_r3": 3, 
+  "man_r2": 3, 
+  "pers_r8": 3, 
+  "pers_r5": 2, 
+  "man_os": "none", 
+  "remote_addr": "132.166.x.x", 
+  "sw_img": [
+    "brainvisa", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "python", 
+    "shell"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "always", 
+  "pers_hardware": "grid", 
+  "bg_employer": "research_pub", 
+  "man_time": "always", 
+  "pers_maint_time": 0.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305725944.4998989, 
+  "software_resource": [
+    "os", 
+    "sourceforge"
+  ], 
+  "man_r1": 3, 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.10 (like Gecko)", 
+  "bg_country": "France", 
+  "bg_datamod_other": ""
+}

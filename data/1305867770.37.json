@@ -1,0 +1,67 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 0, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "man_os": "none", 
+  "remote_addr": "75.67.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "brainstools", 
+    "imagej", 
+    "mricron", 
+    "nibabel", 
+    "nipy", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "python"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "always", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 3.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305867770.374171, 
+  "software_resource": [
+    "vendor", 
+    "neurodebian", 
+    "nitrc", 
+    "pypi", 
+    "pythonbundles", 
+    "sourceforge"
+  ], 
+  "sw_psychphys": [
+    "eprime", 
+    "presentation", 
+    "pyepl", 
+    "visionegg"
+  ], 
+  "bg_datamod": [
+    "mri", 
+    "spectro", 
+    "otherdm"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "ubuntu", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; Linux i686; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "United States", 
+  "bg_datamod_other": "mass spectrometry"
+}

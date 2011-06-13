@@ -1,0 +1,76 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 2, 
+  "pers_r4": 1, 
+  "man_hardware": "workstation", 
+  "pers_r2": 1, 
+  "pers_r3": 1, 
+  "pers_r1": 0, 
+  "man_r5": 3, 
+  "man_r4": 3, 
+  "man_r3": 2, 
+  "man_r2": 1, 
+  "pers_r8": 2, 
+  "pers_r5": 0, 
+  "man_os": "ubuntu", 
+  "sw_electro": [
+    "besa", 
+    "brainvisionanalyzer", 
+    "chronus", 
+    "eeglab", 
+    "fieldtrip", 
+    "neuroexplorer", 
+    "plexon"
+  ], 
+  "remote_addr": "143.107.x.x", 
+  "sw_img": [
+    "brainvoyager", 
+    "freesurfer"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "python", 
+    "shell"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "little", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 6.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305741577.380404, 
+  "sw_neusys": [
+    "genesis", 
+    "pynn"
+  ], 
+  "software_resource": [
+    "vendor", 
+    "macports", 
+    "matlabcentral", 
+    "pypi", 
+    "pythonbundles", 
+    "sourceforge"
+  ], 
+  "man_r1": 1, 
+  "sw_psychphys": [
+    "eprime"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "meeg", 
+    "ephys"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.12) Gecko/20101026 Firefox/3.6.12 ( .NET CLR 3.5.30729; .NET4.0C)", 
+  "bg_country": "Brazil", 
+  "bg_datamod_other": ""
+}

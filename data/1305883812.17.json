@@ -1,0 +1,45 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 1, 
+  "pers_r4": 1, 
+  "man_hardware": "none", 
+  "pers_r2": 1, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "man_os": "none", 
+  "remote_addr": "157.136.x.x", 
+  "sw_general": [
+    "mathematica", 
+    "matlab", 
+    "python"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "pers_hardware": "desktop", 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 150.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305883812.173322, 
+  "software_resource": [
+    "matlabcentral", 
+    "pythonbundles"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "otherdm"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2.6) Gecko/20100625 Firefox/3.6.6 ( .NET CLR 3.5.30729)", 
+  "bg_country": "France", 
+  "bg_datamod_other": "biomechanics"
+}

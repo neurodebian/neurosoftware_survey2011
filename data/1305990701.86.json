@@ -1,0 +1,50 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 1, 
+  "man_hardware": "desktop", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "man_r5": 0, 
+  "man_r4": 1, 
+  "man_r3": 1, 
+  "man_r2": 1, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "man_os": "windows", 
+  "remote_addr": "81.96.x.x", 
+  "sw_general": [
+    "cpp"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "edu_priv", 
+  "man_time": "most", 
+  "pers_maint_time": 40.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305990701.8635621, 
+  "sw_neusys": [
+    "neurosolutions"
+  ], 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral"
+  ], 
+  "man_r1": 2, 
+  "bg_datamod": [
+    "simulation"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)", 
+  "bg_country": "United Kingdom", 
+  "bg_datamod_other": ""
+}

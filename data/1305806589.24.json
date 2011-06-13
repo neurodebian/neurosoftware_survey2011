@@ -1,0 +1,64 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 3, 
+  "pers_r4": 0, 
+  "man_hardware": "desktop", 
+  "pers_r2": 0, 
+  "pers_r3": 1, 
+  "pers_r1": 0, 
+  "man_r5": 2, 
+  "man_r4": 1, 
+  "man_r3": 2, 
+  "man_r2": 0, 
+  "pers_r8": 0, 
+  "pers_r5": 2, 
+  "sw_rt": [
+    "rtlinux"
+  ], 
+  "virt_r3": 3, 
+  "sw_acq": [
+    "mx"
+  ], 
+  "man_os": "biolinux", 
+  "remote_addr": "84.74.x.x", 
+  "sw_general": [
+    "cpp", 
+    "mathematica"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "always", 
+  "virt_r1": 0, 
+  "bg_datamod": [
+    "behav", 
+    "simulation"
+  ], 
+  "virt_r2": 0, 
+  "virt_r4": 2, 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "sw_neusys": [
+    "neuron"
+  ], 
+  "pers_os": "macosx", 
+  "timestamp": 1305806589.2448339, 
+  "software_resource": [
+    "pypi", 
+    "pythonbundles"
+  ], 
+  "man_r1": 0, 
+  "pers_hardware": "laptop", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "macosx", 
+  "virt_guest_os": "macosx", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "sw_dc": [
+    "ipython"
+  ], 
+  "bg_country": "Switzerland", 
+  "bg_datamod_other": ""
+}

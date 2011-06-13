@@ -1,0 +1,56 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "workstation", 
+  "pers_r2": 2, 
+  "pers_r3": 2, 
+  "pers_r1": 2, 
+  "man_r5": 2, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "man_r2": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 2, 
+  "man_os": "macosx", 
+  "remote_addr": "192.227.x.x", 
+  "sw_img": [
+    "afni"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "python", 
+    "r", 
+    "spss", 
+    "shell"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "little", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "edu_priv", 
+  "man_time": "most", 
+  "pers_maint_time": 5.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305726383.013849, 
+  "sw_neusys": [
+    "brian"
+  ], 
+  "software_resource": [
+    "macports"
+  ], 
+  "man_r1": 2, 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "dontknow", 
+  "virt_guest_os": "dontknow", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; en-us) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

@@ -1,0 +1,62 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 1, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "virt_r3": 0, 
+  "man_os": "none", 
+  "sw_other": "othersw", 
+  "remote_addr": "94.69.x.x", 
+  "sw_img": [
+    "brainmap", 
+    "mricron"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "spss"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "none", 
+  "pers_time": "little", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "behav"
+  ], 
+  "virt_r2": 0, 
+  "virt_r4": 3, 
+  "bg_employer": "company", 
+  "man_time": "notime", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "ubuntu", 
+  "sw_electro": [
+    "eeglab"
+  ], 
+  "timestamp": 1305796251.6735721, 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral"
+  ], 
+  "man_r1": 2, 
+  "pers_hardware": "desktop", 
+  "bg_developer": "no", 
+  "sw_other_name": "http://sccn.ucsd.edu/eeglab/", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "ubuntu", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.13) Gecko/20101206 Ubuntu/10.04 (lucid) Firefox/3.6.13", 
+  "bg_country": "Greece", 
+  "bg_datamod_other": ""
+}

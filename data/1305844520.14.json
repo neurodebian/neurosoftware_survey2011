@@ -1,0 +1,61 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "cluster", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 0, 
+  "man_r5": 2, 
+  "man_r4": 3, 
+  "man_r3": 1, 
+  "man_r2": 2, 
+  "pers_r8": 3, 
+  "pers_r5": 2, 
+  "virt_r3": 0, 
+  "man_os": "otherlinux", 
+  "remote_addr": "129.97.x.x", 
+  "sw_general": [
+    "java", 
+    "matlab", 
+    "python", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "simulation"
+  ], 
+  "virt_r2": 0, 
+  "virt_r4": 0, 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 8.0, 
+  "pers_os": "otherlinux", 
+  "timestamp": 1305844520.1384871, 
+  "sw_neusys": [
+    "nengo"
+  ], 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "sourceforge"
+  ], 
+  "man_r1": 2, 
+  "pers_hardware": "workstation", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "otherlinux", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.53 Safari/534.30", 
+  "bg_country": "Canada", 
+  "bg_datamod_other": ""
+}

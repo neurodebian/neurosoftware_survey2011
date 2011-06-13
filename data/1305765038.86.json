@@ -1,0 +1,55 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "laptop", 
+  "pers_r2": 2, 
+  "pers_r3": 2, 
+  "pers_r1": 2, 
+  "man_r5": 2, 
+  "man_r4": 2, 
+  "man_r3": 1, 
+  "man_r2": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 2, 
+  "man_os": "windows", 
+  "sw_electro": [
+    "plexon"
+  ], 
+  "remote_addr": "24.190.x.x", 
+  "sw_img": [
+    "mricron"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "spss"
+  ], 
+  "bg_position": "ra", 
+  "pers_time": "most", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 20.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305765038.8570991, 
+  "software_resource": [
+    "vendor"
+  ], 
+  "man_r1": 2, 
+  "bg_datamod": [
+    "behav", 
+    "ephys"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

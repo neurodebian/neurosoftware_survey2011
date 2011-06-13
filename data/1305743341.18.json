@@ -1,0 +1,67 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 2, 
+  "pers_r4": 0, 
+  "man_hardware": "workstation", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 0, 
+  "man_r5": 3, 
+  "man_r4": 1, 
+  "man_r3": 2, 
+  "man_r2": 2, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "man_os": "ubuntu", 
+  "sw_electro": [
+    "loreta"
+  ], 
+  "remote_addr": "190.196.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "afni", 
+    "aeskulap", 
+    "fsl", 
+    "freesurfer", 
+    "itksnap", 
+    "imagej", 
+    "mango", 
+    "mricron", 
+    "rest", 
+    "spm"
+  ], 
+  "sw_general": [
+    "idl"
+  ], 
+  "bg_position": "ra", 
+  "pers_time": "always", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "company", 
+  "man_time": "most", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305743341.182713, 
+  "software_resource": [
+    "vendor", 
+    "neurodebian", 
+    "nitrc", 
+    "sourceforge"
+  ], 
+  "man_r1": 3, 
+  "bg_datamod": [
+    "mri", 
+    "pet", 
+    "simulation"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)", 
+  "bg_country": "Chile", 
+  "bg_datamod_other": ""
+}

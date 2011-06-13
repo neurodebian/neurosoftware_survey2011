@@ -1,0 +1,59 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "cluster", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "man_r5": 3, 
+  "man_r4": 3, 
+  "man_r3": 2, 
+  "man_r2": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "man_os": "rhel", 
+  "sw_other": "othersw", 
+  "remote_addr": "173.206.x.x", 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "python", 
+    "r", 
+    "shell"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305726231.873107, 
+  "software_resource": [
+    "os", 
+    "neurodebian", 
+    "pypi", 
+    "otherres"
+  ], 
+  "man_r1": 2, 
+  "bg_datamod": [
+    "simulation"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "theano", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "github", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.205 Safari/534.16", 
+  "sw_dc": [
+    "sge", 
+    "torque", 
+    "condor"
+  ], 
+  "bg_country": "Canada", 
+  "bg_datamod_other": ""
+}

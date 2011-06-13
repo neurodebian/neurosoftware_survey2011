@@ -1,0 +1,68 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 3, 
+  "pers_r4": 1, 
+  "man_hardware": "cluster", 
+  "pers_r2": 0, 
+  "pers_r3": 1, 
+  "pers_r1": 0, 
+  "man_r5": 0, 
+  "man_r4": 3, 
+  "man_r3": 0, 
+  "man_r2": 0, 
+  "pers_r8": 0, 
+  "pers_r5": 1, 
+  "virt_r3": 0, 
+  "man_os": "ubuntu", 
+  "remote_addr": "87.212.x.x", 
+  "sw_img": [
+    "fsl", 
+    "lipsia", 
+    "mni", 
+    "mricron"
+  ], 
+  "sw_general": [
+    "spss", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualpc"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "most", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "virt_r2": 0, 
+  "virt_r4": 0, 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 0.10000000000000001, 
+  "pers_os": "macosx", 
+  "timestamp": 1305726672.961467, 
+  "software_resource": [
+    "vendor", 
+    "retailer", 
+    "os"
+  ], 
+  "man_r1": 1, 
+  "sw_psychphys": [
+    "eprime"
+  ], 
+  "pers_hardware": "laptop", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "macosx", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1", 
+  "sw_dc": [
+    "sge"
+  ], 
+  "bg_country": "Netherlands", 
+  "bg_datamod_other": ""
+}

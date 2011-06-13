@@ -1,0 +1,74 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 1, 
+  "pers_r4": 1, 
+  "man_hardware": "none", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "pers_r8": 1, 
+  "pers_r5": 3, 
+  "virt_r3": 0, 
+  "man_os": "none", 
+  "remote_addr": "95.145.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "brainvisa", 
+    "brainvoyager", 
+    "camino", 
+    "fsl", 
+    "freesurfer", 
+    "itksnap", 
+    "imagej", 
+    "mipav", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "python"
+  ], 
+  "virt_prod": [
+    "vmware"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "virt_r1": 0, 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "pet"
+  ], 
+  "virt_r2": 0, 
+  "virt_r4": 2, 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "centos", 
+  "timestamp": 1305759444.6684141, 
+  "software_resource": [
+    "vendor", 
+    "sourceforge"
+  ], 
+  "sw_psychphys": [
+    "eprime", 
+    "presentation"
+  ], 
+  "pers_hardware": "workstation", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "other", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; .NET CLR 1.1.4322; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)", 
+  "sw_dc": [
+    "torque", 
+    "mpi"
+  ], 
+  "bg_country": "United Kingdom", 
+  "bg_datamod_other": ""
+}

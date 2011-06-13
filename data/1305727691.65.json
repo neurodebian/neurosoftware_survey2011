@@ -1,0 +1,57 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 1, 
+  "pers_r4": 1, 
+  "man_hardware": "none", 
+  "pers_r2": 1, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "pers_r8": 2, 
+  "pers_r5": 1, 
+  "man_os": "none", 
+  "remote_addr": "128.252.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "afni", 
+    "caret", 
+    "fsl", 
+    "freesurfer", 
+    "mni", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "perl", 
+    "python", 
+    "r", 
+    "shell"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "most", 
+  "pers_hardware": "workstation", 
+  "bg_employer": "edu_priv", 
+  "man_time": "notime", 
+  "pers_maint_time": 12.0, 
+  "pers_os": "rhel", 
+  "timestamp": 1305727691.6486471, 
+  "software_resource": [
+    "vendor", 
+    "nitrc"
+  ], 
+  "bg_datamod": [
+    "mri", 
+    "pet"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.16) Gecko/20080702 SeaMonkey/1.1.11", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}

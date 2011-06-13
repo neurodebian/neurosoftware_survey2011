@@ -1,0 +1,61 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 0, 
+  "pers_r4": 3, 
+  "man_hardware": "desktop", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 2, 
+  "man_r5": 0, 
+  "man_r4": 0, 
+  "man_r3": 0, 
+  "man_r2": 0, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "virt_r3": 0, 
+  "man_os": "windows", 
+  "sw_electro": [
+    "brainvisionanalyzer"
+  ], 
+  "remote_addr": "132.64.x.x", 
+  "sw_general": [
+    "matlab", 
+    "spss"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "most", 
+  "virt_r1": 0, 
+  "bg_datamod": [
+    "behav", 
+    "meeg", 
+    "simulation"
+  ], 
+  "virt_r2": 0, 
+  "virt_r4": 0, 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 5.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305801846.377068, 
+  "software_resource": [
+    "os", 
+    "matlabcentral"
+  ], 
+  "man_r1": 0, 
+  "sw_psychphys": [
+    "eprime", 
+    "psychtoolbox"
+  ], 
+  "pers_hardware": "desktop", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "Israel", 
+  "bg_datamod_other": ""
+}

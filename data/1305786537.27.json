@@ -1,0 +1,71 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 1, 
+  "pers_r4": 1, 
+  "man_hardware": "cluster", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 1, 
+  "man_r5": 3, 
+  "man_r4": 2, 
+  "man_r3": 1, 
+  "man_r2": 3, 
+  "pers_r8": 3, 
+  "pers_r5": 2, 
+  "virt_r3": 0, 
+  "man_os": "otherlinux", 
+  "sw_electro": [
+    "brainstorm", 
+    "eeglab"
+  ], 
+  "remote_addr": "95.112.x.x", 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "octave", 
+    "python"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "sw_bci": [
+    "bci2000"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "most", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "meeg"
+  ], 
+  "virt_r2": 0, 
+  "virt_r4": 0, 
+  "bg_employer": "research_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 20.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305786537.2669959, 
+  "software_resource": [
+    "retailer", 
+    "matlabcentral", 
+    "sourceforge"
+  ], 
+  "man_r1": 2, 
+  "sw_psychphys": [
+    "visionegg"
+  ], 
+  "pers_hardware": "desktop", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "ubuntu", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "sw_dc": [
+    "ipython"
+  ], 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

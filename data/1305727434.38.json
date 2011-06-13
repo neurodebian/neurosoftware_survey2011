@@ -1,0 +1,74 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "desktop", 
+  "pers_r2": 3, 
+  "pers_r3": 1, 
+  "pers_r1": 3, 
+  "man_r5": 0, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "man_r2": 2, 
+  "pers_r8": 1, 
+  "pers_r5": 2, 
+  "virt_r3": 1, 
+  "man_os": "windows", 
+  "sw_electro": [
+    "eeglab"
+  ], 
+  "remote_addr": "109.189.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "fsl", 
+    "freesurfer"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "r", 
+    "spss"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "little", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "behav", 
+    "genetic", 
+    "mri", 
+    "meeg"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 3, 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_maint_time": 5.0, 
+  "pers_os": "centos", 
+  "timestamp": 1305727434.3805289, 
+  "software_resource": [
+    "vendor", 
+    "matlabcentral", 
+    "nitrc"
+  ], 
+  "man_r1": 0, 
+  "sw_psychphys": [
+    "eprime"
+  ], 
+  "pers_hardware": "cluster", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "ubuntu", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "sw_dc": [
+    "sge"
+  ], 
+  "bg_country": "Norway", 
+  "bg_datamod_other": ""
+}

@@ -1,0 +1,68 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "cluster", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 1, 
+  "man_r5": 3, 
+  "man_r4": 1, 
+  "man_r3": 2, 
+  "man_r2": 3, 
+  "pers_r8": 1, 
+  "pers_r5": 3, 
+  "man_os": "debian", 
+  "sw_electro": [
+    "brainvisionanalyzer", 
+    "eeglab"
+  ], 
+  "remote_addr": "134.100.x.x", 
+  "sw_img": [
+    "fsl", 
+    "mango", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "perl", 
+    "r", 
+    "shell"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "little", 
+  "pers_hardware": "cluster", 
+  "bg_employer": "research_pub", 
+  "man_time": "most", 
+  "pers_maint_time": 4.0, 
+  "pers_os": "none", 
+  "timestamp": 1305726778.601794, 
+  "software_resource": [
+    "os", 
+    "cpan", 
+    "matlabcentral", 
+    "sourceforge"
+  ], 
+  "man_r1": 3, 
+  "sw_psychphys": [
+    "presentation", 
+    "psychtoolbox"
+  ], 
+  "bg_datamod": [
+    "mri", 
+    "meeg", 
+    "ephys"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17", 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

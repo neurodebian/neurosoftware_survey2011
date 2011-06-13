@@ -1,0 +1,63 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 0, 
+  "pers_r4": 1, 
+  "man_hardware": "laptop", 
+  "pers_r2": 1, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "man_r5": 1, 
+  "man_r4": 2, 
+  "man_r3": 1, 
+  "man_r2": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 2, 
+  "virt_r3": 1, 
+  "man_os": "macosx", 
+  "remote_addr": "187.105.x.x", 
+  "sw_img": [
+    "3dslicer", 
+    "freesurfer", 
+    "mricron"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "python", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualbox", 
+    "parallels", 
+    "xen"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "little", 
+  "virt_r1": 2, 
+  "bg_datamod": [
+    "mri"
+  ], 
+  "virt_r2": 1, 
+  "virt_r4": 2, 
+  "bg_employer": "research_priv", 
+  "man_time": "most", 
+  "pers_maint_time": 2.0, 
+  "pers_os": "macosx", 
+  "timestamp": 1305723331.674094, 
+  "software_resource": [
+    "vendor", 
+    "pypi"
+  ], 
+  "man_r1": 2, 
+  "pers_hardware": "workstation", 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "ubuntu", 
+  "virt_guest_os": "macosx", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_7) AppleWebKit/534.35 (KHTML, like Gecko) Chrome/13.0.761.0 Safari/534.35", 
+  "bg_country": "Brazil", 
+  "bg_datamod_other": ""
+}

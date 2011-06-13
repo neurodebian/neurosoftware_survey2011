@@ -1,0 +1,67 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 1, 
+  "pers_r4": 2, 
+  "man_hardware": "none", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 1, 
+  "sw_neusys": [
+    "neuron"
+  ], 
+  "pers_r8": 2, 
+  "pers_r5": 2, 
+  "sw_rt": [
+    "rtai"
+  ], 
+  "virt_r3": 0, 
+  "sw_acq": [
+    "comedi"
+  ], 
+  "man_os": "none", 
+  "sw_other": "othersw", 
+  "remote_addr": "138.246.x.x", 
+  "sw_img": [
+    "imagej"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "always", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "behav", 
+    "ephys"
+  ], 
+  "virt_r2": 0, 
+  "virt_r4": 0, 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 1.0, 
+  "pers_os": "debian", 
+  "sw_electro": [
+    "relacs"
+  ], 
+  "timestamp": 1305706864.815897, 
+  "software_resource": [
+    "os", 
+    "sourceforge"
+  ], 
+  "pers_hardware": "desktop", 
+  "bg_developer": "yes", 
+  "sw_other_name": "gnupot,GSL", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "debian", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.10 (like Gecko) (Kubuntu)", 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

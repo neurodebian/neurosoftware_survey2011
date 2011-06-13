@@ -1,0 +1,59 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 2, 
+  "pers_r4": 1, 
+  "man_hardware": "cluster", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 2, 
+  "man_r5": 0, 
+  "man_r4": 2, 
+  "man_r3": 0, 
+  "man_r2": 2, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "man_os": "scilinux", 
+  "sw_electro": [
+    "fieldtrip"
+  ], 
+  "remote_addr": "178.203.x.x", 
+  "sw_img": [
+    "brainvoyager"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "python", 
+    "r"
+  ], 
+  "bg_position": "undergrad", 
+  "pers_time": "little", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "research_priv", 
+  "man_time": "always", 
+  "pers_maint_time": 3.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305737292.2731521, 
+  "software_resource": [
+    "vendor", 
+    "retailer", 
+    "cran", 
+    "matlabcentral", 
+    "pypi", 
+    "sourceforge"
+  ], 
+  "man_r1": 3, 
+  "bg_datamod": [
+    "meeg"
+  ], 
+  "bg_developer": "yes", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "ubuntu", 
+  "virt_guest_os": "scilinux", 
+  "virt_other": "", 
+  "user_agent": "Opera/9.80 (Windows NT 5.1; U; de) Presto/2.8.131 Version/11.10", 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

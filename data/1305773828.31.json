@@ -1,0 +1,54 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 0, 
+  "pers_r4": 0, 
+  "man_hardware": "none", 
+  "pers_r2": 1, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "pers_r8": 2, 
+  "pers_r5": 0, 
+  "man_os": "none", 
+  "remote_addr": "130.34.x.x", 
+  "sw_img": [
+    "fsl", 
+    "mricron", 
+    "nibabel", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "matlab", 
+    "python", 
+    "r", 
+    "shell"
+  ], 
+  "bg_position": "none", 
+  "pers_time": "always", 
+  "pers_hardware": "desktop", 
+  "bg_employer": "research_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 12.0, 
+  "pers_os": "ubuntu", 
+  "timestamp": 1305773828.3086081, 
+  "software_resource": [
+    "vendor", 
+    "retailer", 
+    "cran"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "mri"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.204 Safari/534.16", 
+  "bg_country": "none", 
+  "bg_datamod_other": ""
+}

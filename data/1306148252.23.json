@@ -1,0 +1,58 @@
+{
+  "pers_r6": 2, 
+  "pers_r7": 1, 
+  "pers_r4": 2, 
+  "man_hardware": "desktop", 
+  "pers_r2": 2, 
+  "pers_r3": 1, 
+  "pers_r1": 1, 
+  "man_r5": 0, 
+  "man_r4": 2, 
+  "man_r3": 2, 
+  "man_r2": 0, 
+  "pers_r8": 1, 
+  "pers_r5": 2, 
+  "man_os": "windows", 
+  "sw_electro": [
+    "brainvisionanalyzer", 
+    "eeglab", 
+    "neuroscan"
+  ], 
+  "remote_addr": "81.35.x.x", 
+  "sw_img": [
+    "spm"
+  ], 
+  "sw_general": [
+    "matlab", 
+    "spss"
+  ], 
+  "bg_position": "postdoc", 
+  "pers_time": "most", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "edu_pub", 
+  "man_time": "little", 
+  "pers_os": "windows", 
+  "timestamp": 1306148252.2262471, 
+  "software_resource": [
+    "vendor"
+  ], 
+  "man_r1": 1, 
+  "sw_psychphys": [
+    "eprime"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "meeg"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)", 
+  "bg_country": "Spain", 
+  "bg_datamod_other": ""
+}

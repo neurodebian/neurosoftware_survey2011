@@ -1,0 +1,48 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 2, 
+  "pers_r4": 2, 
+  "man_hardware": "laptop", 
+  "pers_r3": 0, 
+  "pers_r1": 0, 
+  "man_r5": 3, 
+  "man_r4": 0, 
+  "man_r3": 0, 
+  "man_r2": 0, 
+  "pers_r8": 3, 
+  "man_os": "windows", 
+  "remote_addr": "85.247.x.x", 
+  "sw_general": [
+    "matlab", 
+    "octave", 
+    "python"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "most", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "edu_pub", 
+  "man_time": "always", 
+  "pers_os": "windows", 
+  "timestamp": 1305800850.5848031, 
+  "software_resource": [
+    "matlabcentral", 
+    "pypi", 
+    "pythonbundles", 
+    "sourceforge"
+  ], 
+  "man_r1": 2, 
+  "bg_datamod": [
+    "simulation"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1", 
+  "bg_country": "Portugal", 
+  "bg_datamod_other": ""
+}

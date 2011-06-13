@@ -1,0 +1,54 @@
+{
+  "pers_r6": 0, 
+  "pers_r7": 1, 
+  "pers_r4": 0, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 0, 
+  "pers_r1": 1, 
+  "pers_r8": 3, 
+  "pers_r5": 1, 
+  "man_os": "none", 
+  "remote_addr": "92.231.x.x", 
+  "sw_general": [
+    "maple", 
+    "matlab", 
+    "python", 
+    "shell"
+  ], 
+  "bg_position": "graduate", 
+  "pers_time": "always", 
+  "pers_hardware": "laptop", 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 3.0, 
+  "pers_os": "gentoo", 
+  "timestamp": 1305972967.415606, 
+  "software_resource": [
+    "vendor", 
+    "os", 
+    "matlabcentral"
+  ], 
+  "sw_psychphys": [
+    "psychtoolbox"
+  ], 
+  "bg_datamod": [
+    "behav", 
+    "mri", 
+    "simulation"
+  ], 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "notime", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "none", 
+  "virt_guest_os": "none", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.29 (KHTML, like Gecko) Chrome/12.0.733.0 Safari/534.29", 
+  "sw_dc": [
+    "ipython"
+  ], 
+  "bg_country": "Germany", 
+  "bg_datamod_other": ""
+}

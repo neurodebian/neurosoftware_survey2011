@@ -1,0 +1,77 @@
+{
+  "pers_r6": 3, 
+  "pers_r7": 3, 
+  "pers_r4": 2, 
+  "man_hardware": "workstation", 
+  "pers_r2": 2, 
+  "pers_r3": 0, 
+  "pers_r1": 3, 
+  "man_r5": 3, 
+  "man_r3": 0, 
+  "man_r2": 3, 
+  "pers_r8": 2, 
+  "pers_r5": 3, 
+  "sw_rt": [
+    "xenomai"
+  ], 
+  "virt_r3": 3, 
+  "sw_acq": [
+    "epics"
+  ], 
+  "man_os": "windows", 
+  "sw_electro": [
+    "brainstorm", 
+    "eeglab", 
+    "loreta"
+  ], 
+  "remote_addr": "189.21.x.x", 
+  "sw_img": [
+    "afni", 
+    "brainstools", 
+    "mvpa"
+  ], 
+  "sw_general": [
+    "matlab"
+  ], 
+  "virt_prod": [
+    "virtualbox"
+  ], 
+  "sw_bci": [
+    "openvibe"
+  ], 
+  "bg_position": "researcher", 
+  "pers_time": "most", 
+  "virt_r1": 3, 
+  "bg_datamod": [
+    "ephys"
+  ], 
+  "virt_r2": 3, 
+  "virt_r4": 3, 
+  "bg_employer": "research_pub", 
+  "man_time": "most", 
+  "pers_maint_time": 60.0, 
+  "pers_os": "windows", 
+  "timestamp": 1305803482.0550931, 
+  "software_resource": [
+    "matlabcentral"
+  ], 
+  "man_r1": 3, 
+  "sw_psychphys": [
+    "eprime"
+  ], 
+  "pers_hardware": "workstation", 
+  "bg_developer": "no", 
+  "sw_other_name": "", 
+  "virt_time": "most", 
+  "success": true, 
+  "software_resource_other": "", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "windows", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; www.ASPSimply.com; BTRS26718; GTB6.6; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET4.0C; AskTbF-ET/5.11.3.15590)", 
+  "sw_dc": [
+    "sge"
+  ], 
+  "bg_country": "Brazil", 
+  "bg_datamod_other": ""
+}

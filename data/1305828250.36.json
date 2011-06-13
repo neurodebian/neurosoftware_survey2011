@@ -1,0 +1,87 @@
+{
+  "pers_r6": 1, 
+  "pers_r7": 3, 
+  "pers_r4": 3, 
+  "man_hardware": "none", 
+  "pers_r2": 3, 
+  "pers_r3": 2, 
+  "pers_r1": 1, 
+  "man_r5": 0, 
+  "man_r4": 3, 
+  "man_r3": 0, 
+  "man_r2": 0, 
+  "pers_r8": 3, 
+  "pers_r5": 3, 
+  "virt_r3": 1, 
+  "man_os": "none", 
+  "sw_other": "othersw", 
+  "remote_addr": "161.46.x.x", 
+  "sw_img": [
+    "brainvoyager", 
+    "fsl", 
+    "freesurfer", 
+    "mricron", 
+    "spm"
+  ], 
+  "sw_general": [
+    "cpp", 
+    "fortran", 
+    "idl", 
+    "java", 
+    "matlab", 
+    "perl", 
+    "r", 
+    "spss", 
+    "shell"
+  ], 
+  "virt_prod": [
+    "vmware"
+  ], 
+  "bg_position": "professor", 
+  "pers_time": "most", 
+  "virt_r1": 2, 
+  "bg_datamod": [
+    "mri", 
+    "meeg", 
+    "ephys"
+  ], 
+  "virt_r2": 2, 
+  "virt_r4": 0, 
+  "bg_employer": "edu_pub", 
+  "man_time": "notime", 
+  "pers_maint_time": 6.0, 
+  "pers_os": "windows", 
+  "sw_electro": [
+    "besa", 
+    "brainstorm", 
+    "brainsuite", 
+    "eeglab", 
+    "elekta", 
+    "fieldtrip", 
+    "mne"
+  ], 
+  "timestamp": 1305828250.364888, 
+  "software_resource": [
+    "matlabcentral", 
+    "nitrc", 
+    "sourceforge", 
+    "otherres"
+  ], 
+  "man_r1": 0, 
+  "sw_psychphys": [
+    "eprime", 
+    "presentation"
+  ], 
+  "pers_hardware": "workstation", 
+  "bg_developer": "no", 
+  "sw_other_name": "my overall time is actually split 40% Ubuntu (non-virtual; separate workstation), 60% Windows", 
+  "virt_time": "little", 
+  "success": true, 
+  "software_resource_other": "various freeware through the web", 
+  "virt_host_os": "windows", 
+  "virt_guest_os": "ubuntu", 
+  "virt_other": "", 
+  "user_agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.13 (KHTML, like Gecko) Chrome/9.0.597.107 Safari/534.13", 
+  "bg_country": "United States", 
+  "bg_datamod_other": ""
+}
