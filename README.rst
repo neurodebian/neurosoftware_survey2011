@@ -28,10 +28,9 @@ This work is licensed under the terms of the `CreativeCommons
 Attribution-ShareAlike 3.0`_ license. Please attribute by citing the following
 publication:
 
-  Hanke, M. & Halchenko, Y. O. (2011). `Neuroscience runs on GNU/Linux`_.
-  *Frontiers in Neuroinformatics*.
-
-
+  Hanke, M. & Halchenko, Y. O. (2011). `Neuroscience runs on GNU/Linux
+  <http://www.frontiersin.org/Neuroinformatics/10.3389/fninf.2011.00008/full>`_.
+  *Frontiers in Neuroinformatics, 5:8*.
 
 .. _CreativeCommons Attribution-ShareAlike 3.0: http://creativecommons.org/licenses/by-sa/3.0/
 .. _Neuroscience runs on GNU/Linux: 
